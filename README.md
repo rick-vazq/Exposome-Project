@@ -27,7 +27,8 @@ This includes the following functions that are used to preprocess the Google Tak
 This includes functions that are used to calculate the final air quality value for the minute to minute Google Takeout data.
 
 - Air Quality data is only in hours and so we interpolate for the minutes fidelity to match the Google Takeout Data.
-- Only the necessary timestamps that are included in the google takeout are interpolated to reduce computational complexity (and storage space). NOTE: For one month of Air quality data, one type reading type ($NO_{2}$) and for all stations, the interpolated data (from hours to minutes) was an almost 500MB .csv file.
+- Only the necessary timestamps that are included in the google takeout are interpolated to reduce computational complexity (and storage space).
+   - NOTE: For one month of Air quality data, one type reading type ($NO_{2}$) and for all stations, the interpolated data (from hours to minutes) was an almost 500MB .csv file.
 - 
    
 
