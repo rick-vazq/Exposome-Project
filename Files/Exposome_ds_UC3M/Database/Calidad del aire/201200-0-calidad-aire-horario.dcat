@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<rdf:RDF
+			 xmlns:foaf="http://xmlns.com/foaf/0.1/"
+			 xmlns:skos="http://datos.gob.es/kos/sector-publico/sector/"
+			 xmlns:dcat="http://www.w3.org/ns/dcat#"
+			 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+			 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			 xmlns:dct="http://purl.org/dc/terms/"
+			 xmlns:dc="http://purl.org/dc/elements/1.1/"
+			 xmlns:time="http://www.w3.org/2006/time#"
+			 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+			 xmlns:j.0="http://www.w3.org/1999/xhtml/vocab#"
+			 xmlns:j.1="http://a9.com/-/spec/opensearch/1.1/"
+			 xmlns:api="http://purl.org/linked-data/api/vocab#">
+			<dcat:Catalog rdf:about="https://datos.madrid.es/egob/catalogo">
+			
+				
+					<dct:title xml:lang="es">Catálogo de datos abiertos del Ayuntamiento de Madrid</dct:title>
+					<dct:description xml:lang="es">
+						Catálogo de datos abiertos del Ayuntamiento de Madrid
+					</dct:description>
+					<dc:language>es</dc:language>
+					<foaf:homepage rdf:resource="https://datos.madrid.es"/>
+					<dct:license rdf:resource="https://datos.madrid.es/egob/catalogo/aviso-legal"/>
+					<dct:identifier>https://datos.madrid.es/egob/catalogo</dct:identifier>
+					<dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector/" />
+					<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/L01280796"/>
+					<dct:extent>
+						<dct:SizeOrDuration>
+							<rdf:value rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</rdf:value>
+							<rdfs:label xml:lang="es">1</rdfs:label>
+						</dct:SizeOrDuration>
+					</dct:extent>
+					
+					
+					
+				
+				
+				
+					<dcat:dataset>
+						<dcat:Dataset rdf:about="https://datos.madrid.es/egob/catalogo/201200-0-calidad-aire-horario">
+							<dct:identifier>https://datos.madrid.es/egob/catalogo/201200-0-calidad-aire-horario</dct:identifier>
+							<dct:title xml:lang="es">Calidad del aire. Datos horarios desde 2001</dct:title>
+							<dct:description xml:lang="es"><![CDATA[El Sistema Integral de la Calidad del Aire del Ayuntamiento de Madrid permite conocer en cada momento los niveles de contaminación atmosférica en el municipio. En este conjunto de datos puede obtener la información recogida por las estaciones de control de calidad del aire, con los datos horarios por anualidades desde 2001. (En el año en curso la información se actualizará mensualmente).   Los datos horarios de las magnitudes corresponden a la media aritmética de los valores diezminutales que se registran cada hora.   En este portal tambien están disponibles otros conjuntos de datos relacionados con la calidad del aire:      Calidad del aire: Datos en tiempo real     Calidad del aire. Datos diarios desde 2001     Calidad del aire: Estaciones de control      Asímismo, puedes encontrar más información sobre estos datos en el  Portal de transparencia &gt; Aire .]]></dct:description>
+							<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente" />
+							<dcat:keyword xml:lang="es">contaminación contaminantes , TranspaMedioAmbiente</dcat:keyword>					
+							<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-09T13:41:59</dct:issued>
+							<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-13T13:05:13</dct:modified>
+							
+							
+								<dct:accrualPeriodicity>
+									<dct:Frequency>
+										<rdfs:label>mensual</rdfs:label>
+										<rdf:value>
+											<time:DurationDescription>
+												<rdfs:label>mensual</rdfs:label>
+												<time:months rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</time:months>
+											</time:DurationDescription>
+										</rdf:value>
+									</dct:Frequency>
+								</dct:accrualPeriodicity>
+							
+							<dc:language>es</dc:language>
+							<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/L01280796"/>
+							<dct:license rdf:resource="https://datos.madrid.es/egob/catalogo/aviso-legal"/>
+							
+							
+							
+							<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2024</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306320-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>3646464</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2023</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306319-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5067776</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2022</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306318-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5489664</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2021</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306317-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5673984</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2020</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306316-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6117376</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2019</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-42-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>7519232</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2018</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306314-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6321152</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2017</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-10306313-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6595584</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2016</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-28-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6529024</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2015</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-27-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6581248</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2014</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-26-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6406144</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2013</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-23-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6453248</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2012</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-22-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6717440</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2011</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-21-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6871040</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2010</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-20-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6620160</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2009</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-19-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5121024</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2008</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-18-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5167104</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2007</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-17-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5206016</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2006</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-16-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5379072</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2005</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-15-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5673984</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2004</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-14-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5926912</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2003</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-13-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5961728</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2002</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-30-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>4963328</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">2001</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/201200-29-calidad-aire-horario.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>5152768</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+
+						</dcat:Dataset>
+					</dcat:dataset>
+				
+				
+				
+					<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-12T09:00:00</dct:issued>
+					
+								
+				
+			</dcat:Catalog>			 
+		</rdf:RDF>

@@ -1,0 +1,408 @@
+TEMA;TEMA NOMBRE;ENTIDAD;ENTIDAD NOMBRE;ELEMENTO;ELEMENTO NOMBRE;NOMBRE;NIVEL
+1;Red Topográfica;9;Cuadrícula UTM 1000;344;Cuadricula UTM 1000;01_utm_1000_p.shp;01009344
+1;Red Topográfica;8;Vértice de la Red de Nivelación;343;Símbolo de Vértice de Red de Nivelación;01_vertice_nivelacion_a.shp;01008343
+1;Red Topográfica;7;Vértice de la Red Topográfica;5;Símbolo de Vértice;01_rtm_vertices_a.shp;01007005
+2;Divisiones administrativas;12;Barrio Municipal;346;Límite de barrio Municipal;02_barrio_l.shp;02012346
+2;Divisiones administrativas;12;Barrio Municipal;376;Rotulación de barrios por hojas 1000;02_barrio_1000_a.shp;02012376
+2;Divisiones administrativas;11;Distrito Municipal;345;Límite de distrito;02_distrito_l.shp;02011345
+2;Divisiones administrativas;11;Distrito Municipal;375;Rótulo de distrito 1000;02_distrito_1000_a.shp;02011375
+2;Divisiones administrativas;10;Límite de Municipio;6;Línea de término municipal;02_limite_municipio_l.shp;02010006
+2;Divisiones administrativas;10;Límite de Municipio;442;Texto de municipio;02_texto_municipio_a.shp;02010442
+2;Divisiones administrativas;16;Límite de Término Municipal colindante;17;Línea de término municipal colindante;02_municipios_colindantes_l.shp;02016017
+2;Divisiones administrativas;16;Límite de Término Municipal colindante;377;Rótulo de término municipal colindante por Hoja 1000;02_colindante_1000_a.shp;02016377
+2;Divisiones administrativas;15;Mojón de Término Municipal;16;Símbolo de Mojon de término municipal;02_mojon_termino_pt.shp;02015016
+3;Edificaciones, construcciones y cerramientos;17;Alambrada ó Tela metálica;19;Línea de alambrada;03_alambrada_l.shp;03017019
+3;Edificaciones, construcciones y cerramientos;162;Auxiliar de elemento constructivo y no constructivo;389;Linea auxiliar de elemento constructivo;03_auxiliar_constructivo_l.shp;03162389
+3;Edificaciones, construcciones y cerramientos;162;Auxiliar de elemento constructivo y no constructivo;390;Línea auxiliar de elemento no constructivo;03_auxiliar_no_constructivo_l.shp;03162390
+3;Edificaciones, construcciones y cerramientos;161;Barandilla;387;Línea de barandilla;03_barandilla_l.shp;03161387
+3;Edificaciones, construcciones y cerramientos;18;Cerramiento sin especificar;20;Línea de cerramiento sin especificar;03_cerramiento_sin_especificar_l.shp;03018020
+3;Edificaciones, construcciones y cerramientos;31;Construcción permanente en la vía;749;Etiqueta Const Permanente en Vía Pública restitución;03_construccion_permanente_en_via_pt.shp;03031749
+3;Edificaciones, construcciones y cerramientos;31;Construcción permanente en la vía;42;Línea de construcción permanente en vía;03_construccion_permanente_via_l.shp;03031042
+3;Edificaciones, construcciones y cerramientos;31;Construcción permanente en la vía;43;Recinto de construccion permanente en vía;03_construccion_permanente_en_via_p.shp;03031043
+3;Edificaciones, construcciones y cerramientos;33;Depósito a nivel;746;Etiqueta de depósito a nivel restitución;03_deposito_nivel_centroide_pt.shp;03033746
+3;Edificaciones, construcciones y cerramientos;33;Depósito a nivel;306;Línea de depósito a nivel;03_deposito_nivel_l.shp;03033306
+3;Edificaciones, construcciones y cerramientos;33;Depósito a nivel;47;Recinto de depósito a nivel;03_deposito_nivel_p.shp;03033047
+3;Edificaciones, construcciones y cerramientos;34;Depósito elevado;745;Etiqueta de depósito elevado restitución;03_deposito_elevado_pt.shp;03034745
+3;Edificaciones, construcciones y cerramientos;34;Depósito elevado;307;Línea de depósito elevado;03_deposito_elevado_l.shp;03034307
+3;Edificaciones, construcciones y cerramientos;34;Depósito elevado;48;Recinto de depósito elevado;03_deposito_elevado_p.shp;03034048
+3;Edificaciones, construcciones y cerramientos;28;Edificio;39;Línea de edificio de separación de altura y medianería;03_edificio_medianeria_l.shp;03028039
+3;Edificaciones, construcciones y cerramientos;28;Edificio;38;Línea de edificio en vuelo y soportales;03_edificio_vuelo_soportales_l.shp;03028038
+3;Edificaciones, construcciones y cerramientos;28;Edificio;36;Línea de fachada de edificio;03_edificio_fachada_l.shp;03028036
+3;Edificaciones, construcciones y cerramientos;28;Edificio;184;Número de plantas en zonas sin parcelario catastral;03_numero_plantas_zonas_sin_catastro_a.shp;03028184
+3;Edificaciones, construcciones y cerramientos;28;Edificio;37;Recinto de edificio;03_edificio_p.shp;03028037
+3;Edificaciones, construcciones y cerramientos;21;Edificio en construcción;23;Línea de edificio en construcción;03_edificio_en_construccion_l.shp;03021023
+3;Edificaciones, construcciones y cerramientos;21;Edificio en construcción;24;Recinto de edificio en construcción;03_edificio_en_construccion_p.shp;03021024
+3;Edificaciones, construcciones y cerramientos;21;Edificio en construcción;25;Rótulo de edificio en construcción;03_edificio_en_construccion_a.shp;03021025
+3;Edificaciones, construcciones y cerramientos;22;Edificio indefinido;26;Línea de edificio indefinido;03_edificio_indefinido_l.shp;03022026
+3;Edificaciones, construcciones y cerramientos;22;Edificio indefinido;28;Póligono de edificio indefinido;03_edificio_indefinido_p.shp;03022028
+3;Edificaciones, construcciones y cerramientos;22;Edificio indefinido;29;Rótulo de edificio indefinido;03_edificio_indefinido_a.shp;03022029
+3;Edificaciones, construcciones y cerramientos;23;Escalera;27;Línea de escalera;03_escalera_l.shp;03023027
+3;Edificaciones, construcciones y cerramientos;25;Marquesina;738;Etiqueta marquesina restitución;03_marquesina_centroide_pt.shp;03025738
+3;Edificaciones, construcciones y cerramientos;25;Marquesina;31;Línea de marquesina;03_marquesina_l.shp;03025031
+3;Edificaciones, construcciones y cerramientos;25;Marquesina;32;Recinto de marquesina;03_marquesina_p.shp;03025032
+3;Edificaciones, construcciones y cerramientos;196;Marquesina autobus;789;Línea de marquesina de autobus;03_marquesina_bus_l.shp;03196789
+3;Edificaciones, construcciones y cerramientos;196;Marquesina autobus;790;Recinto de marquesina autobus;03_marquesina_bus_p.shp;03196790
+3;Edificaciones, construcciones y cerramientos;19;Muro de contención;21;Línea de muro de contención;03_muro_contencion_l.shp;03019021
+3;Edificaciones, construcciones y cerramientos;138;Muro, pared, tapia;310;Línea de muro, pared o tapia;03_muro_pared_tapia_l.shp;03138310
+3;Edificaciones, construcciones y cerramientos;35;Paso subterráneo o Túnel;49;Línea de entrada/boca de paso subterráneo o túnel;03_paso_subterraneo_l.shp;03035049
+3;Edificaciones, construcciones y cerramientos;35;Paso subterráneo o Túnel;326;Línea de trazado de paso subterráneo o túnel;03_trazado_tunel_l.shp;03035326
+3;Edificaciones, construcciones y cerramientos;32;Patio;744;Etiqueta de patio restitución;03_patio_centroide_pt.shp;03032744
+3;Edificaciones, construcciones y cerramientos;32;Patio;45;Línea de patio;03_patio_l.shp;03032045
+3;Edificaciones, construcciones y cerramientos;32;Patio;46;Recinto de patio;03_patio_p.shp;03032046
+3;Edificaciones, construcciones y cerramientos;32;Patio;349;Rótulo de patio;03_patio_a.shp;03032349
+3;Edificaciones, construcciones y cerramientos;202;Pontón o Alcantarilla;799;Línea de pontón o alcantarilla;03_ponton_alcantarilla_l.shp;03202799
+3;Edificaciones, construcciones y cerramientos;26;Porche, caseta, cobertizo;737;Etiqueta porche restitución;03_porche_centroide_pt.shp;03026737
+3;Edificaciones, construcciones y cerramientos;26;Porche, caseta, cobertizo;33;Línea de porche, caseta, cobertizo;03_porche_caseta_cobertizo_l.shp;03026033
+3;Edificaciones, construcciones y cerramientos;26;Porche, caseta, cobertizo;34;Recinto de porche, caseta, cobertizo;03_porche_caseta_cobertizo_p.shp;03026034
+3;Edificaciones, construcciones y cerramientos;24;Presa de Embalse;30;Línea de presa;03_presa_l.shp;03024030
+3;Edificaciones, construcciones y cerramientos;24;Presa de Embalse;399;Recinto de presa de embalse;03_presa_embalse_p.shp;03024399
+3;Edificaciones, construcciones y cerramientos;29;Puente de obra;40;Línea de puente de obra;03_puente_obra_l.shp;03029040
+3;Edificaciones, construcciones y cerramientos;30;Quiosco;752;Etiqueta quiosco restitución;03_quiosco_obra_centroide_pt.shp;03030752
+3;Edificaciones, construcciones y cerramientos;30;Quiosco;41;Línea de quiosco;03_quiosco_obra_l.shp;03030041
+3;Edificaciones, construcciones y cerramientos;30;Quiosco;44;Recinto de quiosco de obra;03_quiosco_obra_p.shp;03030044
+3;Edificaciones, construcciones y cerramientos;159;Solar;385;Rótulo de solar;03_solar_a.shp;03159385
+3;Edificaciones, construcciones y cerramientos;160;Valla o cerramiento ligero;386;Línea de Valla o cerramiento ligero.;03_valla_l.shp;03160386
+3;Edificaciones, construcciones y cerramientos;20;Verja;22;Línea de verja;03_verja_l.shp;03020022
+3;Edificaciones, construcciones y cerramientos;36;Zonas de Obras;350;Delimitación de zona de obras;03_zona_obras_l.shp;03036350
+3;Edificaciones, construcciones y cerramientos;36;Zonas de Obras;50;Recinto de zona de obras;03_obras_p.shp;03036050
+3;Edificaciones, construcciones y cerramientos;36;Zonas de Obras;351;Rótulo de zona de obras;03_zona_obras_a.shp;03036351
+4;Edificios singulares;38;Edificio monumental;355;Demititación de edificio monumental;04_edificio_monumental_l.shp;04038355
+4;Edificios singulares;38;Edificio monumental;53;Recinto de edificio monumental;04_edificio_monumental_p.shp;04038053
+4;Edificios singulares;38;Edificio monumental;54;Rótulo de edificio monumental;04_edificio_monumental_a.shp;04038054
+4;Edificios singulares;40;Edificio Municipal;354;Delimitación de edificio municipal;04_edificio_municipal_l.shp;04040354
+4;Edificios singulares;40;Edificio Municipal;55;Recinto de edificio municipal;04_edificio_municipal_p.shp;04040055
+4;Edificios singulares;40;Edificio Municipal;56;Rótulo de edificio municipal;04_edificio_municipal_a.shp;04040056
+4;Edificios singulares;39;Edificio Público no Municipal;353;Delimitación de edificio público no municipal;04_edificio_no_municipal_l.shp;04039353
+4;Edificios singulares;39;Edificio Público no Municipal;57;Recinto de edificio público no municipal;04_edificio_no_municipal_p.shp;04039057
+4;Edificios singulares;39;Edificio Público no Municipal;58;Rótulo de edificio público no municipal;04_edificio_no_municipal_a.shp;04039058
+4;Edificios singulares;37;Edificio singular;352;Delimitación de edificio singular;04_edificio_singular_l.shp;04037352
+4;Edificios singulares;37;Edificio singular;51;Recinto de edificio singular;04_edificio_singular_p.shp;04037051
+4;Edificios singulares;37;Edificio singular;52;Rótulo de edificio singular;04_edificio_singular_a.shp;04037052
+4;Edificios singulares;176;Edificio singular comercial;694;Recinto edificio singular comercial;04_edificio_singular_comercial_p.shp;04176694
+4;Edificios singulares;176;Edificio singular comercial;695;Texto de edificio singular comercial;04_edificio_comercial_a.shp;04176695
+4;Edificios singulares;177;Edificio singular cultural / espectáculos;701;Recinto de edificio singular cultural / espectáculos;04_edificio_cultural_p.shp;04177701
+4;Edificios singulares;177;Edificio singular cultural / espectáculos;696;Texto de edificio singular cultural / espectáculos;04_edificio_singular_cultural_a.shp;04177696
+4;Edificios singulares;178;Edificio singular educativo;702;Polígono de edificio singular educativo;04_edificio_educativo_p.shp;04178702
+4;Edificios singulares;178;Edificio singular educativo;697;Texto edificio singular educativo;04_edificio_educativo_a.shp;04178697
+4;Edificios singulares;175;Edificio singular empresarial;693;Recinto de edificio singular empresarial;04_edificio_singular_empresarial_p.shp;04175693
+4;Edificios singulares;175;Edificio singular empresarial;692;Texto edificio singular empresarial;04_edificio_singular_empresarial_a.shp;04175692
+4;Edificios singulares;180;Edificio Singular Público;700;Polígono de edificio singular público;04_edificio_publico_p.shp;04180700
+4;Edificios singulares;180;Edificio Singular Público;699;Texto edificio singular público;04_edificio_publico_a.shp;04180699
+4;Edificios singulares;174;Edificio singular religioso;690;Recinto edificio singular religioso;04_edificio_religioso_p.shp;04174690
+4;Edificios singulares;174;Edificio singular religioso;691;Texto de edificio singular religioso;04_edificio_religioso_a.shp;04174691
+4;Edificios singulares;179;Otros edificios singulares;698;Texto de otros edificios singulares;04_otros_edificios_singulares_a.shp;04179698
+5;Parcelario;41;Manzana Catastral Integrada;186;Línea de manzana catastral integrada;05_manzana_l.shp;05041186
+5;Parcelario;41;Manzana Catastral Integrada;437;Línea de manzana de acceso a metro o ferrocarril;05_manzana_acceso_metro_l.shp;05041437
+5;Parcelario;41;Manzana Catastral Integrada;421;Línea de manzana y acceso adaptado o vado;05_manzana_acceso_adaptado_vado_l.shp;05041421
+5;Parcelario;41;Manzana Catastral Integrada;428;Línea de manzana y acequia;05_manzana_acequia_l.shp;05041428
+5;Parcelario;41;Manzana Catastral Integrada;419;Línea de manzana y acera;05_manzana_acera_l.shp;05041419
+5;Parcelario;41;Manzana Catastral Integrada;400;Línea de manzana y alambrada;05_manzana_alambrada_l.shp;05041400
+5;Parcelario;41;Manzana Catastral Integrada;436;Línea de manzana y andén;05_manzana_anden_l.shp;05041436
+5;Parcelario;41;Manzana Catastral Integrada;425;Línea de manzana y autopista, autovía en construcción;05_manzana_autopista_autovia_en_construccion_l.shp;05041425
+5;Parcelario;41;Manzana Catastral Integrada;420;Línea de manzana y bordillo interior;05_manzana_bordillo_l.shp;05041420
+5;Parcelario;41;Manzana Catastral Integrada;426;Línea de manzana y camino, pista;05_manzana_camino_pista_l.shp;05041426
+5;Parcelario;41;Manzana Catastral Integrada;429;Línea de manzana y canal;05_manzana_canal_l.shp;05041429
+5;Parcelario;41;Manzana Catastral Integrada;427;Línea de manzana y cañada;05_manzana_cañada_l.shp;05041427
+5;Parcelario;41;Manzana Catastral Integrada;662;Línea de manzana y carretera;05_manzana_carretera_l.shp;05041662
+5;Parcelario;41;Manzana Catastral Integrada;438;Línea de manzana y carril bici;05_manzana_carril_bici_l.shp;05041438
+5;Parcelario;41;Manzana Catastral Integrada;401;Línea de manzana y cerramiento sin especificar;05_manzana_cerramiento_sin_especificar_l.shp;05041401
+5;Parcelario;41;Manzana Catastral Integrada;416;Línea de manzana y construcción permanente en la vía;05_manzana_construccion_permanente_via_l.shp;05041416
+5;Parcelario;41;Manzana Catastral Integrada;656;Línea de manzana y depósito a nivel;05_manzana_deposito_nivel_l.shp;05041656
+5;Parcelario;41;Manzana Catastral Integrada;657;Línea de manzana y depósito elevado;05_manzana_deposito_elevado_l.shp;05041527
+5;Parcelario;41;Manzana Catastral Integrada;413;Línea de manzana y edificio de separación de altura y medianería;05_manzana_edificio_separacion_altura_l.shp;05041413
+5;Parcelario;41;Manzana Catastral Integrada;404;Línea de manzana y edificio en construcción;05_manzana_edificio_en_construccion_l.shp;05041404
+5;Parcelario;41;Manzana Catastral Integrada;412;Línea de manzana y edificio en vuelo y soportales;05_manzana_edificio_soportales_vuelo_l.shp;05041412
+5;Parcelario;41;Manzana Catastral Integrada;405;Línea de manzana y edificio indefinido;05_manzana_edificio_indefinido_l.shp;05041405
+5;Parcelario;41;Manzana Catastral Integrada;665;Línea de manzana y edificio monumental;05_manzana_edificio_monumental_l.shp;05041665
+5;Parcelario;41;Manzana Catastral Integrada;667;Línea de manzana y elemeno auxiliar constructivo;05_manzana_elemento_auxiliar_constructivo_l.shp;05041667
+5;Parcelario;41;Manzana Catastral Integrada;668;Línea de manzana y elemento auxiliar no constructivo;05_manzana_elemento_auxiliar_no_constructivo_l.shp;05041668
+5;Parcelario;41;Manzana Catastral Integrada;430;Línea de manzana y embalse;05_manzana_embalse_l.shp;05041430
+5;Parcelario;41;Manzana Catastral Integrada;418;Línea de manzana y entraba/boca de paso subterráneo;05_manzana_entrada_paso_subterraneo_l.shp;05041418
+5;Parcelario;41;Manzana Catastral Integrada;406;Línea de manzana y escalera;05_manzana_escalera_l.shp;05041406
+5;Parcelario;41;Manzana Catastral Integrada;411;Línea de manzana y fachada de edificio;05_manzana_fachada_l.shp;05041411
+5;Parcelario;41;Manzana Catastral Integrada;424;Línea de manzana y línea de autopista, autovía (límite de asfalto);05_manzana_autopista_autovia_limite_asfalto_l.shp;05041424
+5;Parcelario;41;Manzana Catastral Integrada;408;Línea de manzana y marquesina;05_manzana_marquesina_l.shp;05041408
+5;Parcelario;41;Manzana Catastral Integrada;402;Línea de manzana y muro de contención;05_manzana_muro_contencion_l.shp;05041402
+5;Parcelario;41;Manzana Catastral Integrada;653;Línea de manzana y muro, pared o tapía;05_manzana_muro_pared_tapia_l.shp;05041653
+5;Parcelario;41;Manzana Catastral Integrada;417;Línea de manzana y patio;05_manzana_patio_l.shp;05041417
+5;Parcelario;41;Manzana Catastral Integrada;431;Línea de manzana y piscina o estanque;05_manzana_piscina_estanque_l.shp;05041431
+5;Parcelario;41;Manzana Catastral Integrada;410;Línea de manzana y pista deportiva;05_manzana_pista_deportiva_l.shp;05041410
+5;Parcelario;41;Manzana Catastral Integrada;409;Línea de manzana y porche, caseta, cobertizo;05_manzana_porche_caseta_cobertizo_l.shp;05041409
+5;Parcelario;41;Manzana Catastral Integrada;407;Línea de manzana y presa;05_manzana_presa_l.shp;05041407
+5;Parcelario;41;Manzana Catastral Integrada;414;Línea de manzana y puente de obra;05_manzana_puente_obra_l.shp;05041414
+5;Parcelario;41;Manzana Catastral Integrada;415;Línea de manzana y quiosco de obra;05_manzana_quiosco_obra_l.shp;05041415
+5;Parcelario;41;Manzana Catastral Integrada;423;Línea de manzana y rampa, pasarela peatonal;05_manzana_rampa_pasarela_peatonal_l.shp;05041423
+5;Parcelario;41;Manzana Catastral Integrada;433;Línea de manzana y río, arroyo;05_manzana_rio_arroyo_l.shp;05041433
+5;Parcelario;41;Manzana Catastral Integrada;441;Línea de manzana y senda;05_manzana_senda_l.shp;05041441
+5;Parcelario;41;Manzana Catastral Integrada;439;Línea de manzana y seto;05_manzana_seto_l.shp;05041439
+5;Parcelario;41;Manzana Catastral Integrada;434;Línea de manzana y vaguada, barranco;05_manzana_vaguada_barranco_l.shp;05041434
+5;Parcelario;41;Manzana Catastral Integrada;403;Línea de manzana y verja;05_manzana_verja_l.shp;05041403
+5;Parcelario;41;Manzana Catastral Integrada;435;Línea de manzana y vía;05_manzana_via_l.shp;05041435
+5;Parcelario;41;Manzana Catastral Integrada;440;Línea de manzana y zona ajardinada;05_manzana_zona_ajardinada_l.shp;05041440
+5;Parcelario;41;Manzana Catastral Integrada;675;Línea de manzana y zona de uso de suelo definido;05_manzana_uso_suelo_definido_l.shp;05041545
+5;Parcelario;41;Manzana Catastral Integrada;364;Recinto de manzana;05_manzana_p.shp;05041364
+5;Parcelario;41;Manzana Catastral Integrada;187;Rótulo de manzana catastral;05_manzana_a.shp;05041187
+5;Parcelario;173;Manzana rústica;684;Recinto de manzana rústica;05_manzana_rustica_p.shp;05173684
+5;Parcelario;42;Parcela Catastral Integrada;522;Línea de parcela de acceso a metro o ferrocarril;05_parcela_acceso_metro_l.shp;05042522
+5;Parcelario;42;Parcela Catastral Integrada;253;Línea de parcela no materializada;05_parcela_no_materializada_l.shp;05042253
+5;Parcelario;42;Parcela Catastral Integrada;506;Línea de parcela y acceso adaptado o vado;05_parcela_acceso_adaptado_vado_l.shp;05042506
+5;Parcelario;42;Parcela Catastral Integrada;513;Línea de parcela y acequia;05_parcela_acequia_l.shp;05042513
+5;Parcelario;42;Parcela Catastral Integrada;504;Línea de parcela y acera;05_parcela_acera_l.shp;05042504
+5;Parcelario;42;Parcela Catastral Integrada;485;Línea de parcela y alambrada;05_parcela_alambrada_l.shp;05042485
+5;Parcelario;42;Parcela Catastral Integrada;521;Línea de parcela y andén;05_parcela_anden_l.shp;05042521
+5;Parcelario;42;Parcela Catastral Integrada;510;Línea de parcela y autopista, autovía en construcción;05_parcela_autopista_autovia_en_construccion_l.shp;05042510
+5;Parcelario;42;Parcela Catastral Integrada;505;Línea de parcela y bordillo interior;05_parcela_bordillo_interior_l.shp;05042505
+5;Parcelario;42;Parcela Catastral Integrada;511;Línea de parcela y camino, pista;05_parcela_camino_pista_l.shp;05042511
+5;Parcelario;42;Parcela Catastral Integrada;514;Línea de parcela y canal;05_parcela_canal_l.shp;05042514
+5;Parcelario;42;Parcela Catastral Integrada;495;Línea de parcela y cancha deportiva;05_parcela_cancha_deportiva_l.shp;05042495
+5;Parcelario;42;Parcela Catastral Integrada;512;Línea de parcela y cañada;05_parcela_cañada_l.shp;05042512
+5;Parcelario;42;Parcela Catastral Integrada;663;Línea de parcela y carretera;05_parcela_carretera_l.shp;05042663
+5;Parcelario;42;Parcela Catastral Integrada;523;Línea de parcela y carril bici;05_parcela_carril_bici_l.shp;05042523
+5;Parcelario;42;Parcela Catastral Integrada;486;Línea de parcela y cerramiento sin especificar;05_parcela_cerramiento_sin_especificar_l.shp;05042486
+5;Parcelario;42;Parcela Catastral Integrada;501;Línea de parcela y construcción permanente en la vía;05_parcela_construccion_permanente_via_l.shp;05042501
+5;Parcelario;42;Parcela Catastral Integrada;658;Línea de parcela y depósito a nivel;05_parcela_deposito_nivel_l.shp;05042658
+5;Parcelario;42;Parcela Catastral Integrada;659;Línea de parcela y depósito elevado;05_parcela_deposito_elevado_l.shp;05042659
+5;Parcelario;42;Parcela Catastral Integrada;498;Línea de parcela y edificio de separación de altura y medianería;05_parcela_edifcio_medianeria_l.shp;05042498
+5;Parcelario;42;Parcela Catastral Integrada;489;Línea de parcela y edificio en construcción;05_parcela_edificio_en_construccion_l.shp;05042489
+5;Parcelario;42;Parcela Catastral Integrada;497;Línea de parcela y edificio en vuelo y soportales;05_parcela_vuelo_soportal_l.shp;05042497
+5;Parcelario;42;Parcela Catastral Integrada;490;Línea de parcela y edificio indefinido;05_parcela_edificio_indefinido_l.shp;05042490
+5;Parcelario;42;Parcela Catastral Integrada;666;Línea de parcela y edificio monumental;05_parcela_edificio_monumental_l.shp;05042666
+5;Parcelario;42;Parcela Catastral Integrada;669;Línea de parcela y elemento auxiliar constructivo;05_parcela_elemento_auxiliar_constructivo_l.shp;05042669
+5;Parcelario;42;Parcela Catastral Integrada;670;Línea de parcela y elemento auxiliar no constructivo;05_parcela_elemento_auxiliar_no_constructivo_l.shp;05042670
+5;Parcelario;42;Parcela Catastral Integrada;515;Línea de parcela y embalse;05_parcela_embalse_l.shp;05042515
+5;Parcelario;42;Parcela Catastral Integrada;503;Línea de parcela y entraba/boca de paso subterráneo;05_parcela_entrada_paso_subterraneo_l.shp;05042503
+5;Parcelario;42;Parcela Catastral Integrada;491;Línea de parcela y escalera;05_parcela_escalera_l.shp;05042491
+5;Parcelario;42;Parcela Catastral Integrada;496;Línea de parcela y fachada de edificio;05_parcela_fachada_l.shp;05042496
+5;Parcelario;42;Parcela Catastral Integrada;509;Línea de parcela y línea de autopista, autovía (límite de asfalto);05_parcela_autopista_autovia_limite_asfalto_l.shp;05042509
+5;Parcelario;42;Parcela Catastral Integrada;493;Línea de parcela y marquesina;05_parcela_marquesina_l.shp;05042493
+5;Parcelario;42;Parcela Catastral Integrada;487;Línea de parcela y muro de contención;05_parcela_muro_contencion_l.shp;05042487
+5;Parcelario;42;Parcela Catastral Integrada;654;Línea de parcela y muro, pared o tapia;05_parcela_muro_pared_tapia_l.shp;05042654
+5;Parcelario;42;Parcela Catastral Integrada;502;Línea de parcela y patio;05_parcela_patio_l.shp;05042502
+5;Parcelario;42;Parcela Catastral Integrada;516;Línea de parcela y piscina o estanque;05_parcela_piscina_estanque_l.shp;05042516
+5;Parcelario;42;Parcela Catastral Integrada;507;Línea de parcela y pista de aeropuerto;05_parcela_pista_aeropuerto_l.shp;05042507
+5;Parcelario;42;Parcela Catastral Integrada;494;Línea de parcela y porche, caseta, cobertizo;05_parcela_porche_caseta_cobertizo_l.shp;05042494
+5;Parcelario;42;Parcela Catastral Integrada;492;Línea de parcela y presa;05_parcela_presa_l.shp;05042492
+5;Parcelario;42;Parcela Catastral Integrada;499;Línea de parcela y puente de obra;05_parcela_puente_obra_l.shp;05042499
+5;Parcelario;42;Parcela Catastral Integrada;500;Línea de parcela y quiosco de obra;05_parcela_quiosco_obra_l.shp;05042500
+5;Parcelario;42;Parcela Catastral Integrada;508;Línea de parcela y rampa, pasarela peatonal;05_parcela_pasarela_peatonal_l.shp;05042508
+5;Parcelario;42;Parcela Catastral Integrada;518;Línea de parcela y río, arroyo;05_parcela_rio_arroyo_l.shp;05042518
+5;Parcelario;42;Parcela Catastral Integrada;526;Línea de parcela y senda;05_parcela_senda_l.shp;05042526
+5;Parcelario;42;Parcela Catastral Integrada;524;Línea de parcela y seto;05_parcela_seto_l.shp;05042524
+5;Parcelario;42;Parcela Catastral Integrada;519;Línea de parcela y vaguada, barranco;05_parcela_vaguada_barranco_l.shp;05042519
+5;Parcelario;42;Parcela Catastral Integrada;488;Línea de parcela y verja;05_parcela_verja_l.shp;05042488
+5;Parcelario;42;Parcela Catastral Integrada;520;Línea de parcela y vía;05_parcela_via_l.shp;05042520
+5;Parcelario;42;Parcela Catastral Integrada;525;Línea de parcela y zona ajardinada;05_parcela_zona_ajardinada_l.shp;05042525
+5;Parcelario;42;Parcela Catastral Integrada;676;Línea de parcela y zona de uso de suelo definido;05_parcela_zona_uso_suelo_definido_l.shp;05042676
+5;Parcelario;42;Parcela Catastral Integrada;224;Recinto de parcela catastral integrada;05_parcela_p.shp;05042224
+5;Parcelario;42;Parcela Catastral Integrada;226;Rótulo de parcela catastral integrada;05_parcela_a.shp;05042226
+5;Parcelario;43;Subparcela Catastral Integrada;682;Alturas Catastro Filtradas GMU;05_alturas_gmu_a.shp;05043682
+5;Parcelario;43;Subparcela Catastral Integrada;683;Alturas Catastro Filtradas GMU fuera de Edificación;05_alturas_cadic_fuera_edif_a.shp;05043683
+5;Parcelario;43;Subparcela Catastral Integrada;648;Línea de subparcela de acceso a metro o ferrocarril;05_subparcela_acceso_metro_l.shp;05043648
+5;Parcelario;43;Subparcela Catastral Integrada;362;Línea de subparcela de edificación en construcción;05_subparcela_en_construccion_l.shp;05043362
+5;Parcelario;43;Subparcela Catastral Integrada;325;Línea de subparcela no materializada;05_subparcela_no_materializada_l.shp;05043325
+5;Parcelario;43;Subparcela Catastral Integrada;632;Línea de subparcela y acceso adaptado o vado;05_subparcela_acceso_adaptado_vado_l.shp;05043632
+5;Parcelario;43;Subparcela Catastral Integrada;639;Línea de subparcela y acequia;05_subparcela_acequia_l.shp;05043639
+5;Parcelario;43;Subparcela Catastral Integrada;630;Línea de subparcela y acera;05_subparcela_acera_l.shp;05043630
+5;Parcelario;43;Subparcela Catastral Integrada;611;Línea de subparcela y alambrada;05_subparcela_alambrada_l.shp;05043611
+5;Parcelario;43;Subparcela Catastral Integrada;647;Línea de subparcela y andén;05_subparcela_anden_l.shp;05043647
+5;Parcelario;43;Subparcela Catastral Integrada;636;Línea de subparcela y autopista, autovía en construcción;05_subparcela_autopista_autovia_en_construccion_l.shp;05043636
+5;Parcelario;43;Subparcela Catastral Integrada;631;Línea de subparcela y bordillo interior;05_subparcela_bordillo_interior_l.shp;05043631
+5;Parcelario;43;Subparcela Catastral Integrada;637;Línea de subparcela y camino, pista;05_subparcela_camino_pista_l.shp;05043637
+5;Parcelario;43;Subparcela Catastral Integrada;640;Línea de subparcela y canal;05_subparcela_canal_l.shp;05043640
+5;Parcelario;43;Subparcela Catastral Integrada;621;Línea de subparcela y cancha deportiva;05_subparcela_cancha_deportiva_l.shp;05043621
+5;Parcelario;43;Subparcela Catastral Integrada;638;Línea de subparcela y cañada;05_subparcela_cañada_l.shp;05043638
+5;Parcelario;43;Subparcela Catastral Integrada;664;Línea de subparcela y carretera;05_subparcela_carretera_l.shp;05043664
+5;Parcelario;43;Subparcela Catastral Integrada;649;Línea de subparcela y carril bici;05_subparcela_carril_bici_l.shp;05043649
+5;Parcelario;43;Subparcela Catastral Integrada;612;Línea de subparcela y cerramiento sin especificar;05_subparcela_cerramiento_sin_especificar_l.shp;05043612
+5;Parcelario;43;Subparcela Catastral Integrada;627;Línea de subparcela y construcción permanente en la vía;05_subparcela_construccion_permanente_via_l.shp;05043627
+5;Parcelario;43;Subparcela Catastral Integrada;660;Línea de subparcela y depósito a nivel;05_subparcela_deposito_nivel_l.shp;05043660
+5;Parcelario;43;Subparcela Catastral Integrada;661;Línea de subparcela y depósito elevado;05_subparcela_deposito_elevado_l.shp;05043661
+5;Parcelario;43;Subparcela Catastral Integrada;624;Línea de subparcela y edificio de separación de altura y medianería;05_subparcela_edificio_medianeria_l.shp;05043624
+5;Parcelario;43;Subparcela Catastral Integrada;615;Línea de subparcela y edificio en construcción;05_subparcela_edificio_en_construccion_l.shp;05043615
+5;Parcelario;43;Subparcela Catastral Integrada;623;Línea de subparcela y edificio en vuelo y soportales;05_subparcela_vuelo_soportales_l.shp;05043623
+5;Parcelario;43;Subparcela Catastral Integrada;616;Línea de subparcela y edificio indefinido;05_subparcela_edificio_indefinido_l.shp;05043616
+5;Parcelario;43;Subparcela Catastral Integrada;671;Línea de subparcela y elemento auxiliar constructivo;05_subparcela_auxiliar_constructivo_l.shp;05043671
+5;Parcelario;43;Subparcela Catastral Integrada;672;Línea de subparcela y elemento auxiliar no constructivo;05_subparcela_auxiliar_no_constructivo_l.shp;05043672
+5;Parcelario;43;Subparcela Catastral Integrada;641;Línea de subparcela y embalse;05_subparcela_embalse_l.shp;05043641
+5;Parcelario;43;Subparcela Catastral Integrada;629;Línea de subparcela y entrada/boca de paso subterráneo;05_subparcela_entrada_subterraneo_l.shp;05043629
+5;Parcelario;43;Subparcela Catastral Integrada;617;Línea de subparcela y escalera;05_subparcela_escalera_l.shp;05043617
+5;Parcelario;43;Subparcela Catastral Integrada;622;Línea de subparcela y fachada de edificio;05_subparcela_fachada_edificio_l.shp;05043622
+5;Parcelario;43;Subparcela Catastral Integrada;635;Línea de subparcela y línea de autopista, autovía (límite de asfalto);05_autopista_autovia_limite_asfalto_l.shp;05043635
+5;Parcelario;43;Subparcela Catastral Integrada;619;Línea de subparcela y marquesina;05_subparcela_marquesina_l.shp;05043619
+5;Parcelario;43;Subparcela Catastral Integrada;613;Línea de subparcela y muro de contención;05_subparcela_muro_contencion_l.shp;05043613
+5;Parcelario;43;Subparcela Catastral Integrada;655;Línea de subparcela y muro, pared o tapia;05_subparcela_muro_pared_tapia_l.shp;05043655
+5;Parcelario;43;Subparcela Catastral Integrada;628;Línea de subparcela y patio;05_subparcela_patio_l.shp;05043628
+5;Parcelario;43;Subparcela Catastral Integrada;642;Línea de subparcela y piscina o estanque;05_subparcela_piscina_estanque_l.shp;05043642
+5;Parcelario;43;Subparcela Catastral Integrada;633;Línea de subparcela y pista de aeropuerto;05_subparcela_pista_aeropuerto_l.shp;05043633
+5;Parcelario;43;Subparcela Catastral Integrada;620;Línea de subparcela y porche, caseta, cobertizo;05_subparcela_porche_caseta_cobertizo_l.shp;05043620
+5;Parcelario;43;Subparcela Catastral Integrada;618;Línea de subparcela y presa;05_subparcela_presa_l.shp;05043618
+5;Parcelario;43;Subparcela Catastral Integrada;625;Línea de subparcela y puente de obra;05_subparcela_puente_obra_l.shp;05043625
+5;Parcelario;43;Subparcela Catastral Integrada;626;Línea de subparcela y quiosco de obra;05_subparcela_quiosco_obra_l.shp;05043626
+5;Parcelario;43;Subparcela Catastral Integrada;634;Línea de subparcela y rampa, pasarela peatonal;05_subparcela_pasarela_peatonal_l.shp;05043634
+5;Parcelario;43;Subparcela Catastral Integrada;644;Línea de subparcela y río, arroyo;05_subparcela_rio_arroyo_l.shp;05043644
+5;Parcelario;43;Subparcela Catastral Integrada;652;Línea de subparcela y senda;05_subparcela_senda_l.shp;05043652
+5;Parcelario;43;Subparcela Catastral Integrada;650;Línea de subparcela y seto;05_subparcela_seto_l.shp;05043650
+5;Parcelario;43;Subparcela Catastral Integrada;645;Línea de subparcela y vaguada, barranco;05_subparcela_vaguada_barranco_l.shp;05043645
+5;Parcelario;43;Subparcela Catastral Integrada;614;Línea de subparcela y verja;05_subparcela_verja_l.shp;05043614
+5;Parcelario;43;Subparcela Catastral Integrada;646;Línea de subparcela y vía;05_subparcela_via_l.shp;05043646
+5;Parcelario;43;Subparcela Catastral Integrada;651;Línea de subparcela y zona ajardinada;05_subparcela_zona_ajardinada_l.shp;05043651
+5;Parcelario;43;Subparcela Catastral Integrada;263;Recinto de subparcela catastral integrada;05_subparcela_p.shp;05043263
+5;Parcelario;43;Subparcela Catastral Integrada;265;Rótulo de subparcela catastral integrada;05_subparcela_a.shp;05043265
+6;Viario;47;Acceso adaptado o vado;63;Línea de acceso adaptado o vado;06_vado_l.shp;06047063
+6;Viario;45;Acera e Isleta;750;Centroide acera restitución;06_acera_centroide_pt.shp;06045750
+6;Viario;45;Acera e Isleta;747;Centroide isleta restitución;06_isleta_centroide_pt.shp;06045747
+6;Viario;45;Acera e Isleta;748;Centroide isleta sobre construcción restitución;06_isleta_sobre_construccion_centroide_pt.shp;06045748
+6;Viario;45;Acera e Isleta;754;Cierre acera vitual restitución;06_cierre_acera_virtual_l.shp;06045754
+6;Viario;45;Acera e Isleta;60;Línea de acera e isleta;06_acera_l.shp;06045060
+6;Viario;45;Acera e Isleta;787;Línea de bolardos;06_bolardos_l.shp;06045787
+6;Viario;45;Acera e Isleta;788;Recinto de acera a nivel.;06_acera_nivel_p.shp;06045788
+6;Viario;45;Acera e Isleta;61;Recinto de acera e isleta;06_acera_p.shp;06045061
+6;Viario;45;Acera e Isleta;687;Recinto de isleta sobre construcción;06_isleta_construccion_p.shp;06045687
+6;Viario;54;Área de circulación reducida o zona peatonal;327;Línea de cierre de calle de circulación limitada o peatonal;06_circulacion_limitada_l.shp;06054327
+6;Viario;50;Autopista, Autovía;67;Línea de autopista, autovía en construcción;06_autopista_autovia_construccion_l.shp;06050067
+6;Viario;50;Autopista, Autovía;66;Línea de autopista, autovía. Límite de asfalto;06_autopista_autovia_l.shp;06050066
+6;Viario;50;Autopista, Autovía;773;Rótulo de autopista, autovía 1:1000;06_autopista_autovia_1000_a.shp;06050773
+6;Viario;151;Bolardos;361;Línea de bolardos;06_Limite de calzada con bolardos_l.shp;06151361
+6;Viario;46;Bordillo Interior;62;Línea de bordillo interior;06_bordillo_l.shp;06046062
+6;Viario;51;Camino, Pista;68;Línea de camino, pista.;06_camino_pista_l.shp;06051068
+6;Viario;51;Camino, Pista;69;Rótulo de camino, pista 1:1000;06_camino_pista_1000_a.shp;06051069
+6;Viario;53;Cañada;70;Línea de cañada;06_cañada_l.shp;06053070
+6;Viario;52;Carretera;304;Línea de carretera;06_carretera_l.shp;06052304
+6;Viario;52;Carretera;305;Línea de carretera en construcción;06_carretera_en_construccion_l.shp;06052305
+6;Viario;52;Carretera;679;Texto de carretera;06_carretera_a.shp;06052679
+6;Viario;189;Cuneta carretera, autopista o autovía.;770;Línea de cuneta de carretera, autopista o autovía;06_cuneta_l.shp;06189770
+6;Viario;44;Eje de vial;59;Línea de eje de vial;06_eje_vial_l.shp;06044059
+6;Viario;169;Infraestructura de viario subterráneo;397;Línea infrestructura viario subterráneo;06_Infra_viario_subterraneo_l.shp;06169397
+6;Viario;169;Infraestructura de viario subterráneo;398;Recinto de infraestructura viario subterráneo;06_Infra_viario_subterraneo_l.shp;06169398
+6;Viario;48;Pista de Aeropuerto;64;Línea de pista de aeropuerto;06_pista_aeropuerto_l.shp;06048064
+6;Viario;139;Quitamiedos;328;Línea de quitamiedos;06_quitamiedos_l.shp;06139328
+6;Viario;49;Rampa / Pasarela peatonal;65;Línea de rampa y pasarela peatonal;06_rampa_pasarela_l.shp;06049065
+6;Viario;203;Zona de aparcamiento;800;Línea de aparcamiento;06_aparcamiento_l.shp;06203800
+7;Altimetría;134;Cota de edificio;183;Rótulo con el valor altimétrico de la cota de coronación de un edificio;07_cota_edificio_a.shp;07134183
+7;Altimetría;134;Cota de edificio;183;Rótulo con el valor altimétrico de la cota de coronación de un edificio;07_cota_edificio_a.shp;07134183
+7;Altimetría;55;Curvas de nivel;72;Línea de curva de nivel depresión directora;07_curva_nivel_depresion_directora_l.shp;07055072
+7;Altimetría;55;Curvas de nivel;73;Línea de curva de nivel depresión normal;07_curva_nivel_depresion_normal_l.shp;07055073
+7;Altimetría;55;Curvas de nivel;74;Línea de curva de nivel directora;07_curva_nivel_directora_l.shp;07055074
+7;Altimetría;55;Curvas de nivel;75;Línea de curva de nivel normal;07_curva_nivel_l.shp;07055075
+7;Altimetría;55;Curvas de nivel;76;Rótulo de Curva de nivel directora;07_curva_nivel_directora_a.shp;07055076
+7;Altimetría;57;Escarpado, Talud;78;Línea de delimitación de área de ruptura altimétrica. Talud y escarpado;07_talud_l.shp;07057078
+7;Altimetría;191;Punto acotado MDT;782;Símbolo de punto acotado MDT;07_punto_acotado_mdt_a.shp;07191782
+7;Altimetría;191;Punto acotado MDT;782;Símbolo de punto acotado MDT;07_punto_acotado_mdt_a.shp;07191782
+7;Altimetría;190;Punto acotado sobre rasante o voladizo.;759;Símbolo de punto acotado sobre rasante o voladizo.;07_punto_acotado_rasante_pt.shp;07190759
+7;Altimetría;190;Punto acotado sobre rasante o voladizo.;802;Texto de punto acotado sobre rasante o voladizo.;07_punto_acotado_sobre_rasante_a.shp;07190802
+7;Altimetría;56;Punto acotado terreno;77;Simbolo de punto acotado;07_punto_acotado_a.shp;07056077
+7;Altimetría;56;Punto acotado terreno;77;Simbolo de punto acotado;07_punto_acotado_a.shp;07056077
+8;Hidrografía;58;Acequia;79;Línea de acequia;08_acequia_l.shp;08058079
+8;Hidrografía;59;Canal;734;Centroide canal restitución;08_canal_centroide_pt.shp;08059734
+8;Hidrografía;59;Canal;80;Línea de canal;08_canal_l.shp;08059080
+8;Hidrografía;59;Canal;82;Recinto de canal;08_canal_p.shp;08059082
+8;Hidrografía;59;Canal;81;Rótulo de canal;08_canal_a.shp;08059081
+8;Hidrografía;60;Embalse;735;Etiqueta embalse restitución;08_embalse_centroide_pt.shp;08060735
+8;Hidrografía;60;Embalse;83;Línea de embalse;08_embalse_l.shp;08060083
+8;Hidrografía;60;Embalse;84;Recinto de embalse;08_embalse_p.shp;08060084
+8;Hidrografía;60;Embalse;85;Rótulo de embalse;08_embalse_a.shp;08060085
+8;Hidrografía;198;Estanque;739;Etiqueta estanque restitución;08_estanque_centroide_pt.shp;08198739
+8;Hidrografía;198;Estanque;793;Línea de estanque;08_estanque_l.shp;08198793
+8;Hidrografía;198;Estanque;794;Recinto de estanque;08_estanque_p.shp;08198794
+8;Hidrografía;66;Lámina de agua;763;Línea de lámina de agua en fuentes, monumentos, campos de golf;08_lamina_agua_l.shp;08066763
+8;Hidrografía;66;Lámina de agua;96;Recinto de lámina de agua en fuentes, monumentos, campos de golf;08_lamina_agua_p.shp;08066096
+8;Hidrografía;172;Otros texto de hidrología;681;Texto genérico de hidrología;08_hidrologia_a.shp;08172681
+8;Hidrografía;61;Piscina;736;Etiqueta piscina restitución;08_piscina_centroide_pt.shp;08061736
+8;Hidrografía;61;Piscina;86;Línea de piscina;08_piscina_l.shp;08061086
+8;Hidrografía;61;Piscina;87;Recinto de piscina;08_piscina_p.shp;08061087
+8;Hidrografía;61;Piscina;88;Rótulo de piscina;08_piscina_a.shp;08061088
+8;Hidrografía;63;Río, Arroyo;733;Centroide de río restitución;08_rio_centroide_pt.shp;08063733
+8;Hidrografía;63;Río, Arroyo;92;Línea de río y arroyo;08_rio_arroyo_l.shp;08063092
+8;Hidrografía;63;Río, Arroyo;93;Recinto de río, arroyo;08_rio_arroyo_p.shp;08063093
+8;Hidrografía;63;Río, Arroyo;329;Rótulo de río, arroyo;08_rio_arroyo_a.shp;08063329
+8;Hidrografía;64;Vaguada, barranco;94;Línea de vaguada, barranco;08_vaguada_barranco_l.shp;08064094
+9;Callejero;67;Denominación de vía;378;Rótulo de denominación de vial 1:1000;09_rotulacion_viaro_1000_a.shp;09067378
+9;Callejero;135;Numeración;98;Rótulo de numeración de direcciones;09_ndps_a.shp;09135098
+10;Movilidad;71;Acceso a Metro o Ferrocarril;741;Etiqueta acceso metro restitución;10_acceso_metro_centroide_pt.shp;10071741
+10;Movilidad;71;Acceso a Metro o Ferrocarril;104;Línea de acceso a metro o ferrocarril;10_acceso_metro_ferrocarril_l.shp;10071104
+10;Movilidad;71;Acceso a Metro o Ferrocarril;688;Recinto de acceso a metro;10_acceso_metro_p.shp;10071688
+10;Movilidad;197;Acceso subterráneo peatonal;791;Línea de acceso subterráneo peatonal;10_acceso_subterraneo_peatonal.shp;10197791
+10;Movilidad;197;Acceso subterráneo peatonal;792;Recinto de acceso subterráneo peatonal;10_acceso_subterraneo_peatonal_p.shp;10197792
+10;Movilidad;69;Andén o muelle;102;Línea de andén o muelle;10_anden_l.shp;10069102
+10;Movilidad;70;Ascensor;778;Centroide de ascensor;10_ascensor_pt.shp;10070778
+10;Movilidad;70;Ascensor;357;Línea de ascensor;10_ascensor_l.shp;10070357
+10;Movilidad;70;Ascensor;103;Recinto de ascensor;10_ascensor_p.shp;10070103
+10;Movilidad;75;Autobús;109;Símbolo de marquesina de bus;10_marquesina_pt.shp;10075109
+10;Movilidad;80;Carril bici;117;Línea de carril bici;10_carril_bici_l.shp;10080117
+10;Movilidad;80;Carril bici;116;Recinto de carril bici;10_carril_bici_p.shp;10080116
+10;Movilidad;195;Eje de vía de ferrocarril;786;Eje de vía de ferrocarril;10_eje_ferrocarril_l.shp;10195786
+10;Movilidad;72;Ferrocarril;106;Rótulo de ferrocarril 1000;10_ferrocarril_a.shp;10072106
+10;Movilidad;72;Ferrocarril;105;Símbolo de ferrocarril;10_ferrocarril_p.shp;10072105
+10;Movilidad;73;Metro;108;Rótulo de denominación de Estación de Metro 1:1000;10_metro_1000_a.shp;10073108
+10;Movilidad;73;Metro;107;Símbolo de metro;10_metro_pt.shp;10073107
+10;Movilidad;84;Señalización horizontal de tráfico;121;Línea de señalización horizontal de tráfico;10_señal_horizontal_l.shp;10084121
+10;Movilidad;153;Teleférico;366;Línea de trazado de teleférico;10_teleferico_l.shp;10153366
+10;Movilidad;68;Vía;101;Línea de vía;10_via_l.shp;10068101
+11;Medio Ambiente;98;Área de juegos infantiles;140;Línea límite de zona de juegos infantiles;11_zona_juegos_infantiles_l.shp;11098140
+11;Medio Ambiente;98;Área de juegos infantiles;141;Recinto de zona de juegos infantiles;11_zona_juegos_infantiles_p.shp;11098141
+11;Medio Ambiente;150;Área de Pista deportiva;35;Línea de pista deportiva;11_cancha_deportiva_l.shp;11027035
+11;Medio Ambiente;150;Área de Pista deportiva;358;Polígono de pista deportiva;11_cancha_deportiva_p.shp;11150358
+11;Medio Ambiente;150;Área de Pista deportiva;678;Rótulo de pista deportiva;11_pista_deportiva_a.shp;11150678
+11;Medio Ambiente;97;Área de tierra;138;Línea límite de zona de tierra;11_zona_tierra_l.shp;11097138
+11;Medio Ambiente;97;Área de tierra;139;Recinto de área de tierra;11_zona_tierra_p.shp;11097139
+11;Medio Ambiente;87;Cantera;125;Línea de delimitación de zona de cantera;11_cantera_l.shp;11087125
+11;Medio Ambiente;87;Cantera;126;Rótulo de cantera;11_cantera_a.shp;11087126
+11;Medio Ambiente;145;Delimitación espacio protegido;338;Línea de delimitación de espacio protegido;11_espacio_protegido_l.shp;11145338
+11;Medio Ambiente;199;Depuradora;795;Línea de agua en depuradora;11_agua_depuradora_l.shp;11199795
+11;Medio Ambiente;199;Depuradora;796;Recinto de agua en depuradora;11_agua_depuradora_p.shp;11199796
+11;Medio Ambiente;144;Invernadero;337;Línea de invernadero;11_invernadero_l.shp;11144337
+11;Medio Ambiente;144;Invernadero;336;Recinto de invernadero;11_invernadero_p.shp;11144336
+11;Medio Ambiente;95;Parque;341;Línea de parque;11_parque_l.shp;11095341
+11;Medio Ambiente;95;Parque;135;Recinto de parque;11_parque_p.shp;11095135
+11;Medio Ambiente;95;Parque;774;Rotulo de parque 1000;11_parque_1000_a.shp;11095774
+11;Medio Ambiente;90;Senda;129;Línea de senda;11_senda_l.shp;11090129
+11;Medio Ambiente;88;Seto;127;Línea de seto;11_seto_l.shp;11088127
+11;Medio Ambiente;96;Vertedero, Escombrera, Cantera;342;Línea de vertedero, escombrera, cantera;11_limite_vertedero_escombrera_l.shp;11096342
+11;Medio Ambiente;96;Vertedero, Escombrera, Cantera;136;Recinto de vertedero, escombrera, cantera;11_vertedero_escombrera_p.shp;11096136
+11;Medio Ambiente;96;Vertedero, Escombrera, Cantera;137;Rótulo de vertedero, escombrera, cantera;11_vertedero_escombrera_a.shp;11096137
+11;Medio Ambiente;89;Zona ajardinada;753;Cierre zona ajardinada restitución;11_cierre_zona_ajardinada_l.shp;11089753
+11;Medio Ambiente;89;Zona ajardinada;742;Etiqueta jardín restitución;11_zona_ajardinada_centroide_pt.shp;11089742
+11;Medio Ambiente;89;Zona ajardinada;743;Etiqueta Jardín sobre Patio restitución;11_zona_ajardinada_sobre_patio_centroide_pt.shp;11089743
+11;Medio Ambiente;89;Zona ajardinada;128;Línea de zona ajardinada;11_zona_ajardinada_l.shp;11089128
+11;Medio Ambiente;89;Zona ajardinada;371;Recinto de zona ajardinada;11_zona_ajardinada_p.shp;11089371
+11;Medio Ambiente;89;Zona ajardinada;685;Recinto de zona ajardinada sobre patio;11_zona_ajardinada_sobre_patio_p.shp;11089685
+11;Medio Ambiente;89;Zona ajardinada;370;Rótulo de zona ajardinada;11_zona_ajardinada_a.shp;11089370
+11;Medio Ambiente;93;Zona arbolada;132;Línea límite de zona arbolada;11_zona_arbolada_l.shp;11093132
+11;Medio Ambiente;93;Zona arbolada;133;Recinto de zona arbolada;11_zona_arbolada_l.shp;11093133
+11;Medio Ambiente;133;Zona de uso de suelo definido;360;Límite de uso suelo rústico;11_limite_suelo_rustico_l.shp;11133360
+11;Medio Ambiente;133;Zona de uso de suelo definido;71;Recinto de uso suelo rústico;11_suelo_rustico_p.shp;11133071
+11;Medio Ambiente;133;Zona de uso de suelo definido;686;Recinto de uso suelo urbano;11_suelo_urbano_p.shp;11133686
+11;Medio Ambiente;133;Zona de uso de suelo definido;182;Rótulo de uso de suelo rústico;11_suelo_rustico_a.shp;11133182
+12;Mobiliario urbano;103;Balaustrada;146;Línea de balaustrada;12_balaustrada_l.shp;12103146
+13;Monumentos;106;Monumento/Estatua/Fuente monumental;751;Centroide  Etiqueta Monumento / Construcción Histórica;13_monumento_centroide_pt.shp;13106751
+13;Monumentos;106;Monumento/Estatua/Fuente monumental;740;Etiqueta fuente restitución;13_fuente_centroide_pt.shp;13106740
+13;Monumentos;106;Monumento/Estatua/Fuente monumental;150;Línea de monumento, estatua, fuente monumental o puerta.;13_monumento_estatua_fuente_l.shp;13106150
+13;Monumentos;106;Monumento/Estatua/Fuente monumental;151;Recinto de monumento, estatua, fuente monumental o puerta.;13_monumento_estatua_fuente_p.shp;13106151
+13;Monumentos;106;Monumento/Estatua/Fuente monumental;152;Rótulo de monumento, estatua, fuente monumental o puerta 1:1000;13_monumento_estatua_fuente_a.shp;13106152
+15;Alcantarillado;141;Rejilla ventilación;333;Línea de rejilla de ventilación;15_rejilla_ventilacion_l.shp;15141333
+15;Alcantarillado;141;Rejilla ventilación;332;Recinto de rejilla de ventilación;15_rejilla_ventilacion_p.shp;15141332
+18;Red eléctrica;118;Línea eléctrica;164;Línea de línea eléctrica;18_linea_electrica_l.shp;18118164
+18;Red eléctrica;170;Poste indeterminado;674;Símbolo de poste indeterminado;18_poste_indetermiando_pt.shp;18170674
+18;Red eléctrica;116;Torre eléctrica;677;Línea de torre eléctrica de alta tensión;18_torre_electrica_l.shp;18116677
+18;Red eléctrica;116;Torre eléctrica;162;Símbolo de torre eléctrica;18_torre_electrica_pt.shp;18116162
+18;Red eléctrica;117;Transformador;372;Línea de transformador;18_transformador_l.shp;18117372
+18;Red eléctrica;117;Transformador;373;Recinto de transformador;18_transformador_p.shp;18117373
+21;Toponimia y rotulación auxiliar;126;Área genérica sin especificar;172;Rótulo de área genérica sin especificar;21_area_generica_a.shp;21126172
+21;Toponimia y rotulación auxiliar;128;Grandes parajes;174;Rótulo de grandes parajes 1:1000;21_grandes_parajes_a.shp;21128174
+21;Toponimia y rotulación auxiliar;127;Otras áreas;173;Rótulo de otras áreas;21_otras_areas_a.shp;21127173
+21;Toponimia y rotulación auxiliar;201;Rótulación genérica de elemento común;798;Rótulo genérico de elemento común.;21_rotulo_generico_elemento_comun_a.shp;21201798
+21;Toponimia y rotulación auxiliar;129;Urbanización;175;Rótulo de urbanización 1:1000;21_urbanizacion_1000_a.shp;21129175
+22;Elementos auxiliares;152;Línea auxiliar de ruptura de islas;365;Línea auxiliar de ruptura de islas;22_auxiliar_ruptura_islas_l.shp;22152365
+22;Elementos auxiliares;131;Línea de delimiatación de cambio de escala;180;Línea de delimitación de cambio de escala;22_cambio_escala_l.shp;22131180
+22;Elementos auxiliares;130;Marco de hoja cartográfica;762;Linea de cruceta o rejilla de coordenadas;22_cruceta_coordenadas_p.shp;22130762
+22;Elementos auxiliares;130;Marco de hoja cartográfica;379;Polígono de marco 1000 con coordenadas ED50;22_malla_1000_ED50_p.shp;22130379
+22;Elementos auxiliares;130;Marco de hoja cartográfica;380;Polígono de marco 1000 con coordenadas ETRS89;22_malla_1000_ETRS89_p.shp;22130380
+22;Elementos auxiliares;130;Marco de hoja cartográfica;381;Rótulo de marco 1000 de coordenadas ED50;22_marco_1000_ED50_a.shp;22130381
+22;Elementos auxiliares;130;Marco de hoja cartográfica;382;Rótulo de marco 1000 de coordenadas ETRS89;22_marco_1000_ETRS89_a.shp;22130382
+24;Proyecto de obra;168;Boca túnel proyecto;396;Línea de boca de túnel proyecto;24_boca_tunel_proyecto_l.shp;24168396
+24;Proyecto de obra;163;Calzada en superficie proyecto;391;Línea de calzada en superficie proyecto;24_calzada_superficie_proyecto_l.shp;24163391
+24;Proyecto de obra;165;Calzada en túnel proyecto;393;Línea de calzada en túnel proyecto;24_calzada_tunel_proyecto_l.shp;24165393
+24;Proyecto de obra;164;Carriles-pintura en supeficie proyecto;392;Línea de carriles-pintura en superficie proyecto;24_carriles_pintura_superficie_proyecto_l.shp;24164392
+24;Proyecto de obra;166;Carriles-pintura en túnel proyecto;394;Línea de carriles-pintura en túnel proyecto;24_carriles_pintura_tunel_proyecto_l.shp;24166394
+24;Proyecto de obra;193;Línea genérica proyecto;783;Línea genérica de proyecto;24_generica_proyecto_l.shp;24193783
+24;Proyecto de obra;167;Pantalla túnel proyecto;395;Línea de pantalla túnel proyecto;24_pantalla_tunel_proyecto_l.shp;24167395

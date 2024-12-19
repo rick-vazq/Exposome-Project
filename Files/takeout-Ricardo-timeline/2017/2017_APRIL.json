@@ -1,0 +1,93 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790173,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.02437
+      },
+      "duration": {
+        "startTimestamp": "2017-04-02T00:27:59.478Z",
+        "endTimestamp": "2017-04-02T15:23:08.933Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257789624,
+      "centerLngE7": -803621167,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.82041097,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.06680322
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.032212086
+      }, {
+        "latitudeE7": 257769160,
+        "longitudeE7": -803604540,
+        "placeId": "ChIJAx_8Kiy52YgRuc8pIaoQiP0",
+        "address": "15 SW 8th St, Miami, FL 33144, USA",
+        "name": "Dinara",
+        "locationConfidence": 0.008185714
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0054173125
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.004958983
+      }, {
+        "latitudeE7": 257786874,
+        "longitudeE7": -803418535,
+        "placeId": "ChIJO9q0IBi52YgRB3kxv-PBslc",
+        "address": "9020 NW 8th St, Miami, FL 33172, USA",
+        "name": "Doral View Fountain Bleu",
+        "locationConfidence": 0.003996762
+      }, {
+        "latitudeE7": 257770796,
+        "longitudeE7": -803601199,
+        "placeId": "ChIJqQswaS-52YgRDBAbcUl3SyM",
+        "address": "9940 Fontainebleau Blvd, Miami, FL 33165, USA",
+        "name": "Indian Lake Village II",
+        "locationConfidence": 0.003398555
+      }, {
+        "latitudeE7": 257800249,
+        "longitudeE7": -803629210,
+        "placeId": "ChIJ6xJXgC252YgRxwJWr-PkwEw",
+        "address": "1006 NW 102 Ct, Miami, FL 33172, USA",
+        "name": "DJ Willymix Sound Productions, LLC",
+        "locationConfidence": 0.0029960212
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 89,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,1060 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403146349,
+        "longitudeE7": -37710541,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403259701,
+        "longitudeE7": -37649380,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-16T23:04:46.798Z",
+        "endTimestamp": "2023-07-16T23:07:18.590Z"
+      },
+      "distance": 1362,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 68.06868314743042
+      }, {
+        "activityType": "STILL",
+        "probability": 19.946153461933136
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 6.094443053007126
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.9524290710687637
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.0058604180812836
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.703917583450675
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12479625875130296
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.04918889026157558
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.02353024174226448
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.017784140072762966
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.004804862692253664
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004548653669189662
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0029521757824113593
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 9.018629498314112E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.6079981668990513E-6
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 403259701,
+          "longitudeE7": -37649380,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": 348812709
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2023-07-16T23:07:18.590Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403260677,
+        "longitudeE7": -37648785,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403284481,
+        "longitudeE7": -37666593,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-16T23:13:22.538Z",
+        "endTimestamp": "2023-07-16T23:33:26.676Z"
+      },
+      "distance": 304,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 42.94804632663727
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 39.51046168804169
+      }, {
+        "activityType": "STILL",
+        "probability": 12.54778653383255
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.5303335152566433
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.468937937170267
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.8812544867396355
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4868832416832447
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.37790366914123297
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.08456673240289092
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.05906368023715913
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03835757088381797
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.026750544202513993
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.02364652609685436
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.015981508477125317
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.5954736315725313E-5
+      }]
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419025201,
+        "longitudeE7": -88711433,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419025540,
+        "longitudeE7": -88728038,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-23T06:11:21.516Z",
+        "endTimestamp": "2023-07-23T06:12:46.350Z"
+      },
+      "distance": 155,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 70.11475563049316
+      }, {
+        "activityType": "STILL",
+        "probability": 18.232324719429016
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.337374985218048
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.5108508989214897
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.4188810251653194
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.45177964493632317
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.2821340225636959
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2129550790414214
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.20921062678098679
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.14714226126670837
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05857915966771543
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01555250637466088
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004255283056409098
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004188931416138075
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.372311911358338E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419025382,
+          "lngE7": -88711423
+        }, {
+          "latE7": 419025917,
+          "lngE7": -88726434
+        }, {
+          "latE7": 419025955,
+          "lngE7": -88727998
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 137.26546966480333,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419031064,
+        "longitudeE7": -88745287,
+        "placeId": "ChIJi8t5Vo_qJQ0RFW0_oIFTnjI",
+        "address": "Rúa Puerto Rico, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Public Pilgrims Hostel of A Guarda",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 48.44323,
+        "calibratedProbability": 28.90807
+      },
+      "duration": {
+        "startTimestamp": "2023-07-23T06:12:46.350Z",
+        "endTimestamp": "2023-07-24T10:17:13.606Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419027900,
+      "centerLngE7": -88740745,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419050771,
+        "longitudeE7": -88734569,
+        "placeId": "ChIJp8oEEo_qJQ0Rj5fff-6K_Dc",
+        "address": "Av. de la Republica Dominicana, 36780 La Guardia, Pontevedra, España",
+        "name": "Castelo de Santa Cruz",
+        "locationConfidence": 13.091293,
+        "calibratedProbability": 7.8121133
+      }, {
+        "latitudeE7": 419026696,
+        "longitudeE7": -88740711,
+        "placeId": "ChIJPX0794XqJQ0RGAh_EAuh0e8",
+        "address": "Rúa D. Manuel Rodríguez Sinde, 4, 36780 A Guarda, Pontevedra, España",
+        "name": "Bar/Tapería Saudade",
+        "locationConfidence": 10.361074,
+        "calibratedProbability": 6.1828794
+      }, {
+        "latitudeE7": 419010337,
+        "longitudeE7": -88717954,
+        "placeId": "ChIJgXKcBoXqJQ0RjiDrBG7XWts",
+        "address": "Rúa Concepción Arenal, 63, 36780 A Guarda, Pontevedra, España",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 6.521246,
+        "calibratedProbability": 3.891496
+      }, {
+        "latitudeE7": 419026855,
+        "longitudeE7": -88737063,
+        "placeId": "ChIJwZxCG4XqJQ0Rf4CEPIRcCeQ",
+        "address": "Rúa Puerto Rico, 1, 36780 A Guarda, Pontevedra, España",
+        "name": "Panadaría do Muño",
+        "locationConfidence": 5.804405,
+        "calibratedProbability": 3.4637275
+      }, {
+        "latitudeE7": 419011646,
+        "longitudeE7": -88741821,
+        "placeId": "ChIJ51xn24XqJQ0RPH69CwMoc_g",
+        "address": "Praza do Reló, 1, 36780 La Guardia, Pontevedra, España",
+        "name": "Concello da Guarda",
+        "locationConfidence": 4.397633,
+        "calibratedProbability": 2.6242487
+      }, {
+        "latitudeE7": 419020834,
+        "longitudeE7": -88739047,
+        "placeId": "ChIJbcfVjYXqJQ0RQaP69oOnVZ4",
+        "address": "Rúa José Manuel Andreíni, 4, 36780 La Guardia, Pontevedra, España",
+        "name": "Igrexa de Santa María da Guarda",
+        "locationConfidence": 2.7240183,
+        "calibratedProbability": 1.6255338
+      }, {
+        "latitudeE7": 419026188,
+        "longitudeE7": -88729139,
+        "placeId": "ChIJBfsVj4XqJQ0Rhj5AH1RqV2A",
+        "address": "La Guardia, 36780 La Guardia, Pontevedra, España",
+        "name": "A Guarda (Puerto Rico)",
+        "locationConfidence": 2.3923068,
+        "calibratedProbability": 1.427588
+      }, {
+        "latitudeE7": 419017057,
+        "longitudeE7": -88696363,
+        "placeId": "ChIJmbjLdoXqJQ0RnudzkEDMN0U",
+        "address": "Rúa Ourense, 1, 36780 A Guarda, Pontevedra, España",
+        "name": "Farmacia Barbi",
+        "locationConfidence": 1.5930805,
+        "calibratedProbability": 0.9506567
+      }, {
+        "latitudeE7": 419024655,
+        "longitudeE7": -88706806,
+        "placeId": "ChIJ7dSeQoXqJQ0RntPphr77fGc",
+        "address": "Rúa Galicia, 18, 36780 A Guarda, Pontevedra, España",
+        "name": "Cafetería Oasis",
+        "locationConfidence": 0.9925347,
+        "calibratedProbability": 0.5922863
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419028497,
+        "longitudeE7": -88743958,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419016822,
+        "longitudeE7": -88702887,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-24T10:17:13.606Z",
+        "endTimestamp": "2023-07-24T10:18:39.599Z"
+      },
+      "distance": 363,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 44.55646276473999
+      }, {
+        "activityType": "WALKING",
+        "probability": 31.24987483024597
+      }, {
+        "activityType": "CYCLING",
+        "probability": 17.725731432437897
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.584541752934456
+      }, {
+        "activityType": "STILL",
+        "probability": 1.1920993216335773
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.9466306306421757
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4738837480545044
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07337747374549508
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.05607707425951958
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.04810698446817696
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.04603324050549418
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.036917420220561326
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008595258987043053
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0016538691852474585
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0553740992236271E-6
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 419016777,
+          "longitudeE7": -88702843,
+          "accuracyMetres": 73
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2023-07-24T10:20:40.387Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419020630,
+        "longitudeE7": -88704071,
+        "placeId": "ChIJpeJh-4TqJQ0Rj0x1Jpp9mdY",
+        "address": "Rúa Domínguez Fontela, 2, 36780 A Guarda, Pontevedra, España",
+        "name": "Autoservicios Familia",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 54.798965,
+        "calibratedProbability": 37.135693
+      },
+      "duration": {
+        "startTimestamp": "2023-07-24T10:18:39.599Z",
+        "endTimestamp": "2023-07-24T12:51:00.597Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419016784,
+      "centerLngE7": -88702850,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419016625,
+        "longitudeE7": -88703004,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 18.340223,
+        "calibratedProbability": 12.428644
+      }, {
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 11.07808,
+        "calibratedProbability": 7.507298
+      }, {
+        "latitudeE7": 419017057,
+        "longitudeE7": -88696363,
+        "placeId": "ChIJmbjLdoXqJQ0RnudzkEDMN0U",
+        "address": "Rúa Ourense, 1, 36780 A Guarda, Pontevedra, España",
+        "name": "Farmacia Barbi",
+        "locationConfidence": 3.7698321,
+        "calibratedProbability": 2.5547073
+      }, {
+        "latitudeE7": 418992645,
+        "longitudeE7": -88711599,
+        "placeId": "ChIJAUafjoXqJQ0RCUGIWpmKIOM",
+        "address": "Rúa Tui, s/n, 36780 A Guarda, Pontevedra, España",
+        "name": "CEIP Manuel Rodríguez Sinde",
+        "locationConfidence": 2.3711958,
+        "calibratedProbability": 1.6068915
+      }, {
+        "latitudeE7": 419015426,
+        "longitudeE7": -88706922,
+        "placeId": "ChIJKQhvGoXqJQ0R0eA7YvJnkpU",
+        "address": "Rúa Concepción Arenal, 46, 36780 A Guarda, Pontevedra, España",
+        "name": "Panadaría Morales, S.L.",
+        "locationConfidence": 2.24704,
+        "calibratedProbability": 1.5227548
+      }, {
+        "latitudeE7": 419010337,
+        "longitudeE7": -88717954,
+        "placeId": "ChIJgXKcBoXqJQ0RjiDrBG7XWts",
+        "address": "Rúa Concepción Arenal, 63, 36780 A Guarda, Pontevedra, España",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 1.5797384,
+        "calibratedProbability": 1.0705435
+      }, {
+        "latitudeE7": 419017555,
+        "longitudeE7": -88703029,
+        "placeId": "ChIJx4gwj_3rJQ0RfbyF1d74H8I",
+        "address": "Rúa Concepción Arenal, 54, 36780 A Guarda, Pontevedra, España",
+        "name": "Salcidos",
+        "locationConfidence": 1.3929864,
+        "calibratedProbability": 0.9439871
+      }, {
+        "latitudeE7": 419001325,
+        "longitudeE7": -88707469,
+        "placeId": "ChIJi59254TqJQ0RSOYv70K2Sa8",
+        "address": "Calle, Rúa Manuel Álvarez, 8, 36780 A Guarda, Pontevedra, España",
+        "name": "Centro Do Majó",
+        "locationConfidence": 1.1499344,
+        "calibratedProbability": 0.7792776
+      }, {
+        "latitudeE7": 419023749,
+        "longitudeE7": -88697020,
+        "placeId": "ChIJZU2yToXqJQ0R3_mbphl8-uw",
+        "address": "Rúa Concepción Arenal, 36780 A Guarda, Pontevedra, España",
+        "name": "Bar Singular",
+        "locationConfidence": 0.9890111,
+        "calibratedProbability": 0.67022455
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419020473,
+        "longitudeE7": -88704672,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419002833,
+        "longitudeE7": -88705247,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-24T12:51:00.597Z",
+        "endTimestamp": "2023-07-24T13:10:37.898Z"
+      },
+      "distance": 282,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 78.05418968200684
+      }, {
+        "activityType": "STILL",
+        "probability": 16.407866775989532
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.609250858426094
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0043088346719742
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3774387529119849
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.2753440057858825
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17573150107637048
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03741187683772296
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.018803348939400166
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.015975690621417016
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009901509474730119
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.008532754145562649
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0029342272682697512
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.002301039239682723
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.0748822155146627E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419021034,
+          "lngE7": -88703355
+        }, {
+          "latE7": 419018516,
+          "lngE7": -88700790
+        }, {
+          "latE7": 419001579,
+          "lngE7": -88702764
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJOX5SQYXqJQ0R_rj3T5dJ7YU",
+          "duration": "84s"
+        }, {
+          "placeId": "ChIJUZYsOIXqJQ0R3B1axsgF2e8",
+          "duration": "89s"
+        }, {
+          "placeId": "ChIJ0YtNMYXqJQ0Ri9E9wQthV9k",
+          "duration": "208s"
+        }, {
+          "placeId": "ChIJgc1MLYXqJQ0RyTmYSaYGSlo",
+          "duration": "218s"
+        }, {
+          "placeId": "ChIJa8mZ05rqJQ0Re0TCQtHDiE0",
+          "duration": "34s"
+        }],
+        "distanceMeters": 294.7076351646126,
+        "travelMode": "WALK",
+        "confidence": 0.9166398461409383
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419001325,
+        "longitudeE7": -88707469,
+        "placeId": "ChIJi59254TqJQ0RSOYv70K2Sa8",
+        "address": "Calle, Rúa Manuel Álvarez, 8, 36780 A Guarda, Pontevedra, España",
+        "name": "Centro Do Majó",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 63.312374,
+        "calibratedProbability": 43.144085
+      },
+      "duration": {
+        "startTimestamp": "2023-07-24T13:10:37.898Z",
+        "endTimestamp": "2023-07-24T13:26:44.737Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419003542,
+      "centerLngE7": -88705750,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 418992645,
+        "longitudeE7": -88711599,
+        "placeId": "ChIJAUafjoXqJQ0RCUGIWpmKIOM",
+        "address": "Rúa Tui, s/n, 36780 A Guarda, Pontevedra, España",
+        "name": "CEIP Manuel Rodríguez Sinde",
+        "locationConfidence": 16.282965,
+        "calibratedProbability": 11.095991
+      }, {
+        "latitudeE7": 419003648,
+        "longitudeE7": -88708327,
+        "placeId": "ChIJKbo354TqJQ0RJIvB8ixlEho",
+        "address": "La Guardia, 36780 La Guardia, Pontevedra, España",
+        "name": "A Guarda",
+        "locationConfidence": 3.9213684,
+        "calibratedProbability": 2.672208
+      }, {
+        "latitudeE7": 419002289,
+        "longitudeE7": -88707276,
+        "placeId": "ChIJ4a2OboXqJQ0RC48L2N6EX6w",
+        "address": "Rúa Manuel Álvarez, 8, 36780 A Guarda, Pontevedra, España",
+        "name": "Infomiño.com Noticias",
+        "locationConfidence": 2.6084146,
+        "calibratedProbability": 1.7774986
+      }, {
+        "latitudeE7": 419010337,
+        "longitudeE7": -88717954,
+        "placeId": "ChIJgXKcBoXqJQ0RjiDrBG7XWts",
+        "address": "Rúa Concepción Arenal, 63, 36780 A Guarda, Pontevedra, España",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 1.5438465,
+        "calibratedProbability": 1.052051
+      }, {
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 1.3868248,
+        "calibratedProbability": 0.9450488
+      }, {
+        "latitudeE7": 419003919,
+        "longitudeE7": -88709291,
+        "placeId": "ChIJW0Yr4YTqJQ0RcFPhZIYGz6U",
+        "address": "La Guardia, 36780 La Guardia, Pontevedra, España",
+        "name": "A Guarda",
+        "locationConfidence": 1.2555102,
+        "calibratedProbability": 0.8555648
+      }, {
+        "latitudeE7": 419001348,
+        "longitudeE7": -88711562,
+        "placeId": "ChIJm37s5YTqJQ0R78mI_NND_N0",
+        "address": "Rúa Manuel Álvarez, 1, 36780 A Guarda, Pontevedra, España",
+        "name": "Bocataría Taparía Brétema",
+        "locationConfidence": 1.0637782,
+        "calibratedProbability": 0.72490937
+      }, {
+        "latitudeE7": 419000875,
+        "longitudeE7": -88707750,
+        "placeId": "ChIJbYov5oTqJQ0RRBhQ5yg-Zt8",
+        "address": "Rúa Manuel Álvarez, 6, 36780 A Guarda, Pontevedra, España",
+        "name": "Bar Enigma",
+        "locationConfidence": 0.78784,
+        "calibratedProbability": 0.5368719
+      }, {
+        "latitudeE7": 419020630,
+        "longitudeE7": -88704071,
+        "placeId": "ChIJpeJh-4TqJQ0Rj0x1Jpp9mdY",
+        "address": "Rúa Domínguez Fontela, 2, 36780 A Guarda, Pontevedra, España",
+        "name": "Autoservicios Familia",
+        "locationConfidence": 0.60203743,
+        "calibratedProbability": 0.41025713
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419005386,
+        "longitudeE7": -88706400,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419016962,
+        "longitudeE7": -88702823,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-24T13:26:44.737Z",
+        "endTimestamp": "2023-07-24T13:30:46.871Z"
+      },
+      "distance": 168,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.56961345672607
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.623064234852791
+      }, {
+        "activityType": "STILL",
+        "probability": 2.476443350315094
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6456490606069565
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.20844638347625732
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.19473687279969454
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.18644731026142836
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.042232731357216835
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.017088669119402766
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.013556782505474985
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.010256125096930191
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.006405364547390491
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.00470537124783732
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0013637020856549498
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0006914408222656E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419005851,
+          "lngE7": -88707628
+        }, {
+          "latE7": 419018516,
+          "lngE7": -88700790
+        }, {
+          "latE7": 419017791,
+          "lngE7": -88703851
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJhfz9IIXqJQ0RebtMfCo5Ofg",
+          "duration": "191s"
+        }, {
+          "placeId": "ChIJUZYsOIXqJQ0R3R1axsgF2e8",
+          "duration": "26s"
+        }],
+        "distanceMeters": 193.96837151706777,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404682662,
+        "longitudeE7": -35711005,
+        "placeId": "ChIJ0RqVaMUxQg0RzmEGI0b6uFs",
+        "address": "Barajas, 28042 Madrid, España",
+        "name": "Aeropuerto T1-T2-T3",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 61.324577,
+        "calibratedProbability": 55.75531
+      },
+      "duration": {
+        "startTimestamp": "2023-07-26T20:31:48.571Z",
+        "endTimestamp": "2023-07-26T20:50:45.193Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 404646853,
+      "centerLngE7": -35707093,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404640200,
+        "longitudeE7": -35707100,
+        "placeId": "ChIJHfGNGM4xQg0RomFcqxVYZKk",
+        "address": "Barajas, 28042 Madrid, España",
+        "name": "Aeropuerto T1 - Salidas",
+        "locationConfidence": 6.8815374,
+        "calibratedProbability": 6.2565823
+      }, {
+        "latitudeE7": 404647610,
+        "longitudeE7": -35702789,
+        "placeId": "ChIJnWKGMM4xQg0RBiflczw0nJA",
+        "address": "Barajas, 28042 Madrid, España",
+        "name": "Aeropuerto T1",
+        "locationConfidence": 4.8265038,
+        "calibratedProbability": 4.388179
+      }, {
+        "latitudeE7": 404638747,
+        "longitudeE7": -35699151,
+        "placeId": "ChIJA_HIYEgwQg0Rm-JVbMss7AM",
+        "address": "T1: Arrivals floor, between halls 1 and 2, opposite the Rentacar Area. T4: floor -1 (Rentacar Area, Av de la Hispanidad, s/n, Barajas, 28042 Madrid, España",
+        "name": "Goldcar",
+        "locationConfidence": 3.760926,
+        "calibratedProbability": 3.4193728
+      }, {
+        "latitudeE7": 404640750,
+        "longitudeE7": -35708200,
+        "placeId": "ChIJW6CrGM4xQg0RJrUsWswAHZQ",
+        "address": "Barajas, 28042 Madrid, España",
+        "name": "Aeropuerto T1",
+        "locationConfidence": 2.0297453,
+        "calibratedProbability": 1.8454115
+      }, {
+        "latitudeE7": 404646613,
+        "longitudeE7": -35725182,
+        "placeId": "ChIJkc93x9ExQg0R48IYfJqaSxU",
+        "locationConfidence": 1.7918738,
+        "calibratedProbability": 1.6291425
+      }, {
+        "latitudeE7": 404654832,
+        "longitudeE7": -35712644,
+        "placeId": "ChIJIZ2RL6sxQg0RVPLmB72dI9E",
+        "address": "Av de la Hispanidad, s/n, Terminal 1, Barajas, 28042 Madrid, España",
+        "name": "Parking VIP T1 - Aeropuerto de Adolfo Suárez Madrid-Barajas (MAD)",
+        "locationConfidence": 1.5083506,
+        "calibratedProbability": 1.3713679
+      }, {
+        "latitudeE7": 404640750,
+        "longitudeE7": -35708200,
+        "placeId": "ChIJa60KuAcuQg0Rh6ZeWKVIQRo",
+        "address": "parking, Adolfo Suárez Madrid–Barajas Airport, Av de la Hispanidad, Terminal 1, Barajas, 28042 Madrid, Spain",
+        "name": "Firefly",
+        "locationConfidence": 1.2362895,
+        "calibratedProbability": 1.1240144
+      }, {
+        "latitudeE7": 404633926,
+        "longitudeE7": -35721982,
+        "placeId": "ChIJv1bJgjoxQg0RccWE82IayvE",
+        "address": "Av de la Hispanidad, s/n, Terminal 1, Barajas, 28042 Madrid, España",
+        "name": "Parking General P1 - Aeropuerto de Adolfo Suárez Madrid-Barajas (MAD)",
+        "locationConfidence": 0.9039331,
+        "calibratedProbability": 0.8218413
+      }, {
+        "latitudeE7": 404641100,
+        "longitudeE7": -35709300,
+        "placeId": "ChIJGWHbIc4xQg0RPT1uYW3svx4",
+        "address": "Barajas, 28042 Madrid, España",
+        "name": "Aeropuerto T1 - Llegadas",
+        "locationConfidence": 0.83488655,
+        "calibratedProbability": 0.7590653
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404646432,
+          "lngE7": -35700415,
+          "accuracyMeters": 18,
+          "timestamp": "2023-07-26T20:31:48.571Z"
+        }, {
+          "latE7": 404648204,
+          "lngE7": -35704945,
+          "accuracyMeters": 17,
+          "timestamp": "2023-07-26T20:32:18.946Z"
+        }, {
+          "latE7": 404648181,
+          "lngE7": -35710234,
+          "accuracyMeters": 17,
+          "timestamp": "2023-07-26T20:36:22.782Z"
+        }, {
+          "latE7": 404649040,
+          "lngE7": -35709549,
+          "accuracyMeters": 27,
+          "timestamp": "2023-07-26T20:37:07.779Z"
+        }, {
+          "latE7": 404644546,
+          "lngE7": -35709279,
+          "accuracyMeters": 26,
+          "timestamp": "2023-07-26T20:39:43.045Z"
+        }, {
+          "latE7": 404648486,
+          "lngE7": -35709632,
+          "accuracyMeters": 24,
+          "timestamp": "2023-07-26T20:40:26.785Z"
+        }, {
+          "latE7": 404648498,
+          "lngE7": -35709614,
+          "accuracyMeters": 10,
+          "timestamp": "2023-07-26T20:40:56.787Z"
+        }, {
+          "latE7": 404640801,
+          "lngE7": -35710900,
+          "accuracyMeters": 9,
+          "timestamp": "2023-07-26T20:41:56.785Z"
+        }, {
+          "latE7": 404640848,
+          "lngE7": -35707115,
+          "accuracyMeters": 11,
+          "timestamp": "2023-07-26T20:44:11.782Z"
+        }, {
+          "latE7": 404644116,
+          "lngE7": -35710064,
+          "accuracyMeters": 34,
+          "timestamp": "2023-07-26T20:47:47.274Z"
+        }, {
+          "latE7": 404644614,
+          "lngE7": -35709558,
+          "accuracyMeters": 15,
+          "timestamp": "2023-07-26T20:48:42.194Z"
+        }, {
+          "latE7": 404647700,
+          "lngE7": -35707282,
+          "accuracyMeters": 19,
+          "timestamp": "2023-07-26T20:49:51.784Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 413.7446808965498
+      },
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404649086,
+        "longitudeE7": -35708029,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403298402,
+        "longitudeE7": -37659335,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-07-26T20:50:45.193Z",
+        "endTimestamp": "2023-07-26T21:11:50.969Z"
+      },
+      "distance": 22329,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 74.3964433670044
+      }, {
+        "activityType": "STILL",
+        "probability": 12.654002010822296
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.5431893318891525
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.6195166409015656
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 1.9165007397532463
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.0021540336310863
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.5499915685504675
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.5047628190368414
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.32350358087569475
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.31742502469569445
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12608588440343738
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.02069510956062004
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.016883165517356247
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.00883303364389576
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.248424248653464E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404658744,
+          "lngE7": -35721292,
+          "accuracyMeters": 500,
+          "timestamp": "2023-07-26T20:51:52.793Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 22460.951222562035
+      }
+    }
+  }]
+}

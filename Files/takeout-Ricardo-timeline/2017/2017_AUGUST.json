@@ -1,0 +1,167 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257779021,
+        "longitudeE7": -803620478
+      },
+      "endLocation": {
+        "latitudeE7": 257740565,
+        "longitudeE7": -803227395,
+        "placeId": "ChIJ_Sc2ZB652YgRPRA8v8364E0",
+        "address": "7795 West Flagler Street, Miami, Florida 33144, United States",
+        "name": "Mall of the Americas",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.46677,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-08-13T17:54:34.341Z",
+        "endTimestamp": "2017-08-13T18:11:45.099Z"
+      },
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 95.12967937921253
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.621822871268475
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.564874550288899
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257779846,
+          "lngE7": -803620681
+        }, {
+          "latE7": 257734470,
+          "lngE7": -803486633
+        }, {
+          "latE7": 257753429,
+          "lngE7": -803221817
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257740565,
+        "longitudeE7": -803227395,
+        "placeId": "ChIJ_Sc2ZB652YgRPRA8v8364E0",
+        "address": "7795 West Flagler Street, Miami, Florida 33144, United States",
+        "name": "Mall of the Americas",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.46677,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-08-13T18:11:45.099Z",
+        "endTimestamp": "2017-08-13T18:42:04.067Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257747809,
+      "centerLngE7": -803220323,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257755013,
+        "longitudeE7": -803215628,
+        "placeId": "ChIJfwbhhAe52YgRUf0mfK4zYPw",
+        "address": "7757 W Flagler St, Miami, FL 33126, USA",
+        "name": "Costco Vision Center",
+        "locationConfidence": 0.50313455
+      }, {
+        "latitudeE7": 257774700,
+        "longitudeE7": -803224910,
+        "placeId": "ChIJM_1uCgi52YgRxgpu3gJJCLs",
+        "address": "7707 NW 7th St, Miami, FL 33126, USA",
+        "name": "Royal Palms Apartments",
+        "locationConfidence": 0.0034008073
+      }, {
+        "latitudeE7": 257733949,
+        "longitudeE7": -803491599,
+        "placeId": "ChIJd9mTTzW32YgRT13jZAonra0",
+        "address": "Florida, USA",
+        "locationConfidence": 0.0027330138,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257728609,
+        "longitudeE7": -803252655,
+        "placeId": "ChIJk25HsSG52YgRuXzs7SzEu_M",
+        "address": "7921 NW 2nd St, Miami, FL 33126, USA",
+        "name": "Italian Sports Grill",
+        "locationConfidence": 0.0024179136
+      }, {
+        "latitudeE7": 257728720,
+        "longitudeE7": -803250690,
+        "placeId": "ChIJzfhztga52YgR0kK8tT5yEoo",
+        "address": "7917 NW 2nd St, Miami, FL 33126, USA",
+        "name": "Sushi Cafe \u0026 Shilla Korean BBQ",
+        "locationConfidence": 0.0018879415
+      }, {
+        "latitudeE7": 257728791,
+        "longitudeE7": -803249059,
+        "placeId": "ChIJOa79yQa52YgRIBkCAlol6Zs",
+        "address": "7909 NW 2nd St, Miami, FL 33126, USA",
+        "name": "China Village",
+        "locationConfidence": 0.0017939283
+      }, {
+        "latitudeE7": 257738840,
+        "longitudeE7": -803215982,
+        "placeId": "ChIJdwQjdaq52YgRl-Uo_VvSONo",
+        "address": "7757 W Flagler St, Miami, FL 33144, USA",
+        "locationConfidence": 0.0014530036,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257723963,
+        "longitudeE7": -803260608,
+        "placeId": "ChIJQ7ZrAAS52YgRBRPCs2p1lFA",
+        "address": "7969 NW 2nd St, Miami, FL 33126, USA",
+        "name": "Westside Amusements",
+        "locationConfidence": 0.0012463932
+      }, {
+        "latitudeE7": 257736829,
+        "longitudeE7": -803239654,
+        "placeId": "ChIJbw2sHQe52YgRInohGDzByu8",
+        "address": "Fontainebleau, FL 33126, USA",
+        "locationConfidence": 0.0010474654
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257752892,
+          "lngE7": -803216371,
+          "accuracyMeters": 23,
+          "timestamp": "2017-08-13T18:13:49.086Z"
+        }, {
+          "latE7": 257742872,
+          "lngE7": -803220505,
+          "accuracyMeters": 50,
+          "timestamp": "2017-08-13T18:15:49.204Z"
+        }, {
+          "latE7": 257748826,
+          "lngE7": -803218873,
+          "accuracyMeters": 25,
+          "timestamp": "2017-08-13T18:16:51.017Z"
+        }, {
+          "latE7": 257752476,
+          "lngE7": -803222137,
+          "accuracyMeters": 22,
+          "timestamp": "2017-08-13T18:39:03.306Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 617.1738250474148
+      },
+      "locationConfidence": 90,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

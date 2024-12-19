@@ -1,0 +1,90 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.85544
+      },
+      "duration": {
+        "startTimestamp": "2015-05-02T15:19:54.401Z",
+        "endTimestamp": "2015-05-02T16:20:58.281Z"
+      },
+      "centerLatE7": 257790636,
+      "centerLngE7": -803621675,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257785974,
+        "longitudeE7": -803630191,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.09925683,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.016012976,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.008176634
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0071017626,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.0056722607
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0015536584
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0014221108
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0012813209,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.555953E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

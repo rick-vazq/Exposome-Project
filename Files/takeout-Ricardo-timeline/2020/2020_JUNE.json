@@ -1,0 +1,1309 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 59.151096,
+        "calibratedProbability": 35.231934
+      },
+      "duration": {
+        "startTimestamp": "2020-06-02T23:12:19.433Z",
+        "endTimestamp": "2020-06-03T06:06:29.650Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419017287,
+      "centerLngE7": -88702227,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Rúa Ourense, 7, 36789 A Guarda, Pontevedra, España",
+        "locationConfidence": 35.582966,
+        "calibratedProbability": 21.194141
+      }, {
+        "latitudeE7": 419017150,
+        "longitudeE7": -88690750,
+        "placeId": "ChIJjQjuy5rqJQ0RZ_H4TSBYzbs",
+        "address": "Rúa Tomiño, 8, 36789 A Guarda, Pontevedra, España",
+        "name": "Hotel Vila da Guarda",
+        "locationConfidence": 2.3949974,
+        "calibratedProbability": 1.4265227
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 0.8299527,
+        "calibratedProbability": 0.49434143
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 0.73250055,
+        "calibratedProbability": 0.4362964
+      }, {
+        "latitudeE7": 419017601,
+        "longitudeE7": -88699972,
+        "placeId": "ChIJKf5CN4XqJQ0Rrc6c5_8xiuc",
+        "address": "Rúa Manuel Álvarez, 36780 Guarda ( A ), Pontevedra, España",
+        "name": "Grupo Policlínico La Guardia S L",
+        "locationConfidence": 0.60238683,
+        "calibratedProbability": 0.35879728
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 87.33127,
+        "calibratedProbability": 61.246353,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-06-03T06:06:29.650Z",
+        "endTimestamp": "2020-06-05T20:30:31.837Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419015374,
+      "centerLngE7": -88694558,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 11.408893,
+        "calibratedProbability": 8.001179,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 0.33139434,
+        "calibratedProbability": 0.2324104
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 0.27037108,
+        "calibratedProbability": 0.18961413
+      }, {
+        "latitudeE7": 419015853,
+        "longitudeE7": -88695043,
+        "placeId": "ChIJSeiVM4XqJQ0R7Ii-9qplNME",
+        "address": "Rúa Pontevedra, 1, bajo, 36780 A Guarda, Pontevedra, Spain",
+        "name": "Clínicas Dentales López Sousa",
+        "locationConfidence": 0.17371705,
+        "calibratedProbability": 0.12182963
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 59.187862,
+        "calibratedProbability": 42.47584
+      },
+      "duration": {
+        "startTimestamp": "2020-06-05T20:30:31.837Z",
+        "endTimestamp": "2020-06-06T21:13:08.978Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419017285,
+      "centerLngE7": -88702735,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Rúa Ourense, 7, 36789 A Guarda, Pontevedra, España",
+        "locationConfidence": 35.55368,
+        "calibratedProbability": 25.514902
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 1.1858518,
+        "calibratedProbability": 0.85102,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 1.0686747,
+        "calibratedProbability": 0.76692843
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.9315121,
+        "calibratedProbability": 0.6684945
+      }, {
+        "latitudeE7": 419023225,
+        "longitudeE7": -88711991,
+        "placeId": "ChIJfSSlWn_rJQ0R0d68IxIB_WQ",
+        "address": "Rúa Vicente Sobrino, 24, 36780 A Guarda, Pontevedra, España",
+        "name": "Cafe bar La Luna",
+        "locationConfidence": 0.6466398,
+        "calibratedProbability": 0.46405748
+      }, {
+        "latitudeE7": 419017150,
+        "longitudeE7": -88690750,
+        "placeId": "ChIJjQjuy5rqJQ0RZ_H4TSBYzbs",
+        "address": "Rúa Tomiño, 8, 36789 A Guarda, Pontevedra, España",
+        "name": "Hotel Vila da Guarda",
+        "locationConfidence": 0.62274754,
+        "calibratedProbability": 0.4469113
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 57.100292,
+        "calibratedProbability": 42.35515
+      },
+      "duration": {
+        "startTimestamp": "2020-06-06T21:13:08.978Z",
+        "endTimestamp": "2020-06-10T23:28:03.722Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419014983,
+      "centerLngE7": -88694997,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 41.72681,
+        "calibratedProbability": 30.951597
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.3149412,
+        "calibratedProbability": 0.23361318
+      }, {
+        "latitudeE7": 419015853,
+        "longitudeE7": -88695043,
+        "placeId": "ChIJSeiVM4XqJQ0R7Ii-9qplNME",
+        "address": "Rúa Pontevedra, 1, bajo, 36780 A Guarda, Pontevedra, Spain",
+        "name": "Clínicas Dentales López Sousa",
+        "locationConfidence": 0.21209446,
+        "calibratedProbability": 0.1573248
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 0.19406758,
+        "calibratedProbability": 0.14395306
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 53.79795,
+        "calibratedProbability": 31.3532
+      },
+      "duration": {
+        "startTimestamp": "2020-06-10T23:28:03.722Z",
+        "endTimestamp": "2020-06-11T03:24:52.797Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419017571,
+      "centerLngE7": -88703045,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Rúa Ourense, 7, 36789 A Guarda, Pontevedra, España",
+        "locationConfidence": 40.948986,
+        "calibratedProbability": 23.864882
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 1.4518821,
+        "calibratedProbability": 0.8461503
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 1.0757319,
+        "calibratedProbability": 0.6269316
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 1.0580724,
+        "calibratedProbability": 0.6166398
+      }, {
+        "latitudeE7": 419023225,
+        "longitudeE7": -88711991,
+        "placeId": "ChIJfSSlWn_rJQ0R0d68IxIB_WQ",
+        "address": "Rúa Vicente Sobrino, 24, 36780 A Guarda, Pontevedra, España",
+        "name": "Cafe bar La Luna",
+        "locationConfidence": 0.71461517,
+        "calibratedProbability": 0.41647446
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 83.60495,
+        "calibratedProbability": 68.305504
+      },
+      "duration": {
+        "startTimestamp": "2020-06-11T03:24:52.797Z",
+        "endTimestamp": "2020-06-16T18:13:47.270Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419014864,
+      "centerLngE7": -88695072,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 15.5668125,
+        "calibratedProbability": 12.718134
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.22917594,
+        "calibratedProbability": 0.18723744
+      }, {
+        "latitudeE7": 419015853,
+        "longitudeE7": -88695043,
+        "placeId": "ChIJSeiVM4XqJQ0R7Ii-9qplNME",
+        "address": "Rúa Pontevedra, 1, bajo, 36780 A Guarda, Pontevedra, Spain",
+        "name": "Clínicas Dentales López Sousa",
+        "locationConfidence": 0.16604324,
+        "calibratedProbability": 0.13565783
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 0.15510333,
+        "calibratedProbability": 0.12671989
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419021569,
+        "longitudeE7": -88703918,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 418995060,
+        "longitudeE7": -88595544,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-06-16T18:13:47.270Z",
+        "endTimestamp": "2020-06-16T18:30:06.283Z"
+      },
+      "distance": 1110,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 80.36861419677734
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.416631937026978
+      }, {
+        "activityType": "STILL",
+        "probability": 3.1946074217557907
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.0097341388463974
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.1819983832538128
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.0100910440087318
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.609954446554184
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.08424023981206119
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0379634671844542
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.023973929637577385
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.023719882301520556
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.02187007339671254
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.01170335162896663
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0043376498069847
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.582169251283631E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419021568,
+          "lngE7": -88703870
+        }, {
+          "latE7": 419026641,
+          "lngE7": -88699712
+        }, {
+          "latE7": 418996887,
+          "lngE7": -88595752
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1313.6925572640705,
+        "travelMode": "WALK",
+        "confidence": 0.999672367627222
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 418995246,
+        "longitudeE7": -88618251,
+        "placeId": "ChIJw5kPMJnqJQ0R0qvbTP_kBcE",
+        "address": "Avenida Paseo Portugal, s/n, 36789 A Guarda, Pontevedra, España",
+        "name": "Campo de fútbol de A Sangriña",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 54.694115,
+        "calibratedProbability": 33.602436
+      },
+      "duration": {
+        "startTimestamp": "2020-06-16T18:30:06.283Z",
+        "endTimestamp": "2020-06-16T18:42:53.121Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 418995000,
+      "centerLngE7": -88595500,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419004498,
+        "longitudeE7": -88599762,
+        "placeId": "ChIJjdc16pjqJQ0RkGmsgilQnkI",
+        "address": "s/n, 36780, Avenida Paseo Portugal, 36789 A Guarda, Pontevedra, Spain",
+        "name": "Punto Limpo da Guarda",
+        "locationConfidence": 29.511032,
+        "calibratedProbability": 18.130701
+      }, {
+        "latitudeE7": 418991986,
+        "longitudeE7": -88618811,
+        "placeId": "ChIJw5kPMJnqJQ0R0qvbTP_kBcE",
+        "address": "Avenida Paseo Portugal, s/n, 36789 A Guarda, Pontevedra, España",
+        "name": "Campo de fútbol da Sangriña",
+        "locationConfidence": 5.2849884,
+        "calibratedProbability": 3.2469397
+      }, {
+        "latitudeE7": 418978458,
+        "longitudeE7": -88587517,
+        "placeId": "ChIJf8o9Z5_qJQ0RGBxE3MvUTGY",
+        "address": "Lugar Longra, 11, 36788 A Guarda, Pontevedra, Spain",
+        "name": "Cemiterio",
+        "locationConfidence": 3.4069595,
+        "calibratedProbability": 2.0931346
+      }, {
+        "latitudeE7": 418988251,
+        "longitudeE7": -88611422,
+        "placeId": "ChIJCeud1Z7qJQ0RShsxfOuFnbY",
+        "address": "Avenida Paseo Portugal, 25, 36788 A Pasaxe, Pontevedra, España",
+        "name": "Posto Garda Civil da Guarda",
+        "locationConfidence": 2.0670848,
+        "calibratedProbability": 1.2699554
+      }, {
+        "latitudeE7": 418977138,
+        "longitudeE7": -88597960,
+        "placeId": "ChIJX_gfFZ_qJQ0RXOKGeorDu-M",
+        "address": "Avenida Paseo Portugal, 21, 36788 A Guarda, Pontevedra, España",
+        "name": "Tanatorio",
+        "locationConfidence": 1.3379108,
+        "calibratedProbability": 0.82197255
+      }, {
+        "latitudeE7": 418984148,
+        "longitudeE7": -88590071,
+        "placeId": "ChIJF3Zx9b3qJQ0RGvr8L5cOi8k",
+        "address": "Camino Sestas, 10, 36789 Guarda ( A ), Pontevedra, España",
+        "name": "Sistemas Fametal S L",
+        "locationConfidence": 0.8635376,
+        "calibratedProbability": 0.5305318
+      }, {
+        "latitudeE7": 418971705,
+        "longitudeE7": -88590842,
+        "placeId": "ChIJA4cXcp_qJQ0RFMwvc6M-D8M",
+        "address": "Avenida Paseo Portugal, 36780 A Guarda, Pontevedra, España",
+        "name": "Talleres Silva",
+        "locationConfidence": 0.80211663,
+        "calibratedProbability": 0.4927966
+      }, {
+        "latitudeE7": 419014665,
+        "longitudeE7": -88618959,
+        "placeId": "ChIJ3RaXp5nqJQ0RMfOoz2vY6Fo",
+        "address": "Rua Vigo, s/n, 36780 A Guarda, Pontevedra, España",
+        "name": "Conservatorio de Música da Guarda",
+        "locationConfidence": 0.79622376,
+        "calibratedProbability": 0.48917618
+      }, {
+        "latitudeE7": 418984056,
+        "longitudeE7": -88588397,
+        "placeId": "ChIJZdm1qYnqJQ0RitajwKr-WUs",
+        "address": "Calle Sestas, 10, 36780 A Guarda, Pontevedra, España",
+        "name": "Pórtico Paneles S L",
+        "locationConfidence": 0.71261764,
+        "calibratedProbability": 0.43781108
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 418995062,
+        "longitudeE7": -88595536,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419031870,
+        "longitudeE7": -88681954,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-06-16T18:42:53.121Z",
+        "endTimestamp": "2020-06-16T18:55:48.925Z"
+      },
+      "distance": 1029,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 82.75198936462402
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.058848023414612
+      }, {
+        "activityType": "STILL",
+        "probability": 2.798985131084919
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.459830977022648
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.1121428571641445
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.0952416807413101
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.5555217619985342
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06897199782542884
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.030121137388050556
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.022455571161117405
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.019901823543477803
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.012386632442940027
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010289175406796858
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.002787863377307076
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.295737992128124E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 418996887,
+          "lngE7": -88595743
+        }, {
+          "latE7": 419036674,
+          "lngE7": -88651876
+        }, {
+          "latE7": 419041481,
+          "lngE7": -88652973
+        }, {
+          "latE7": 419032669,
+          "lngE7": -88679800
+        }, {
+          "latE7": 419031715,
+          "lngE7": -88681831
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1165.9663495625616,
+        "travelMode": "WALK",
+        "confidence": 0.8711497386221029
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 419040871,
+          "lngE7": -88651304,
+          "accuracyMeters": 23,
+          "timestamp": "2020-06-16T18:51:46.826Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 82.25456,
+        "calibratedProbability": 61.341713
+      },
+      "duration": {
+        "startTimestamp": "2020-06-16T18:55:48.925Z",
+        "endTimestamp": "2020-06-17T09:37:52.516Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419017031,
+      "centerLngE7": -88701914,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 5.8092957,
+        "calibratedProbability": 4.3323083
+      }, {
+        "latitudeE7": 419026573,
+        "longitudeE7": -88709552,
+        "placeId": "ChIJaTEDZI_qJQ0RfLIMI9R24OQ",
+        "address": "Rúa Galicia, 21, 36780 A Guarda, Pontevedra, España",
+        "name": "Banco Santander",
+        "locationConfidence": 2.409795,
+        "calibratedProbability": 1.7971156
+      }, {
+        "latitudeE7": 419012372,
+        "longitudeE7": -88704270,
+        "placeId": "ChIJvYH1I4XqJQ0R-GyGwYH1VRY",
+        "address": "Rúa Manuel Álvarez, 23, 36780 A Guarda, Pontevedra, España",
+        "name": "Gestoría Rodríguez Peniza",
+        "locationConfidence": 1.5714924,
+        "calibratedProbability": 1.1719476
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 1.5575404,
+        "calibratedProbability": 1.1615428
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 1.445615,
+        "calibratedProbability": 1.078074
+      }, {
+        "latitudeE7": 419020630,
+        "longitudeE7": -88704071,
+        "placeId": "ChIJpeJh-4TqJQ0Rj0x1Jpp9mdY",
+        "address": "Rúa Domínguez Fontela, 2, 36780 A Guarda, Pontevedra, España",
+        "name": "Autoservicios Familia",
+        "locationConfidence": 1.260731,
+        "calibratedProbability": 0.9401958
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 1.1902322,
+        "calibratedProbability": 0.887621
+      }, {
+        "latitudeE7": 419031075,
+        "longitudeE7": -88684817,
+        "placeId": "ChIJvXo9pprqJQ0RlGUJPig4n-Y",
+        "address": "Rúa Galicia, 53, 36780 A Guarda, Pontevedra, España",
+        "name": "Novo Bar",
+        "locationConfidence": 1.0256765,
+        "calibratedProbability": 0.7649029
+      }, {
+        "latitudeE7": 419027824,
+        "longitudeE7": -88690977,
+        "placeId": "ChIJQbDqrZrqJQ0RVR-Wt_UxF5A",
+        "address": "Rúa Concepción Arenal, 101, 36780 A Guarda, Pontevedra, España",
+        "name": "La Bodega",
+        "locationConfidence": 0.60132056,
+        "calibratedProbability": 0.44843754
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 67,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419014720,
+        "longitudeE7": -88695452,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419014722,
+        "longitudeE7": -88695387,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-06-17T09:37:52.516Z",
+        "endTimestamp": "2020-06-17T11:19:31.064Z"
+      },
+      "distance": 1716,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 89.03110027313232
+      }, {
+        "activityType": "STILL",
+        "probability": 4.901303723454475
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.621533676981926
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.57117510586977
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5294188857078552
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.16745642060413957
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.12475709663704038
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.015154620632529259
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.013261736603453755
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010630075121298432
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.004619805622496642
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004389527384773828
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0036040062695974484
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.001435093963664258
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.6155026969499886E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419015007,
+          "lngE7": -88695001
+        }, {
+          "latE7": 419029960,
+          "lngE7": -88646297
+        }, {
+          "latE7": 418996887,
+          "lngE7": -88595752
+        }, {
+          "latE7": 418983116,
+          "lngE7": -88610944
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2782.5787847533284,
+        "travelMode": "WALK",
+        "confidence": 0.9766527501064767
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 418995056,
+          "lngE7": -88595543,
+          "accuracyMeters": 15,
+          "timestamp": "2020-06-17T09:56:48.596Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 72.11688,
+        "calibratedProbability": 48.409164
+      },
+      "duration": {
+        "startTimestamp": "2020-06-17T11:19:31.064Z",
+        "endTimestamp": "2020-06-24T20:47:50.100Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419017241,
+      "centerLngE7": -88702362,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 20.752647,
+        "calibratedProbability": 13.930418
+      }, {
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 3.1458454,
+        "calibratedProbability": 2.1116796
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 1.0979435,
+        "calibratedProbability": 0.7370054
+      }, {
+        "latitudeE7": 419026060,
+        "longitudeE7": -88704000,
+        "placeId": "ChIJq-EtnprqJQ0RLZ9UJnSWUqU",
+        "address": "Rúa Galicia, 29, 36780 A Guarda, Pontevedra, España",
+        "name": "Inmobiliaria Santa Tecla",
+        "locationConfidence": 0.82695496,
+        "calibratedProbability": 0.55510163
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.7240821,
+        "calibratedProbability": 0.48604724
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419016755,
+        "longitudeE7": -88705400,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419015471,
+        "longitudeE7": -88694632,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-06-24T20:47:50.100Z",
+        "endTimestamp": "2020-06-24T21:10:15.885Z"
+      },
+      "distance": 90,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 78.09309959411621
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.674366563558578
+      }, {
+        "activityType": "STILL",
+        "probability": 8.713959902524948
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9309839457273483
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.8460084907710552
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.7277241908013821
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6192308850586414
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10271877981722355
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.09393765358254313
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08295554434880614
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.08127248147502542
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013475274317897856
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01010326377581805
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.009401686838828027
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.655035915377084E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419016761,
+          "lngE7": -88705396
+        }, {
+          "latE7": 419018440,
+          "lngE7": -88700962
+        }, {
+          "latE7": 419015121,
+          "lngE7": -88695135
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 127.64536943629737,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 71.62064,
+        "calibratedProbability": 54.48309,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-06-24T21:10:15.885Z",
+        "endTimestamp": "2020-06-30T14:21:46.121Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419015425,
+      "centerLngE7": -88694375,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 27.631893,
+        "calibratedProbability": 21.02007,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.18920985,
+        "calibratedProbability": 0.14393528
+      }, {
+        "latitudeE7": 419015853,
+        "longitudeE7": -88695043,
+        "placeId": "ChIJSeiVM4XqJQ0R7Ii-9qplNME",
+        "address": "Rúa Pontevedra, 1, bajo, 36780 A Guarda, Pontevedra, Spain",
+        "name": "Clínicas Dentales López Sousa",
+        "locationConfidence": 0.16165642,
+        "calibratedProbability": 0.122974895
+      }, {
+        "latitudeE7": 419010281,
+        "longitudeE7": -88690845,
+        "placeId": "ChIJ4SE_4QbrJQ0RJlL8C6TkHZE",
+        "address": "Rúa A Coruña, 2, 36789 A Guarda, Pontevedra, España",
+        "name": "Aparcadoiro da Rúa Tui",
+        "locationConfidence": 0.080301836,
+        "calibratedProbability": 0.061087023
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 57,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 60.992374,
+        "calibratedProbability": 35.20618
+      },
+      "duration": {
+        "startTimestamp": "2020-06-30T14:21:46.121Z",
+        "endTimestamp": "2020-06-30T20:22:22.487Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 419017260,
+      "centerLngE7": -88702530,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Rúa Ourense, 7, 36789 A Guarda, Pontevedra, España",
+        "locationConfidence": 36.305283,
+        "calibratedProbability": 20.956234
+      }, {
+        "latitudeE7": 419016240,
+        "longitudeE7": -88702200,
+        "placeId": "ChIJnzAzOoXqJQ0RNAG5bTrpE3o",
+        "address": "Rúa Manuel Álvarez, nº27, bajo, 36780 A Guarda, Pontevedra, España",
+        "name": "Optica Alma",
+        "locationConfidence": 0.6451662,
+        "calibratedProbability": 0.37240458
+      }, {
+        "latitudeE7": 419017150,
+        "longitudeE7": -88690750,
+        "placeId": "ChIJjQjuy5rqJQ0RZ_H4TSBYzbs",
+        "address": "Rúa Tomiño, 8, 36789 A Guarda, Pontevedra, España",
+        "name": "Hotel Vila da Guarda",
+        "locationConfidence": 0.5254123,
+        "calibratedProbability": 0.3032799
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.40440735,
+        "calibratedProbability": 0.2334331
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 419016630,
+        "longitudeE7": -88701998,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 419017245,
+        "longitudeE7": -88705193,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-06-30T20:22:22.487Z",
+        "endTimestamp": "2020-06-30T21:11:03.949Z"
+      },
+      "distance": 3821,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 89.98177647590637
+      }, {
+        "activityType": "STILL",
+        "probability": 2.860451489686966
+      }, {
+        "activityType": "RUNNING",
+        "probability": 2.681124024093151
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.3642798885703087
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1335068382322788
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.34864956978708506
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.21299903746694326
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.2015222329646349
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.1391577534377575
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.02834613260347396
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.020171086362097412
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.016761761798989028
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.007791301322868094
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.003358893809490837
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.06660650089907E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 419016227,
+          "lngE7": -88700895
+        }, {
+          "latE7": 418991317,
+          "lngE7": -88724985
+        }, {
+          "latE7": 418881797,
+          "lngE7": -88804903
+        }, {
+          "latE7": 419010276,
+          "lngE7": -88715248
+        }, {
+          "latE7": 419017066,
+          "lngE7": -88704957
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4463.133380777554,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 418881493,
+          "lngE7": -88803196,
+          "accuracyMeters": 63,
+          "timestamp": "2020-06-30T20:48:39.186Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 419015656,
+        "longitudeE7": -88694582,
+        "placeId": "ChIJTdQszZrqJQ0RPI9zHrARvUs",
+        "address": "Calle Orense, 7, 36789 A Guarda, Pontevedra, Spain",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 73.87287,
+        "calibratedProbability": 60.126934,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-06-30T21:11:03.949Z",
+        "endTimestamp": "2020-07-02T20:39:52.901Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 419015705,
+      "centerLngE7": -88694720,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 419015420,
+        "longitudeE7": -88693460,
+        "placeId": "ChIJiUsyzZrqJQ0RLrtkhjbRads",
+        "address": "Rúa Ourense, 7, 36780 A Guarda, Pontevedra, España",
+        "name": "Hotel Bruselas",
+        "locationConfidence": 24.84726,
+        "calibratedProbability": 20.223791,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 419020376,
+        "longitudeE7": -88696195,
+        "placeId": "ChIJY8UkyprqJQ0RURy2PHnJCCo",
+        "address": "Rúa Manuel Álvarez, 32, 36780 A Guarda, Pontevedra, España",
+        "name": "Supermercados Froiz",
+        "locationConfidence": 0.5540343,
+        "calibratedProbability": 0.45094204
+      }, {
+        "latitudeE7": 419026814,
+        "longitudeE7": -88696393,
+        "placeId": "ChIJQ_kNUoXqJQ0RoDq1v9fvIEQ",
+        "address": "Rúa Galicia, 34, bajo, 36780 La Guardia, Pontevedra, España",
+        "name": "El Relàmpago",
+        "locationConfidence": 0.19676788,
+        "calibratedProbability": 0.16015418
+      }, {
+        "latitudeE7": 419015853,
+        "longitudeE7": -88695043,
+        "placeId": "ChIJSeiVM4XqJQ0R7Ii-9qplNME",
+        "address": "Rúa Pontevedra, 1, bajo, 36780 A Guarda, Pontevedra, Spain",
+        "name": "Clínicas Dentales López Sousa",
+        "locationConfidence": 0.17332873,
+        "calibratedProbability": 0.14107648,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,230 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790145,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.034
+      },
+      "duration": {
+        "startTimestamp": "2017-06-07T00:29:54.295Z",
+        "endTimestamp": "2017-06-07T10:30:40.051Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257788386,
+      "centerLngE7": -803621174,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.8163646,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.086301744
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.027725054
+      }, {
+        "latitudeE7": 257696190,
+        "longitudeE7": -803444518,
+        "placeId": "ChIJy06qMSC52YgRayGNJmsCOl8",
+        "address": "9204 W Flagler St, Miami, FL 33174, USA",
+        "name": "Firehouse Subs Fountainbleau",
+        "locationConfidence": 0.0059316126
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0039145565
+      }, {
+        "latitudeE7": 257789768,
+        "longitudeE7": -803573620,
+        "placeId": "ChIJ65G57C-52YgRRBkujX36nTc",
+        "address": "9934 NW 10th St, Miami, FL 33172, USA",
+        "name": "Las Ramblas",
+        "locationConfidence": 0.0029385982
+      }, {
+        "latitudeE7": 257769160,
+        "longitudeE7": -803604540,
+        "placeId": "ChIJAx_8Kiy52YgRuc8pIaoQiP0",
+        "address": "15 SW 8th St, Miami, FL 33144, USA",
+        "name": "Dinara",
+        "locationConfidence": 0.002538784
+      }, {
+        "latitudeE7": 257785000,
+        "longitudeE7": -803610810,
+        "placeId": "ChIJn36Vwi252YgRuEB5sR8JnGA",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Miami Handyman",
+        "locationConfidence": 0.002258249
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0019084457
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257778053,
+        "longitudeE7": -803626569
+      },
+      "endLocation": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700
+      },
+      "duration": {
+        "startTimestamp": "2017-06-07T10:30:40.051Z",
+        "endTimestamp": "2017-06-07T10:36:57.101Z"
+      },
+      "distance": 3679,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 98.71286729997117
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6019768521688985
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.36257295138972195
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257778072,
+          "lngE7": -803626556
+        }, {
+          "latE7": 257988262,
+          "lngE7": -803751678
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257961602,
+          "longitudeE7": -803699429,
+          "accuracyMetres": 50
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-06-07T10:35:39.329Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy Preparatory High School",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 89.13177
+      },
+      "duration": {
+        "startTimestamp": "2017-06-07T10:36:57.101Z",
+        "endTimestamp": "2017-06-07T11:17:12.729Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 257982559,
+      "centerLngE7": -803748528,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJEzvoMLe-2YgRZJThhfXdtQA",
+        "address": "2525 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "DORAL COLLEGE",
+        "locationConfidence": 5.221123
+      }, {
+        "latitudeE7": 257984062,
+        "longitudeE7": -803764879,
+        "placeId": "ChIJJa5nUbe-2YgRtMUI7BMI4Os",
+        "address": "2601 NW 112th Ave, Doral, FL 33172, USA",
+        "locationConfidence": 2.3141994
+      }, {
+        "latitudeE7": 257982560,
+        "longitudeE7": -803767150,
+        "placeId": "ChIJz4WkVre-2YgRHfouTgU3DLA",
+        "address": "2601 NW 112th Ave, Miami, FL 33172, USA",
+        "name": "Doral Academy Charter Middle School",
+        "locationConfidence": 2.0285442
+      }, {
+        "latitudeE7": 257982741,
+        "longitudeE7": -803751162,
+        "placeId": "ChIJ7c_JM7e-2YgRvYBRPC3ZmpQ",
+        "address": "11100 NW 27th St #315, Doral, FL 33172, USA",
+        "name": "Firebird Playhouse",
+        "locationConfidence": 0.6618216
+      }, {
+        "latitudeE7": 257988000,
+        "longitudeE7": -803734970,
+        "placeId": "ChIJFSwCMrG-2YgRf0As-_ID1V0",
+        "address": "Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 0.12167825
+      }, {
+        "latitudeE7": 257992143,
+        "longitudeE7": -803751922,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.076418765
+      }, {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy Hoop School",
+        "locationConfidence": 0.04959364
+      }, {
+        "latitudeE7": 257956599,
+        "longitudeE7": -803750297,
+        "placeId": "ChIJIRUjAre-2YgRw_lDJcG3dD8",
+        "address": "2400 NW 110th Ave, Miami, FL 33172, USA",
+        "name": "Soccer City Miami",
+        "locationConfidence": 0.049064506
+      }, {
+        "latitudeE7": 257988416,
+        "longitudeE7": -803759236,
+        "placeId": "ChIJk8iBrbC-2YgR-9Lzm4aKs48",
+        "name": "ACD Cargo",
+        "locationConfidence": 0.033140715
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

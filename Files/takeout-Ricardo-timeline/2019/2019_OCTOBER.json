@@ -1,0 +1,3082 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257783525,
+        "longitudeE7": -803627837,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 257705307,
+        "longitudeE7": -803583527,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T17:30:32Z",
+        "endTimestamp": "2019-10-04T17:35:04.392Z"
+      },
+      "distance": 1315,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 97.90434633751562
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.5379096233793887
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2861975449208613
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257783088,
+          "lngE7": -803627929
+        }, {
+          "latE7": 257687015,
+          "lngE7": -803608169
+        }, {
+          "latE7": 257704963,
+          "lngE7": -803583526
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJee-yCS252YgRWVjjkBJbI6c"
+        }, {
+          "placeId": "ChIJuxc6qS252YgRBuOJo-oPW6s"
+        }, {
+          "placeId": "ChIJx-Ae_iy52YgR8QdCslEUEEE"
+        }, {
+          "placeId": "ChIJczld-yy52YgRFkwFil3-7P8"
+        }, {
+          "placeId": "ChIJC5kx7iy52YgRg4IFU8HhhL8"
+        }, {
+          "placeId": "ChIJf9bVkiy52YgRob81_lBZtrg"
+        }, {
+          "placeId": "ChIJny_-kiy52YgRKAegzqU5C0Y"
+        }, {
+          "placeId": "ChIJV9h1kSy52YgR0NBx28Rd-kg"
+        }, {
+          "placeId": "ChIJydKGlyy52YgRWTZ-ATtK2HA"
+        }, {
+          "placeId": "ChIJ-xQhsiy52YgRvyT7RSedEME"
+        }, {
+          "placeId": "ChIJG3FiRdO-2YgRbwd7XS8gF_I"
+        }, {
+          "placeId": "ChIJaUGfRNO-2YgRTScH1M-2XO8"
+        }, {
+          "placeId": "ChIJgT8KQ9O-2YgRWwiep2FWtMw"
+        }, {
+          "placeId": "ChIJe0g9Q9O-2YgRAJdxrp2S3Hk"
+        }, {
+          "placeId": "ChIJRXrfXNO-2YgRZ4TRU299m88"
+        }, {
+          "placeId": "ChIJeWJ3XtO-2YgRcZP6dcuisLA"
+        }, {
+          "placeId": "ChIJk5cAodS-2YgR3r5H7gk1UZQ"
+        }, {
+          "placeId": "ChIJU3NbytS-2YgRaJ4iIDAXwuo"
+        }, {
+          "placeId": "ChIJQc1mNCu52YgR9o1pejpaLgk"
+        }, {
+          "placeId": "ChIJ2R2YMCu52YgRPLSoLQ6ogDA"
+        }, {
+          "placeId": "ChIJrVZmOyu52YgRWoGImPRBc9g"
+        }, {
+          "placeId": "ChIJHaDPIiu52YgRNV3uZ6Ou_0Q"
+        }, {
+          "placeId": "ChIJtQD1GCu52YgRB8xlF5sgk-E"
+        }, {
+          "placeId": "ChIJkVIZHSu52YgRwsm2_7Tj8pg"
+        }, {
+          "placeId": "ChIJvS9tVCq52YgR5_KXKQhwtgE"
+        }, {
+          "placeId": "ChIJN7zAUyq52YgR4ZOmj9wqlfE"
+        }, {
+          "placeId": "ChIJvYQMUiq52YgR7b5DLcQmEWE"
+        }, {
+          "placeId": "ChIJr9feSyq52YgR2Zo9uGaxazw"
+        }, {
+          "placeId": "ChIJfZFrNyq52YgR_bIDks8IFeg"
+        }, {
+          "placeId": "ChIJDTyAOyq52YgRFzl4Bkbk_b0"
+        }, {
+          "placeId": "ChIJVTpDFyq52YgRvaYltB4iq4E"
+        }, {
+          "placeId": "ChIJ-y0BECq52YgRFuOYKwjwWaI"
+        }, {
+          "placeId": "ChIJ40H2BSq52YgRYyIhlMqpHik"
+        }, {
+          "placeId": "ChIJv9H_BSq52YgRtFGrFP5bZbg"
+        }, {
+          "placeId": "ChIJQ08rBCq52YgRt7GQ8Uj5R8Y"
+        }, {
+          "placeId": "ChIJhwkz-ym52YgRaWYKWSuZ3ns"
+        }, {
+          "placeId": "ChIJLQyC5im52YgREcQihk0BANg"
+        }, {
+          "placeId": "ChIJg_4L3Sm52YgRkRnmLre_pzo"
+        }, {
+          "placeId": "ChIJFQ6w2im52YgRc9LW5Sewm7E"
+        }, {
+          "placeId": "ChIJQ4rZ0Sm52YgRqSY87Xo04QI"
+        }, {
+          "placeId": "ChIJr6BQzim52YgRidJfcZKrgfY"
+        }, {
+          "placeId": "ChIJnzfbzim52YgR26kKMqZ8KWI"
+        }, {
+          "placeId": "ChIJ77UtySm52YgRCVKU-NI03tM"
+        }, {
+          "placeId": "ChIJBwskySm52YgRRWu2x6vtAa0"
+        }, {
+          "placeId": "ChIJ_zcZySm52YgRXYQzMwktgEQ"
+        }, {
+          "placeId": "ChIJ7_wDySm52YgR5Z-i1fH_x8s"
+        }, {
+          "placeId": "ChIJYUG0ySm52YgRec-Q7ncsAOc"
+        }, {
+          "placeId": "ChIJUWPSySm52YgRq1GJwYKggTk"
+        }, {
+          "placeId": "ChIJcfkqtim52YgREdBM_tWIDjE"
+        }, {
+          "placeId": "ChIJh_Iytim52YgRblQOFqzSm7I"
+        }, {
+          "placeId": "ChIJwWI1tim52YgRnTRYEObEWMY"
+        }, {
+          "placeId": "ChIJFb5Stim52YgRgW9fmEPDlCg"
+        }, {
+          "placeId": "ChIJOyP-tim52YgR087qEV4R4VY"
+        }, {
+          "placeId": "ChIJYwcgtym52YgRB8AKGKu6GaA"
+        }, {
+          "placeId": "ChIJGe_isCm52YgRExk2wfjf9pM"
+        }, {
+          "placeId": "ChIJCa3_sCm52YgRliwi9JeYjXE"
+        }, {
+          "placeId": "ChIJZxtTsCm52YgRhsbsiRbfncg"
+        }, {
+          "placeId": "ChIJm_G0rym52YgRGFPCmvYttbw"
+        }, {
+          "placeId": "ChIJJ2V-pSm52YgRfwJFSzv4Y4A"
+        }],
+        "distanceMeters": 2350.2457264165264,
+        "travelMode": "DRIVE",
+        "confidence": 0.9999417971480696
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257710219,
+          "lngE7": -803632944,
+          "accuracyMeters": 29,
+          "timestamp": "2019-10-04T17:33:02.260Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257710792,
+          "longitudeE7": -803622791,
+          "accuracyMetres": 94
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T17:36:04.053Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257705307,
+        "longitudeE7": -803583527,
+        "placeId": "ChIJW9P8yym52YgRKyybc1oYKPE",
+        "address": "9951 West Flagler Street, Miami, Florida 33174, United States",
+        "name": "Publix Super Market Sabor at Fountain Square",
+        "sourceInfo": {
+          "deviceTag": -508553001
+        },
+        "locationConfidence": 88.773094,
+        "calibratedProbability": 80.63324,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T17:35:04.392Z",
+        "endTimestamp": "2019-10-04T17:47:14.446Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 257702875,
+      "centerLngE7": -803578975,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257703849,
+        "longitudeE7": -803594468,
+        "placeId": "ChIJO9EU5Sm52YgR4lWh2jXbRfg",
+        "address": "10111 W Flagler St, Miami, FL 33174, USA",
+        "name": "Fountain Square",
+        "locationConfidence": 10.54915,
+        "calibratedProbability": 9.581868,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257690880,
+        "longitudeE7": -803537380,
+        "placeId": "ChIJRVRw6Se52YgRYjhZPfOt1uY",
+        "address": "Fontainebleau, FL 33172, USA",
+        "name": "W Flagler St \u0026 NW 97 Av",
+        "locationConfidence": 0.19740847,
+        "calibratedProbability": 0.17930752
+      }, {
+        "latitudeE7": 257697680,
+        "longitudeE7": -803562309,
+        "placeId": "ChIJL0-oXyi52YgRCG9nicGDwho",
+        "address": "9825 W Flagler St, Miami, FL 33174, USA",
+        "name": "Ruben Dario Park",
+        "locationConfidence": 0.13822475,
+        "calibratedProbability": 0.12555052
+      }, {
+        "latitudeE7": 257678319,
+        "longitudeE7": -803606102,
+        "placeId": "ChIJH_P_zym52YgRZger1FltDBc",
+        "address": "10020 W Flagler St, Miami, FL 33174, USA",
+        "name": "Plaza Del Rey Shopping Center",
+        "locationConfidence": 0.06857304,
+        "calibratedProbability": 0.062285382
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257713340,
+        "longitudeE7": -803577648,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 257489053,
+        "longitudeE7": -803333721,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T17:47:14.446Z",
+        "endTimestamp": "2019-10-04T18:01:31.456Z"
+      },
+      "distance": 3653,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 98.48406904706323
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.875733253469285
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4392164486069156
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257712020,
+          "lngE7": -803577575
+        }, {
+          "latE7": 257688198,
+          "lngE7": -803607254
+        }, {
+          "latE7": 257699909,
+          "lngE7": -803611297
+        }, {
+          "latE7": 257634296,
+          "lngE7": -803527832
+        }, {
+          "latE7": 257489032,
+          "lngE7": -803334350
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJsYgP_yi52YgRWMdpREdTozE"
+        }, {
+          "placeId": "ChIJKaSPVSi52YgRmutr0sqPbJc"
+        }, {
+          "placeId": "ChIJY1NPVCi52YgRlt_Vj0S97ag"
+        }, {
+          "placeId": "ChIJsYdjMSi52YgRHSQyjMrqdX4"
+        }, {
+          "placeId": "ChIJqV7qMii52YgRymJwx47IdeY"
+        }, {
+          "placeId": "ChIJP0fvzSm52YgRwLbjCnVn8pg"
+        }, {
+          "placeId": "ChIJsRcu3Sm52YgRwMdC_b_oONI"
+        }, {
+          "placeId": "ChIJ6Zcz5im52YgR_Ni4Y8kewwo"
+        }, {
+          "placeId": "ChIJodzp5Sm52YgRhsA2ApPRMjE"
+        }, {
+          "placeId": "ChIJGZVcBCq52YgR7jKCWyGihdk"
+        }, {
+          "placeId": "ChIJmZGADyq52YgRH20vdeoxBm8"
+        }, {
+          "placeId": "ChIJgapgOyq52YgRmqFqNiEmfyM"
+        }, {
+          "placeId": "ChIJJXpcOiq52YgRNowa2YZodhI"
+        }, {
+          "placeId": "ChIJDTyAOyq52YgRFzl4Bkbk_b0"
+        }, {
+          "placeId": "ChIJVTpDFyq52YgRvaYltB4iq4E"
+        }, {
+          "placeId": "ChIJ-y0BECq52YgRFuOYKwjwWaI"
+        }, {
+          "placeId": "ChIJ40H2BSq52YgRYyIhlMqpHik"
+        }, {
+          "placeId": "ChIJv9H_BSq52YgRtFGrFP5bZbg"
+        }, {
+          "placeId": "ChIJQ08rBCq52YgRt7GQ8Uj5R8Y"
+        }, {
+          "placeId": "ChIJhwkz-ym52YgRaWYKWSuZ3ns"
+        }, {
+          "placeId": "ChIJLQyC5im52YgREcQihk0BANg"
+        }, {
+          "placeId": "ChIJg_4L3Sm52YgRkRnmLre_pzo"
+        }, {
+          "placeId": "ChIJFQ6w2im52YgRc9LW5Sewm7E"
+        }, {
+          "placeId": "ChIJvVsX0im52YgRDXE96ifhqRU"
+        }, {
+          "placeId": "ChIJU-Ct0im52YgRRxNFjM1PPmw"
+        }, {
+          "placeId": "ChIJIXslOyi52YgRFOqvz5vRsYo"
+        }, {
+          "placeId": "ChIJXeffFyi52YgR5NetZtMHMfo"
+        }, {
+          "placeId": "ChIJ-VFEDii52YgRA_xDpByqSHI"
+        }, {
+          "placeId": "ChIJb27L5Se52YgRoKN9N9xYIxs"
+        }, {
+          "placeId": "ChIJn2WA6ye52YgRpB6ZG_dxMEs"
+        }, {
+          "placeId": "ChIJhVxgkie52YgRFvEbjjHVjNU"
+        }, {
+          "placeId": "ChIJ32USiie52YgRij_UjfAxECY"
+        }, {
+          "placeId": "ChIJfzBDsNm42YgRoXRZsk87BFk"
+        }, {
+          "placeId": "ChIJN81BKdq42YgR4T-i3iatOfo"
+        }, {
+          "placeId": "ChIJWaFbK9q42YgRIV_Bcl8DBio"
+        }, {
+          "placeId": "ChIJUzex4du42YgR_onK1skC-Rs"
+        }, {
+          "placeId": "ChIJZcTroN642YgRh7u77oWFuzw"
+        }, {
+          "placeId": "ChIJ37sdg9642YgReB4GxeAwBPM"
+        }, {
+          "placeId": "ChIJG5gnf9642YgRsihkrcrcuYQ"
+        }, {
+          "placeId": "ChIJsz79dt642YgRyD6bSdtI8mk"
+        }, {
+          "placeId": "ChIJNb5wBt642YgRUNpHkoqi1qI"
+        }, {
+          "placeId": "ChIJHaNV1-C42YgRmT9c8E-p4i0"
+        }, {
+          "placeId": "ChIJp8l6WOG42YgRWebCZRCAfM8"
+        }, {
+          "placeId": "ChIJm3kB4-O42YgRhWNPUBt1M60"
+        }, {
+          "placeId": "ChIJDfao5eO42YgRFzIgx_jpT9k"
+        }, {
+          "placeId": "ChIJFfhLcOS42YgRwiI7sy1vDLE"
+        }, {
+          "placeId": "ChIJDa3pbuS42YgRg9Cd9fm0JiU"
+        }, {
+          "placeId": "ChIJP-b3TuS42YgROveE7R1OS-U"
+        }, {
+          "placeId": "ChIJp_DeTOS42YgRmuY5n4MFVdw"
+        }, {
+          "placeId": "ChIJK5idseW42YgRbkghivsA0jI"
+        }, {
+          "placeId": "ChIJy3eLuuW42YgRFvFrA-EGxfo"
+        }, {
+          "placeId": "ChIJz1Vtu-W42YgRXI7AqRZZldM"
+        }, {
+          "placeId": "ChIJVSU7veW42YgRUYjl0Pc9sX8"
+        }, {
+          "placeId": "ChIJ0ysyl-W42YgRnbbzf7_bhx4"
+        }, {
+          "placeId": "ChIJoTFXe--42YgRKV23zgyANqA"
+        }, {
+          "placeId": "ChIJ8yF7--642YgRpkG_xl2PLGA"
+        }, {
+          "placeId": "ChIJ9wyC-u642YgRFV-KYEU_LIw"
+        }, {
+          "placeId": "ChIJ74CE8e642YgRWKR7fr7BhZI"
+        }, {
+          "placeId": "ChIJN9FKje642YgRQGY0lAjLdww"
+        }, {
+          "placeId": "ChIJ99Nqju642YgRECQ1kHK6Llc"
+        }, {
+          "placeId": "ChIJ4S0Uhe642YgR_8RHksUFam8"
+        }, {
+          "placeId": "ChIJJ8_jgu642YgROeJx-PZcJzw"
+        }, {
+          "placeId": "ChIJQa-tKey42YgRUG6rgw7t8ro"
+        }, {
+          "placeId": "ChIJaboUKuy42YgR80vcYd10I08"
+        }, {
+          "placeId": "ChIJXW_3f-642YgRxVGkIlr3Hik"
+        }, {
+          "placeId": "ChIJkYhnf-642YgRHfpe1EhU9wk"
+        }, {
+          "placeId": "ChIJSdGXeO642YgRoY8hXnSfRGw"
+        }, {
+          "placeId": "ChIJi7QUeO642YgRO5FauCE0Z0s"
+        }, {
+          "placeId": "ChIJq63qd-642YgRwaYXv7_jVx8"
+        }, {
+          "placeId": "ChIJgxVqdu642YgR4R7V7ZlMuHU"
+        }, {
+          "placeId": "ChIJiwfHde642YgRA9DE2Sp7R-w"
+        }, {
+          "placeId": "ChIJM_qnde642YgRWQWhl4d3w5U"
+        }, {
+          "placeId": "ChIJA58vde642YgReK51jnTECf0"
+        }, {
+          "placeId": "ChIJe7z8Cu642YgRGHW7EDnhRI4"
+        }, {
+          "placeId": "ChIJDTAtCu642YgROptUWLR3-H4"
+        }, {
+          "placeId": "ChIJh-o94u242YgR1vWZvsZV7_c"
+        }],
+        "distanceMeters": 5030.407810133024,
+        "travelMode": "DRIVE",
+        "confidence": 0.9970903470944706
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257700458,
+          "lngE7": -803609441,
+          "accuracyMeters": 100,
+          "timestamp": "2019-10-04T17:49:16.414Z"
+        }, {
+          "latE7": 257621870,
+          "lngE7": -803525619,
+          "accuracyMeters": 6,
+          "timestamp": "2019-10-04T17:53:03.526Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257489053,
+          "longitudeE7": -803333721,
+          "accuracyMetres": 95
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T18:02:08.400Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257487289,
+        "longitudeE7": -803341556,
+        "placeId": "ChIJ51NzNuy42YgRAcj10dAVeSI",
+        "address": "Coral Way, Miami, FL 33155, USA",
+        "name": "Westchester Shopping Center",
+        "sourceInfo": {
+          "deviceTag": -508553001
+        },
+        "locationConfidence": 96.36714,
+        "calibratedProbability": 90.68651,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T18:01:31.456Z",
+        "endTimestamp": "2019-10-04T18:34:07.174Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 257492645,
+          "longitudeE7": -803336064,
+          "placeId": "ChIJmXUjXZC42YgRz-D1afo5ioQ",
+          "name": "La Revoltosa Family Clothing",
+          "sourceInfo": {
+            "deviceTag": -508553001
+          },
+          "locationConfidence": 23.85536,
+          "calibratedProbability": 24.667631
+        },
+        "duration": {
+          "startTimestamp": "2019-10-04T18:01:31.456Z",
+          "endTimestamp": "2019-10-04T18:05:38.353Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 257491429,
+        "centerLngE7": -803334417,
+        "visitConfidence": 95,
+        "otherCandidateLocations": [{
+          "latitudeE7": 257494491,
+          "longitudeE7": -803337138,
+          "placeId": "ChIJNUsfDe642YgRAFZDi1FEgkA",
+          "address": "8601 SW 24th St, Miami, FL 33155, USA",
+          "name": "Five Below",
+          "locationConfidence": 21.231627,
+          "calibratedProbability": 21.954561
+        }, {
+          "latitudeE7": 257492705,
+          "longitudeE7": -803334740,
+          "placeId": "ChIJ4_w1we242YgRrub00bEV630",
+          "address": "8591 Coral Wy, Miami, FL 33155, USA",
+          "name": "LR Uniforms",
+          "locationConfidence": 19.102154,
+          "calibratedProbability": 19.75258
+        }, {
+          "latitudeE7": 257492809,
+          "longitudeE7": -803333517,
+          "placeId": "ChIJ-_w-we242YgRVTxcMKYMOd4",
+          "address": "8587 Coral Wy, Miami, FL 33155, USA",
+          "name": "Jessy Bakery",
+          "locationConfidence": 11.334123,
+          "calibratedProbability": 11.720048
+        }, {
+          "latitudeE7": 257492791,
+          "longitudeE7": -803331765,
+          "placeId": "ChIJFzpGD-642YgRP6GcblsLVQE",
+          "name": "CHiffino Westchester",
+          "locationConfidence": 5.7075353,
+          "calibratedProbability": 5.901876
+        }, {
+          "latitudeE7": 257492938,
+          "longitudeE7": -803330649,
+          "placeId": "ChIJVbcKwe242YgR_Me-BqOXkyw",
+          "address": "8573 Coral Wy, Miami, FL 33155, USA",
+          "name": "My First Steps LLC",
+          "locationConfidence": 4.4638796,
+          "calibratedProbability": 4.6158743
+        }, {
+          "latitudeE7": 257489211,
+          "longitudeE7": -803321922,
+          "placeId": "ChIJ5ytpme242YgRRrDDWQHAn7o",
+          "address": "8415 Coral Wy, Miami, FL 33155, USA",
+          "name": "Coral Way Shopping Center",
+          "locationConfidence": 1.3125248,
+          "calibratedProbability": 1.3572161
+        }, {
+          "latitudeE7": 257492913,
+          "longitudeE7": -803338748,
+          "placeId": "ChIJt_xBbe642YgRqTVnzRBjrDA",
+          "address": "8621 Coral Wy, Miami, FL 33155, USA",
+          "name": "ALDI",
+          "locationConfidence": 1.3085591,
+          "calibratedProbability": 1.3531153
+        }, {
+          "latitudeE7": 257494255,
+          "longitudeE7": -803329585,
+          "placeId": "ChIJH4R1we242YgRXpcOiwfRXng",
+          "address": "8571 SW 24th St, Miami, FL 33155, USA",
+          "name": "Kirkland\u0027s Home",
+          "locationConfidence": 1.1059208,
+          "calibratedProbability": 1.1435772
+        }, {
+          "latitudeE7": 257492849,
+          "longitudeE7": -803332960,
+          "placeId": "ChIJK9APwe222YgRCRkVOAtPlFE",
+          "address": "8579 Coral Wy, Miami, FL 33155, USA",
+          "name": "STC REPAIR - iPhone, iPad, MacBook, iMac, Mac, Samsung Repairs \u0026 Buy/ Sell/ Microsoldering Miami",
+          "locationConfidence": 0.9640112,
+          "calibratedProbability": 0.99683565
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 50,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 257492913,
+          "longitudeE7": -803338748,
+          "placeId": "ChIJt_xBbe642YgRqTVnzRBjrDA",
+          "address": "8621 Coral Wy, Miami, FL 33155, USA",
+          "name": "ALDI",
+          "sourceInfo": {
+            "deviceTag": -508553001
+          },
+          "locationConfidence": 17.583838,
+          "calibratedProbability": 19.855751
+        },
+        "duration": {
+          "startTimestamp": "2019-10-04T18:09:42.471Z",
+          "endTimestamp": "2019-10-04T18:23:55.453Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 257494272,
+        "centerLngE7": -803340929,
+        "visitConfidence": 95,
+        "otherCandidateLocations": [{
+          "latitudeE7": 257494491,
+          "longitudeE7": -803337138,
+          "placeId": "ChIJNUsfDe642YgRAFZDi1FEgkA",
+          "address": "8601 SW 24th St, Miami, FL 33155, USA",
+          "name": "Five Below",
+          "locationConfidence": 14.390602,
+          "calibratedProbability": 16.249935
+        }, {
+          "latitudeE7": 257489211,
+          "longitudeE7": -803321922,
+          "placeId": "ChIJ5ytpme242YgRRrDDWQHAn7o",
+          "address": "8415 Coral Wy, Miami, FL 33155, USA",
+          "name": "Coral Way Shopping Center",
+          "locationConfidence": 11.795044,
+          "calibratedProbability": 13.319019
+        }, {
+          "latitudeE7": 257492645,
+          "longitudeE7": -803336064,
+          "placeId": "ChIJmXUjXZC42YgRz-D1afo5ioQ",
+          "locationConfidence": 11.603026,
+          "calibratedProbability": 13.102192
+        }, {
+          "latitudeE7": 257492462,
+          "longitudeE7": -803343807,
+          "placeId": "ChIJx4r8yu242YgRgIHR8Fr2oZk",
+          "address": "8659 Coral Wy, Miami, FL 33155, USA",
+          "name": "Revistas \u0026 Periodicos Libreria",
+          "locationConfidence": 10.956028,
+          "calibratedProbability": 12.371598
+        }, {
+          "latitudeE7": 257495079,
+          "longitudeE7": -803337351,
+          "placeId": "ChIJWR5Lyu242YgRTviHRMfavXg",
+          "address": "8601 SW 24th St, Miami, FL 33155, USA",
+          "name": "Family Dollar",
+          "locationConfidence": 8.967162,
+          "calibratedProbability": 10.125762
+        }, {
+          "latitudeE7": 257492705,
+          "longitudeE7": -803334740,
+          "placeId": "ChIJ4_w1we242YgRrub00bEV630",
+          "address": "8591 Coral Wy, Miami, FL 33155, USA",
+          "name": "LR Uniforms",
+          "locationConfidence": 4.2343454,
+          "calibratedProbability": 4.7814426
+        }, {
+          "latitudeE7": 257492300,
+          "longitudeE7": -803343001,
+          "placeId": "ChIJzU0Lt2u32YgRe0QKgmMcokU",
+          "address": "8631 Coral Wy, Miami, FL 33155, USA",
+          "name": "Moda Xpress of Coral Way",
+          "locationConfidence": 1.4168296,
+          "calibratedProbability": 1.5998907
+        }, {
+          "latitudeE7": 257487574,
+          "longitudeE7": -803341000,
+          "placeId": "ChIJGYECye242YgR9NhFqL7Q81M",
+          "locationConfidence": 1.1230837,
+          "calibratedProbability": 1.2681915
+        }, {
+          "latitudeE7": 257492809,
+          "longitudeE7": -803333517,
+          "placeId": "ChIJ-_w-we242YgRVTxcMKYMOd4",
+          "address": "8587 Coral Wy, Miami, FL 33155, USA",
+          "name": "Jessy Bakery",
+          "locationConfidence": 0.6991929,
+          "calibratedProbability": 0.7895319
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 46,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 257489211,
+          "longitudeE7": -803321922,
+          "placeId": "ChIJ5ytpme242YgRRrDDWQHAn7o",
+          "address": "8415 Coral Wy, Miami, FL 33155, USA",
+          "name": "Coral Way Shopping Center",
+          "sourceInfo": {
+            "deviceTag": -508553001
+          },
+          "locationConfidence": 15.610674,
+          "calibratedProbability": 18.597557
+        },
+        "duration": {
+          "startTimestamp": "2019-10-04T18:25:57.441Z",
+          "endTimestamp": "2019-10-04T18:32:06.362Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 257492728,
+        "centerLngE7": -803338892,
+        "visitConfidence": 95,
+        "otherCandidateLocations": [{
+          "latitudeE7": 257494491,
+          "longitudeE7": -803337138,
+          "placeId": "ChIJNUsfDe642YgRAFZDi1FEgkA",
+          "address": "8601 SW 24th St, Miami, FL 33155, USA",
+          "name": "Five Below",
+          "locationConfidence": 11.894914,
+          "calibratedProbability": 14.170838
+        }, {
+          "latitudeE7": 257492913,
+          "longitudeE7": -803338748,
+          "placeId": "ChIJt_xBbe642YgRqTVnzRBjrDA",
+          "address": "8621 Coral Wy, Miami, FL 33155, USA",
+          "name": "ALDI",
+          "locationConfidence": 11.840422,
+          "calibratedProbability": 14.10592
+        }, {
+          "latitudeE7": 257492645,
+          "longitudeE7": -803336064,
+          "placeId": "ChIJmXUjXZC42YgRz-D1afo5ioQ",
+          "locationConfidence": 10.999122,
+          "calibratedProbability": 13.103649
+        }, {
+          "latitudeE7": 257495079,
+          "longitudeE7": -803337351,
+          "placeId": "ChIJWR5Lyu242YgRTviHRMfavXg",
+          "address": "8601 SW 24th St, Miami, FL 33155, USA",
+          "name": "Family Dollar",
+          "locationConfidence": 8.321267,
+          "calibratedProbability": 9.9134245
+        }, {
+          "latitudeE7": 257492705,
+          "longitudeE7": -803334740,
+          "placeId": "ChIJ4_w1we242YgRrub00bEV630",
+          "address": "8591 Coral Wy, Miami, FL 33155, USA",
+          "name": "LR Uniforms",
+          "locationConfidence": 7.527906,
+          "calibratedProbability": 8.968265
+        }, {
+          "latitudeE7": 257492462,
+          "longitudeE7": -803343807,
+          "placeId": "ChIJx4r8yu242YgRgIHR8Fr2oZk",
+          "address": "8659 Coral Wy, Miami, FL 33155, USA",
+          "name": "Revistas \u0026 Periodicos Libreria",
+          "locationConfidence": 7.330982,
+          "calibratedProbability": 8.733663
+        }, {
+          "latitudeE7": 257492809,
+          "longitudeE7": -803333517,
+          "placeId": "ChIJ-_w-we242YgRVTxcMKYMOd4",
+          "address": "8587 Coral Wy, Miami, FL 33155, USA",
+          "name": "Jessy Bakery",
+          "locationConfidence": 1.9147934,
+          "calibratedProbability": 2.2811623
+        }, {
+          "latitudeE7": 257492791,
+          "longitudeE7": -803331765,
+          "placeId": "ChIJFzpGD-642YgRP6GcblsLVQE",
+          "name": "CHiffino Westchester",
+          "locationConfidence": 1.6965932,
+          "calibratedProbability": 2.0212123
+        }, {
+          "latitudeE7": 257492938,
+          "longitudeE7": -803330649,
+          "placeId": "ChIJVbcKwe242YgR_Me-BqOXkyw",
+          "address": "8573 Coral Wy, Miami, FL 33155, USA",
+          "name": "My First Steps LLC",
+          "locationConfidence": 1.315856,
+          "calibratedProbability": 1.5676265
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 44,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 257493186,
+      "centerLngE7": -803338024,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257466775,
+        "longitudeE7": -803340686,
+        "placeId": "ChIJ51NzNuy42YgRAcj10dAVeSI",
+        "address": "Coral Way, Miami, FL 33155, USA",
+        "name": "Westchester Shopping Center",
+        "locationConfidence": 1.8188797,
+        "calibratedProbability": 1.7116607
+      }, {
+        "latitudeE7": 257489211,
+        "longitudeE7": -803321922,
+        "placeId": "ChIJ5ytpme242YgRRrDDWQHAn7o",
+        "address": "8415 Coral Wy, Miami, FL 33155, USA",
+        "name": "Coral Way Shopping Center",
+        "locationConfidence": 0.93873936,
+        "calibratedProbability": 0.88340276,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257483688,
+        "longitudeE7": -803375313,
+        "placeId": "ChIJFws7OpK52YgRQ_wdfys3Bkg",
+        "address": "8755 SW 24th St, Miami, FL 33165, USA",
+        "name": "Coral Way Plaza",
+        "locationConfidence": 0.110961765,
+        "calibratedProbability": 0.10442082
+      }, {
+        "latitudeE7": 257500426,
+        "longitudeE7": -803327698,
+        "placeId": "ChIJo-i6Hu642YgRA_wM0zUGP1U",
+        "address": "8440 SW 21st St, Miami, FL 33155, USA",
+        "name": "Return 2 Intimacy",
+        "locationConfidence": 0.08216419,
+        "calibratedProbability": 0.07732079
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257487764,
+          "lngE7": -803333344,
+          "accuracyMeters": 75,
+          "timestamp": "2019-10-04T18:01:31.456Z"
+        }, {
+          "latE7": 257493509,
+          "lngE7": -803337783,
+          "accuracyMeters": 16,
+          "timestamp": "2019-10-04T18:30:00.512Z"
+        }, {
+          "latE7": 257488998,
+          "lngE7": -803341145,
+          "accuracyMeters": 56,
+          "timestamp": "2019-10-04T18:32:06.362Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 138.2431001919643
+      },
+      "locationConfidence": 84,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257487289,
+        "longitudeE7": -803341556,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 257862528,
+        "longitudeE7": -803372704,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T18:34:07.174Z",
+        "endTimestamp": "2019-10-04T18:46:19.493Z"
+      },
+      "distance": 4243,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 99.14083373292864
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.5839749957891177
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20120293750894458
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257491111,
+          "lngE7": -803331756
+        }, {
+          "latE7": 257821636,
+          "lngE7": -803365859
+        }, {
+          "latE7": 257862567,
+          "lngE7": -803370361
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJk2mECO642YgRr1S02f-i2po"
+        }, {
+          "placeId": "ChIJ_1YGCe642YgRMwwQZmHJ5Tg"
+        }, {
+          "placeId": "ChIJDTAtCu642YgRO5tUWLR3-H4"
+        }, {
+          "placeId": "ChIJe7z8Cu642YgRGXW7EDnhRI4"
+        }, {
+          "placeId": "ChIJA58vde642YgRea51jnTECf0"
+        }, {
+          "placeId": "ChIJM_qnde642YgRWAWhl4d3w5U"
+        }, {
+          "placeId": "ChIJiwfHde642YgRAtDE2Sp7R-w"
+        }, {
+          "placeId": "ChIJgxVqdu642YgR4B7V7ZlMuHU"
+        }, {
+          "placeId": "ChIJq63qd-642YgRwKYXv7_jVx8"
+        }, {
+          "placeId": "ChIJi7QUeO642YgROpFauCE0Z0s"
+        }, {
+          "placeId": "ChIJSdGXeO642YgRoI8hXnSfRGw"
+        }, {
+          "placeId": "ChIJkYhnf-642YgRHPpe1EhU9wk"
+        }, {
+          "placeId": "ChIJXW_3f-642YgRxFGkIlr3Hik"
+        }, {
+          "placeId": "ChIJaboUKuy42YgR8kvcYd10I08"
+        }, {
+          "placeId": "ChIJ6RKQhe642YgR_m4OiTAi6mE"
+        }, {
+          "placeId": "ChIJVU3-jO642YgReEKskNKLNEc"
+        }, {
+          "placeId": "ChIJn32D8e642YgRKGk_1zsVOBQ"
+        }, {
+          "placeId": "ChIJ9wyC-u642YgREDhAip_y2cI"
+        }, {
+          "placeId": "ChIJ8yF7--642YgRWFGvR89-R7Q"
+        }, {
+          "placeId": "ChIJmfw1Du-42YgRR9KD43hQiAs"
+        }, {
+          "placeId": "ChIJ0c7Ceu-42YgRxrWUtoTR5d0"
+        }, {
+          "placeId": "ChIJY2jDfO-42YgRulksyKb5p-I"
+        }, {
+          "placeId": "ChIJ9S07veW42YgRdxRqRAPhJeU"
+        }, {
+          "placeId": "ChIJlcHJuuW42YgR0VtPJi96lq4"
+        }, {
+          "placeId": "ChIJodcasuW42YgRhR6tLifvS_A"
+        }, {
+          "placeId": "ChIJdRk0TuS42YgRhQxSSBNMR3w"
+        }, {
+          "placeId": "ChIJGaKdQuS42YgRry3DN-lrkW8"
+        }, {
+          "placeId": "ChIJ15bDb-S42YgR5ztnf5fmkWU"
+        }, {
+          "placeId": "ChIJr-hecOS42YgRgxTFZluspBw"
+        }, {
+          "placeId": "ChIJM_BPiOO42YgRm1YyLXCSDy4"
+        }, {
+          "placeId": "ChIJ1cLoiOO42YgRcVafYq8PL_8"
+        }, {
+          "placeId": "ChIJW90Zj-O42YgRs_Gx9gw2WNY"
+        }, {
+          "placeId": "ChIJcS_Rj-O42YgRDS4H2ccrFTc"
+        }, {
+          "placeId": "ChIJkzLDluO42YgRtUf14rkXTYk"
+        }, {
+          "placeId": "ChIJIfi5TOK42YgRgXmIw2T882k"
+        }, {
+          "placeId": "ChIJq1p1ROK42YgR1Zpl1SrcuJI"
+        }, {
+          "placeId": "ChIJeS5NaeK42YgRHdDRJRqd8h4"
+        }, {
+          "placeId": "ChIJC5iuvh252YgRXGqV6hpAv8M"
+        }, {
+          "placeId": "ChIJgWiLuR252YgRThcPSHTz3BA"
+        }, {
+          "placeId": "ChIJSSxQtx252YgRYm8dq6H7sRg"
+        }, {
+          "placeId": "ChIJFysdtB252YgRcFy_kS4hNFE"
+        }, {
+          "placeId": "ChIJn6zTtB252YgRNnSqWIqQYDM"
+        }, {
+          "placeId": "ChIJcygbSxy52YgRGN5b1JyoVow"
+        }, {
+          "placeId": "ChIJXYtSchy52YgRDqsBcaQ--AQ"
+        }, {
+          "placeId": "ChIJQ-GYdRy52YgRg04ZF1Zq4dM"
+        }, {
+          "placeId": "ChIJt5WXjBu52YgRjBjVHQcFdy4"
+        }, {
+          "placeId": "ChIJf4JBjRu52YgRlEU9xCFY9Rc"
+        }, {
+          "placeId": "ChIJ3-Eikxu52YgReVvxEpt4wsk"
+        }, {
+          "placeId": "ChIJyynsvxu52YgRZyrNwoRu7Jw"
+        }, {
+          "placeId": "ChIJo_66uBu52YgR2XRLFbhPa24"
+        }, {
+          "placeId": "ChIJjfArthu52YgRv6QZAM99kE0"
+        }, {
+          "placeId": "ChIJQSmgShq52YgROpOMgAqpnfU"
+        }, {
+          "placeId": "ChIJFzYJQBq52YgR5A5M7KUwdL8"
+        }, {
+          "placeId": "ChIJGdSzbBq52YgRaNi5uGh_RDA"
+        }, {
+          "placeId": "ChIJm_anEhq52YgRy2TkYtDm2t0"
+        }, {
+          "placeId": "ChIJ9XSoDBq52YgRfDfGk7FJHtM"
+        }, {
+          "placeId": "ChIJyYYvCxq52YgRJDFAI1uCMss"
+        }, {
+          "placeId": "ChIJFSYOohC52YgR-iHggT9XPu0"
+        }, {
+          "placeId": "ChIJHxc76BC52YgRKew2mV_YrEA"
+        }, {
+          "placeId": "ChIJY_hp5xC52YgRIZjGuBo1b3I"
+        }, {
+          "placeId": "ChIJd_PtHxG52YgRuQYEKINEEgU"
+        }, {
+          "placeId": "ChIJTahCaBG52YgRg2dL9zBzQN0"
+        }, {
+          "placeId": "ChIJke8YaBG52YgRh6wNi74k77U"
+        }, {
+          "placeId": "ChIJTahCaBG52YgR6oOh3aqCAKk"
+        }, {
+          "placeId": "ChIJgUJiYBG52YgRUJqdlRSQlFs"
+        }, {
+          "placeId": "ChIJ2UMbYBG52YgRfoMiTE1SVy8"
+        }, {
+          "placeId": "ChIJxYAa3hO52YgRJxc9_KGJapU"
+        }, {
+          "placeId": "ChIJ4fmGwhO52YgRiGViOESI74E"
+        }, {
+          "placeId": "ChIJcfO2lxO52YgRmxVSrHpevlM"
+        }, {
+          "placeId": "ChIJ-RHYlhO52YgRl-PeZnl3IWc"
+        }],
+        "distanceMeters": 4497.739195152403,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257862528,
+          "longitudeE7": -803372704,
+          "accuracyMetres": 37
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T18:51:17.862Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257862020,
+        "longitudeE7": -803373020,
+        "placeId": "ChIJZ3q2u5S52YgRs2SC51ywVPU",
+        "address": "1380 NW 87th Ave, Doral, FL 33172, USA",
+        "name": "Starbucks",
+        "sourceInfo": {
+          "deviceTag": -508553001
+        },
+        "locationConfidence": 94.068504,
+        "calibratedProbability": 89.41368
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T18:46:19.493Z",
+        "endTimestamp": "2019-10-04T19:21:37.376Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257862845,
+      "centerLngE7": -803372320,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257869646,
+        "longitudeE7": -803348571,
+        "placeId": "ChIJ7-zIrhO52YgRlgVriA-g83g",
+        "address": "8651 NW 13th Terrace, Doral, FL 33126, USA",
+        "name": "Walmart Supercenter",
+        "locationConfidence": 2.7914815,
+        "calibratedProbability": 2.6533496
+      }, {
+        "latitudeE7": 257832870,
+        "longitudeE7": -803380356,
+        "placeId": "ChIJ9UyfWxG52YgRBuaJz2DSh4o",
+        "address": "1200 NW 87th Ave, Doral, FL 33172, USA",
+        "locationConfidence": 0.72607744,
+        "calibratedProbability": 0.6901487
+      }, {
+        "latitudeE7": 257858934,
+        "longitudeE7": -803372426,
+        "placeId": "ChIJHZnw4BO52YgRnB6VdEB8ltI",
+        "address": "1350 NW 87th Ave, Miami, FL 33122, USA",
+        "name": "Taco Bell",
+        "locationConfidence": 0.31252894,
+        "calibratedProbability": 0.29706395
+      }, {
+        "latitudeE7": 257865860,
+        "longitudeE7": -803373605,
+        "placeId": "ChIJf5PVkRO52YgR_E_75_XQet4",
+        "address": "1400 NW 87th Ave, Doral, FL 33172, USA",
+        "name": "Umami Japanese Restaurant",
+        "locationConfidence": 0.30615652,
+        "calibratedProbability": 0.29100686
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257867615,
+        "longitudeE7": -803367736,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 257785021,
+        "longitudeE7": -803620967,
+        "sourceInfo": {
+          "deviceTag": -508553001
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T19:21:37.376Z",
+        "endTimestamp": "2019-10-04T19:32:52.358Z"
+      },
+      "distance": 4164,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 98.88202388055592
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.616409817537893
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.32118107587189176
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257867603,
+          "lngE7": -803368225
+        }, {
+          "latE7": 257813720,
+          "lngE7": -803367767
+        }, {
+          "latE7": 257785186,
+          "lngE7": -803621063
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJgwcmmRO52YgR2kS4rENJST4"
+        }, {
+          "placeId": "ChIJPxFilhO52YgReJU_KppL6mo"
+        }, {
+          "placeId": "ChIJE8colRO52YgRrGrDEAhmBpU"
+        }, {
+          "placeId": "ChIJJ6r46hO52YgRclSIkZtXSkM"
+        }, {
+          "placeId": "ChIJ89ub6RO52YgRWorPIEjlXAU"
+        }, {
+          "placeId": "ChIJfdhN6BO52YgROojXKlvxyl0"
+        }, {
+          "placeId": "ChIJn9Pk5xO52YgR26cWwoS0IOk"
+        }, {
+          "placeId": "ChIJgfHz4BO52YgR7pj6OG24d4U"
+        }, {
+          "placeId": "ChIJXTm1XxG52YgRKo0ThM0WZL4"
+        }, {
+          "placeId": "ChIJvSzoQhG52YgRkfkN62_6_Bs"
+        }, {
+          "placeId": "ChIJqVVX3hC52YgRWk_zmN3Pp6s"
+        }, {
+          "placeId": "ChIJvUMPwxC52YgRXL0dBhDLZ5Y"
+        }, {
+          "placeId": "ChIJccgRohC52YgRm34tmWu11RA"
+        }, {
+          "placeId": "ChIJyYYvCxq52YgRlwHLjlmrgLo"
+        }, {
+          "placeId": "ChIJedanDBq52YgR5ez_kfT5Uq4"
+        }, {
+          "placeId": "ChIJz56nEhq52YgRVvkdx9vjb-w"
+        }, {
+          "placeId": "ChIJiW5yExq52YgRJv2L8PjQ1xk"
+        }, {
+          "placeId": "ChIJiW5yExq52YgR5Pt0wTlWhHM"
+        }, {
+          "placeId": "ChIJuz-vPxq52YgRrt9KIEYqf7M"
+        }, {
+          "placeId": "ChIJbYaaOBq52YgRbp_isi-d4fI"
+        }, {
+          "placeId": "ChIJ60kqthu52YgRjoRawFbiPxE"
+        }, {
+          "placeId": "ChIJY8-6uBu52YgRwp7jc1vsykk"
+        }, {
+          "placeId": "ChIJcXzuvxu52YgRrnZzz6OyG84"
+        }, {
+          "placeId": "ChIJX_0ikxu52YgR7vLXf2qpv4I"
+        }, {
+          "placeId": "ChIJWaD48Ru52YgRDCIukF7MUr4"
+        }, {
+          "placeId": "ChIJh4Ei-xu52YgREDoLwpYjPag"
+        }, {
+          "placeId": "ChIJo9XkUxm52YgRNgAYoRqr9qg"
+        }, {
+          "placeId": "ChIJc-NftR652YgRaGzH6NSt4PA"
+        }, {
+          "placeId": "ChIJCz4ruBi52YgR8CD-j0t_g2U"
+        }, {
+          "placeId": "ChIJZWHdHSK52YgRM_cpal4f1CI"
+        }, {
+          "placeId": "ChIJUWqmiCG52YgRyp1aLEl1BqI"
+        }, {
+          "placeId": "ChIJ1WglgiG52YgRLB8RbI59SKk"
+        }, {
+          "placeId": "ChIJIcWNeyG52YgRmMOLzWwUnTI"
+        }, {
+          "placeId": "ChIJv0JZYCG52YgR75Xo5D994Hc"
+        }, {
+          "placeId": "ChIJOxHV_CO52YgR2XVMk3I6IfQ"
+        }, {
+          "placeId": "ChIJJ8eCCSS52YgR5zi4o7m_Zy0"
+        }, {
+          "placeId": "ChIJpS8eDCS52YgRc1QfTmA5sw8"
+        }, {
+          "placeId": "ChIJS6hCbSS52YgRYHVdrvmyw2o"
+        }, {
+          "placeId": "ChIJbxfWaSS52YgRoqhxSqOJRyM"
+        }, {
+          "placeId": "ChIJN5XXTyS52YgRggn0XTWyDMY"
+        }, {
+          "placeId": "ChIJi46VrSW52YgRtliSQqPVpBA"
+        }, {
+          "placeId": "ChIJs6OzkCW52YgRhJLrjXu2TXA"
+        }, {
+          "placeId": "ChIJYb7-Yi-52YgR-1B8dnHImrI"
+        }, {
+          "placeId": "ChIJUZP0ZS-52YgRtpeUhmx9z5w"
+        }, {
+          "placeId": "ChIJKX1CGi-52YgRv3WpaT8EuSU"
+        }, {
+          "placeId": "ChIJaTVRHC-52YgRCndhDmMZBZs"
+        }, {
+          "placeId": "ChIJo00j5S652YgRfoU1ed0VmRU"
+        }, {
+          "placeId": "ChIJf2DF7S652YgR9H3T5Ez59es"
+        }, {
+          "placeId": "ChIJF6FX7S652YgRGyyo5S-BBsE"
+        }, {
+          "placeId": "ChIJ9Vi-jC652YgR-4Uk2i6RWGk"
+        }, {
+          "placeId": "ChIJ4fp0iy652YgRL-VBm4w8oq4"
+        }, {
+          "placeId": "ChIJi1usiy652YgRnexsrGYd3pA"
+        }, {
+          "placeId": "ChIJce43Yy652YgRPJeyrJtPTyE"
+        }, {
+          "placeId": "ChIJaRR5ey652YgRD9BR0JK62WE"
+        }, {
+          "placeId": "ChIJEbN02i252YgR5H0lT5acziE"
+        }, {
+          "placeId": "ChIJLUduxi252YgRog2jRR22PhE"
+        }],
+        "distanceMeters": 4514.626807043181,
+        "travelMode": "DRIVE",
+        "confidence": 0.9999623851709464
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257795132,
+          "lngE7": -803369082,
+          "accuracyMeters": 50,
+          "timestamp": "2019-10-04T19:23:39.351Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257785021,
+          "longitudeE7": -803620967,
+          "accuracyMetres": 44
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T19:35:48.179Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, FL 33172, USA",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": -508553001
+        },
+        "locationConfidence": 80.882576,
+        "calibratedProbability": 70.57391
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T19:32:52.358Z",
+        "endTimestamp": "2019-10-04T21:52:51.955Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257789353,
+      "centerLngE7": -803620789,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257782132,
+        "longitudeE7": -803627254,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 18.27635,
+        "calibratedProbability": 15.94699,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786400,
+        "longitudeE7": -803609924,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.2936351,
+        "calibratedProbability": 0.25621065
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.09475221,
+        "calibratedProbability": 0.08267583
+      }, {
+        "latitudeE7": 257789768,
+        "longitudeE7": -803573620,
+        "placeId": "ChIJ65G57C-52YgRRBkujX36nTc",
+        "address": "9934 NW 10th St, Miami, FL 33172, USA",
+        "name": "Las Ramblas",
+        "locationConfidence": 0.06412966,
+        "calibratedProbability": 0.055956192
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257789860,
+        "longitudeE7": -803621750
+      },
+      "endLocation": {
+        "latitudeE7": 403202456,
+        "longitudeE7": -37692992
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T21:52:51.955Z",
+        "endTimestamp": "2019-10-04T23:20:21.559Z"
+      },
+      "distance": 7100822,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 78.62236323928282
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.383567266336819
+      }, {
+        "activityType": "FLYING",
+        "probability": 7.304114792896139
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 403193195,
+          "longitudeE7": -37692508,
+          "accuracyMetres": 64
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T23:21:26Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403202456,
+        "longitudeE7": -37692992,
+        "placeId": "ChIJzT6tNySKQQ0Rln0BHL6aOz8",
+        "address": "Av. de Orellana, s/n, 28914 Leganés, Madrid, España",
+        "name": "Hospital Universitario Severo Ochoa",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 81.28669,
+        "calibratedProbability": 75.1522,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T23:20:21.559Z",
+        "endTimestamp": "2019-10-04T23:38:39.199Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403194104,
+      "centerLngE7": -37692352,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403217863,
+        "longitudeE7": -37686033,
+        "placeId": "ChIJ6X_ZnSOKQQ0R-u3KkS1MnMo",
+        "address": "28914 Leganés, Madrid, España",
+        "name": "Hospital Severo Ochoa",
+        "locationConfidence": 13.3163395,
+        "calibratedProbability": 12.31139
+      }, {
+        "latitudeE7": 403217703,
+        "longitudeE7": -37679730,
+        "placeId": "ChIJ7X_ZnSOKQQ0RQDpBH4EDm8c",
+        "locationConfidence": 1.516275,
+        "calibratedProbability": 1.4018457
+      }, {
+        "latitudeE7": 403180003,
+        "longitudeE7": -37736227,
+        "placeId": "ChIJOxAPpDqKQQ0ROWrHxwjjWKk",
+        "address": "C. de los Frailes, 10, 28914 Leganés, Madrid, España",
+        "name": "Frailes Park",
+        "locationConfidence": 1.1710086,
+        "calibratedProbability": 1.0826356
+      }, {
+        "latitudeE7": 403177305,
+        "longitudeE7": -37706724,
+        "placeId": "ChIJ7-l7OjuKQQ0RlMAubytMHGU",
+        "address": "C. Alegría, 26, 28025 Madrid, España",
+        "name": "CERRADO",
+        "locationConfidence": 0.39483073,
+        "calibratedProbability": 0.3650339
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403192866,
+        "longitudeE7": -37693415,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403222259,
+        "longitudeE7": -37592550,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T23:38:39.199Z",
+        "endTimestamp": "2019-10-04T23:41:57Z"
+      },
+      "distance": 1538,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 92.93729027684034
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.757863508055494
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.8227591913034561
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403192863,
+          "lngE7": -37693464
+        }, {
+          "latE7": 403220443,
+          "lngE7": -37668418
+        }, {
+          "latE7": 403222007,
+          "lngE7": -37592120
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ0-6RrCSKQQ0R5kT07kOdkXk"
+        }, {
+          "placeId": "ChIJ0bBYsySKQQ0RTygTnpmRpQA"
+        }, {
+          "placeId": "ChIJt_GuyySKQQ0RgWvGWDTRrX0"
+        }, {
+          "placeId": "ChIJB7DCzSSKQQ0RNcdSLdXjnyA"
+        }, {
+          "placeId": "ChIJL8Fx0SSKQQ0RgluUNvqwDmM"
+        }, {
+          "placeId": "ChIJrz090SSKQQ0RRxYdCGiGPLU"
+        }, {
+          "placeId": "ChIJXdbQ1iSKQQ0RA0RgKsPMUlM"
+        }, {
+          "placeId": "ChIJp2vgKSWKQQ0RKycG82aSCqY"
+        }, {
+          "placeId": "ChIJBVZBECWKQQ0Ry-Xktfc_HI4"
+        }, {
+          "placeId": "ChIJpVNzDyWKQQ0R30umhLGhw38"
+        }, {
+          "placeId": "ChIJRbxlryWKQQ0RNKIMup_yPpw"
+        }, {
+          "placeId": "ChIJMdjOtyWKQQ0RrdFAt-90sQk"
+        }, {
+          "placeId": "ChIJL-U4ziWKQQ0RzmE76ti3cVI"
+        }, {
+          "placeId": "ChIJ4-SFNCSKQQ0R_LXzj3jAlvw"
+        }, {
+          "placeId": "ChIJHctfQCSKQQ0RBiIEErtd_-g"
+        }, {
+          "placeId": "ChIJVwGMbSSKQQ0RwkDxpud3yuo"
+        }, {
+          "placeId": "ChIJs28udCSKQQ0Rc9bmi9qgBNs"
+        }, {
+          "placeId": "ChIJg_GOiSOKQQ0R80xZTdgcUyg"
+        }, {
+          "placeId": "ChIJqyZsiSOKQQ0Rt2OR2mmUzzI"
+        }, {
+          "placeId": "ChIJIQjzjiOKQQ0RrJniabu1sHE"
+        }, {
+          "placeId": "ChIJv1zAkSOKQQ0RJxct_EkCQGA"
+        }, {
+          "placeId": "ChIJGW_qvCOKQQ0R5GFM9iFDsDw"
+        }, {
+          "placeId": "ChIJH-qPpCOKQQ0R9vL0tI9ix4w"
+        }, {
+          "placeId": "ChIJXQnZpSOKQQ0RNgQq1IB7lz8"
+        }, {
+          "placeId": "ChIJTXkkryOKQQ0RBiM1Y_g-zk8"
+        }, {
+          "placeId": "ChIJYbWorSOKQQ0R2v8By8Bfk3M"
+        }, {
+          "placeId": "ChIJ5dvsTSKKQQ0RaqdBXN0FqmM"
+        }, {
+          "placeId": "ChIJh7SKEiKKQQ0RFjUXMiKy1hw"
+        }, {
+          "placeId": "ChIJFV56EiKKQQ0Rgj5pY7qMeDo"
+        }, {
+          "placeId": "ChIJTeVmsRiKQQ0RugvPxG1ERVA"
+        }, {
+          "placeId": "ChIJn8eZ7RiKQQ0R4X_1W7E1puQ"
+        }, {
+          "placeId": "ChIJc5vL-xiKQQ0RP-3htk2hyOc"
+        }, {
+          "placeId": "ChIJYwmqCxmKQQ0RxAIvz9qpGHc"
+        }],
+        "distanceMeters": 2068.2879226846185,
+        "travelMode": "DRIVE",
+        "confidence": 0.7639373808466813
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403223649,
+          "lngE7": -37622070,
+          "accuracyMeters": 18,
+          "timestamp": "2019-10-04T23:41:41Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 403220271,
+          "longitudeE7": -37599160,
+          "accuracyMetres": 74
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-10-04T23:42:20.989Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403222259,
+        "longitudeE7": -37592550,
+        "placeId": "ChIJh9P4eRmKQQ0R-nog-8vRsnw",
+        "address": "C. del Sufragio, 37, 28914 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 37.979282,
+        "calibratedProbability": 37.207138
+      },
+      "duration": {
+        "startTimestamp": "2019-10-04T23:41:57Z",
+        "endTimestamp": "2019-10-05T17:56:11.091Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403224019,
+      "centerLngE7": -37592551,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403224498,
+        "longitudeE7": -37595275,
+        "placeId": "ChIJiUwccxmKQQ0RdOxMn4uOdGo",
+        "address": "Av. de los Derechos Humanos, 52, 28914 Leganés, Madrid, España",
+        "locationConfidence": 22.189217,
+        "calibratedProbability": 21.738096
+      }, {
+        "latitudeE7": 403223940,
+        "longitudeE7": -37594808,
+        "placeId": "ChIJi1TxcBmKQQ0R9hzBIudpXTs",
+        "address": "Av. de los Derechos Humanos, 58, 28914 Leganés, Madrid, España",
+        "locationConfidence": 20.822777,
+        "calibratedProbability": 20.399437
+      }, {
+        "latitudeE7": 403234736,
+        "longitudeE7": -37606767,
+        "placeId": "ChIJ38VWIxmKQQ0R53f29bgbE2g",
+        "address": "Av. de los Derechos Humanos, 11, 28914 Leganés, Madrid, España",
+        "name": "Frutos secos los tilos",
+        "locationConfidence": 3.1413493,
+        "calibratedProbability": 3.077484
+      }, {
+        "latitudeE7": 403186439,
+        "longitudeE7": -37633105,
+        "placeId": "ChIJsWuaWzyKQQ0RrIKM7YUQHa4",
+        "address": "Av. Carlos Sainz, 2, 28914 Leganés, Madrid, España",
+        "name": "Polygon Motor City",
+        "locationConfidence": 2.3697262,
+        "calibratedProbability": 2.3215482
+      }, {
+        "latitudeE7": 403238546,
+        "longitudeE7": -37601074,
+        "placeId": "ChIJUbZZFBmKQQ0RTo1Lo3kvKoY",
+        "address": "Av. de los Derechos Humanos, 19, 28911 Leganés, Madrid, España",
+        "name": "CCOO (Comisiones Obreras) de Leganés",
+        "locationConfidence": 0.9415957,
+        "calibratedProbability": 0.92245245
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 38,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403222259,
+        "longitudeE7": -37592550,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403234501,
+        "longitudeE7": -37631278,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-05T17:56:11.091Z",
+        "endTimestamp": "2019-10-05T18:00:15.569Z"
+      },
+      "distance": 355,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 93.7010144274374
+      }, {
+        "activityType": "RUNNING",
+        "probability": 5.159747247396473
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.6473584454808927
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403222007,
+          "lngE7": -37592120
+        }, {
+          "latE7": 403222465,
+          "lngE7": -37617492
+        }, {
+          "latE7": 403234977,
+          "lngE7": -37627334
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 407.9707683392616,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403239659,
+          "lngE7": -37613190,
+          "accuracyMeters": 14,
+          "timestamp": "2019-10-05T17:58:15.539Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403234501,
+        "longitudeE7": -37631278,
+        "placeId": "ChIJH0C2qBiKQQ0RZTozFU9H-FE",
+        "address": "Av. del Dr. Fleming, 3, 28912 Leganés, Madrid, España",
+        "name": "Supeco LEGANÉS",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 98.24999,
+        "calibratedProbability": 91.91569
+      },
+      "duration": {
+        "startTimestamp": "2019-10-05T18:00:15.569Z",
+        "endTimestamp": "2019-10-05T18:18:16.098Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403232241,
+      "centerLngE7": -37632436,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403231970,
+        "longitudeE7": -37644910,
+        "placeId": "ChIJba7OJAWLQQ0RqLxvF0Np57I",
+        "address": "Av. del Dr. Fleming, 3, 28912 Leganés, Madrid, España",
+        "name": "Colegio CEMU (CiudadEscuela Muchachos)",
+        "locationConfidence": 0.12070445,
+        "calibratedProbability": 0.11292247
+      }, {
+        "latitudeE7": 403241145,
+        "longitudeE7": -37633772,
+        "placeId": "ChIJNUg2rBiKQQ0Rwc01VDORdJA",
+        "locationConfidence": 0.10180477,
+        "calibratedProbability": 0.09524128
+      }, {
+        "latitudeE7": 403242135,
+        "longitudeE7": -37632547,
+        "placeId": "ChIJOTV0rRiKQQ0RJ8fx1eZEi_w",
+        "address": "28912 Leganés, Madrid, España",
+        "name": "Bar Castilla",
+        "locationConfidence": 0.048131615,
+        "calibratedProbability": 0.045028504
+      }, {
+        "latitudeE7": 403243834,
+        "longitudeE7": -37634042,
+        "placeId": "ChIJeSJlRR-KQQ0Ry6jbIfOA5KQ",
+        "address": "Calle Garcilaso, 12, 28912 Leganés, Madrid, España",
+        "name": "Cazorla",
+        "locationConfidence": 0.044795886,
+        "calibratedProbability": 0.041907836
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 86,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403234501,
+        "longitudeE7": -37631278,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403225392,
+        "longitudeE7": -37596252,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-05T18:18:16.098Z",
+        "endTimestamp": "2019-10-05T18:22:52.420Z"
+      },
+      "distance": 394,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 93.49922357790408
+      }, {
+        "activityType": "RUNNING",
+        "probability": 5.218728866755043
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8451188716855728
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403234977,
+          "lngE7": -37627334
+        }, {
+          "latE7": 403241424,
+          "lngE7": -37616345
+        }, {
+          "latE7": 403225708,
+          "lngE7": -37595896
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 375.51016734868654,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403240758,
+          "lngE7": -37613175,
+          "accuracyMeters": 14,
+          "timestamp": "2019-10-05T18:20:37.680Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403224498,
+        "longitudeE7": -37595275,
+        "placeId": "ChIJP6WscRmKQQ0RPAHNZonatcI",
+        "address": "Av. de los Derechos Humanos, 56, 28914 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 25.51238,
+        "calibratedProbability": 22.469666
+      },
+      "duration": {
+        "startTimestamp": "2019-10-05T18:22:52.420Z",
+        "endTimestamp": "2019-10-07T14:06:28.507Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403224589,
+      "centerLngE7": -37592991,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403224498,
+        "longitudeE7": -37595275,
+        "placeId": "ChIJiUwccxmKQQ0RdOxMn4uOdGo",
+        "address": "Av. de los Derechos Humanos, 52, 28914 Leganés, Madrid, España",
+        "locationConfidence": 24.63414,
+        "calibratedProbability": 21.696167
+      }, {
+        "latitudeE7": 403223940,
+        "longitudeE7": -37594808,
+        "placeId": "ChIJi1TxcBmKQQ0R9hzBIudpXTs",
+        "address": "Av. de los Derechos Humanos, 58, 28914 Leganés, Madrid, España",
+        "locationConfidence": 19.107805,
+        "calibratedProbability": 16.828926
+      }, {
+        "latitudeE7": 403234736,
+        "longitudeE7": -37606767,
+        "placeId": "ChIJ38VWIxmKQQ0R53f29bgbE2g",
+        "address": "Av. de los Derechos Humanos, 11, 28914 Leganés, Madrid, España",
+        "name": "Frutos secos los tilos",
+        "locationConfidence": 6.0691338,
+        "calibratedProbability": 5.345303
+      }, {
+        "latitudeE7": 403186439,
+        "longitudeE7": -37633105,
+        "placeId": "ChIJsWuaWzyKQQ0RrIKM7YUQHa4",
+        "address": "Av. Carlos Sainz, 2, 28914 Leganés, Madrid, España",
+        "name": "Polygon Motor City",
+        "locationConfidence": 5.967456,
+        "calibratedProbability": 5.2557516
+      }, {
+        "latitudeE7": 403238546,
+        "longitudeE7": -37601074,
+        "placeId": "ChIJUbZZFBmKQQ0RTo1Lo3kvKoY",
+        "address": "Av. de los Derechos Humanos, 19, 28911 Leganés, Madrid, España",
+        "name": "CCOO (Comisiones Obreras) de Leganés",
+        "locationConfidence": 2.9849842,
+        "calibratedProbability": 2.628982
+      }, {
+        "latitudeE7": 403228025,
+        "longitudeE7": -37492775,
+        "placeId": "ChIJQ0z2HAeKQQ0RkGNg0bh0jOs",
+        "address": "C. de Julio Palacios, 14, 28914 Leganés, Madrid, España",
+        "name": "Polígono Industrial Nuestra Señora de Butarque",
+        "locationConfidence": 1.424542,
+        "calibratedProbability": 1.254645
+      }, {
+        "latitudeE7": 403239080,
+        "longitudeE7": -37610510,
+        "placeId": "ChIJn9jf1RiKQQ0R7wDnwi4sZlU",
+        "locationConfidence": 0.76161736,
+        "calibratedProbability": 0.6707836
+      }, {
+        "latitudeE7": 403250771,
+        "longitudeE7": -37602589,
+        "placeId": "ChIJr_2XyB6KQQ0RujO16kIgK1c",
+        "address": "28914 Leganés, Madrid, España",
+        "name": "Av.Museo-Pza.Joan Manuel Serrat",
+        "locationConfidence": 0.73730034,
+        "calibratedProbability": 0.64936674
+      }, {
+        "latitudeE7": 403229832,
+        "longitudeE7": -37601863,
+        "placeId": "ChIJq9ubJBmKQQ0RjXcfLaCMThg",
+        "locationConfidence": 0.46258563,
+        "calibratedProbability": 0.4074157
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403224498,
+        "longitudeE7": -37595275,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403265802,
+        "longitudeE7": -37594774,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-07T14:06:28.507Z",
+        "endTimestamp": "2019-10-07T14:08:50.420Z"
+      },
+      "distance": 471,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.17287936295575
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.314804621318456
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.6046938515191282
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403224945,
+          "lngE7": -37594738
+        }, {
+          "latE7": 403252716,
+          "lngE7": -37607231
+        }, {
+          "latE7": 403266143,
+          "lngE7": -37595450
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 634.421779326842,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403265802,
+        "longitudeE7": -37594774,
+        "placeId": "ChIJm-1vjx6KQQ0RnQHGDP8RC2M",
+        "address": "28914 Leganés, Madrid, España",
+        "name": "Casa del Reloj",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 70.695816,
+        "calibratedProbability": 76.35298
+      },
+      "duration": {
+        "startTimestamp": "2019-10-07T14:08:50.420Z",
+        "endTimestamp": "2019-10-07T14:16:25.443Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403260400,
+      "centerLngE7": -37604400,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403259475,
+        "longitudeE7": -37585868,
+        "placeId": "ChIJVQybLxyKQQ0RTt8dNdVgGxk",
+        "address": "C. del Maestro, 4, 28914 Leganés, Madrid, España",
+        "name": "La Cubierta de Leganés",
+        "locationConfidence": 9.071637,
+        "calibratedProbability": 9.797561
+      }, {
+        "latitudeE7": 403269106,
+        "longitudeE7": -37620396,
+        "placeId": "ChIJs6E8Ch-KQQ0Rqq8epmZ6-2g",
+        "address": "C. del Tulipán, 16, 28912 Leganés, Madrid, España",
+        "name": "Asador de pollos Puri",
+        "locationConfidence": 0.40208897,
+        "calibratedProbability": 0.43426463
+      }, {
+        "latitudeE7": 403265502,
+        "longitudeE7": -37613982,
+        "placeId": "ChIJuxJExISLQQ0Rg25mYXMUm9I",
+        "address": "Pl. Floras, 10, 28912 Leganés, Madrid, España",
+        "name": "Teteria El Escondite",
+        "locationConfidence": 0.39516076,
+        "calibratedProbability": 0.426782
+      }, {
+        "latitudeE7": 403266408,
+        "longitudeE7": -37623770,
+        "placeId": "ChIJ_____0OKQQ0R6v8IONwIK6k",
+        "locationConfidence": 0.3878498,
+        "calibratedProbability": 0.41888604
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403265802,
+        "longitudeE7": -37594774,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403325323,
+        "longitudeE7": -37653171,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-07T14:16:25.443Z",
+        "endTimestamp": "2019-10-07T14:26:19.442Z"
+      },
+      "distance": 2460,
+      "activityType": "IN_SUBWAY",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 76.17472584291903
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.77244366732432
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.471743576791807
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 403265802,
+          "longitudeE7": -37594774,
+          "placeId": "ChIJm-1vjx6KQQ0RnQHGDP8RC2M",
+          "address": "28914 Leganés, Madrid, España",
+          "name": "Casa del Reloj"
+        }, {
+          "latitudeE7": 403288300,
+          "longitudeE7": -37712982,
+          "placeId": "ChIJ2Qm5gSeKQQ0RwVYEVBkCvWk",
+          "address": "C. Virgen del Camino, 5, 28911 Leganés, Madrid, España",
+          "name": "Leganés Central"
+        }],
+        "name": "12",
+        "hexRgbColor": "A49901",
+        "linePlaceId": "ChIJ_TaeuM-LQQ0R3884hvMqmcc",
+        "source": "INFERRED",
+        "confidence": 0.91847393370729
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403285461,
+          "lngE7": -37719454,
+          "accuracyMeters": 16,
+          "timestamp": "2019-10-07T14:19:59.314Z"
+        }, {
+          "latE7": 403286717,
+          "lngE7": -37711615,
+          "accuracyMeters": 50,
+          "timestamp": "2019-10-07T14:22:08.512Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1808.7304401034805
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403325323,
+        "longitudeE7": -37653171,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "Carlos III University of Madrid- Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 88.72317,
+        "calibratedProbability": 90.65994,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-07T14:26:19.442Z",
+        "endTimestamp": "2019-10-07T16:54:50.519Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403317526,
+      "centerLngE7": -37660752,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403307981,
+        "longitudeE7": -37643217,
+        "placeId": "ChIJvw-Dj26JQQ0R_zGHGAC6Bhg",
+        "address": "C. de Madrid, 21, 28912 Leganés, Madrid, España",
+        "name": "Sushi Chan",
+        "locationConfidence": 0.23693512,
+        "calibratedProbability": 0.24210729
+      }, {
+        "latitudeE7": 403305002,
+        "longitudeE7": -37647362,
+        "placeId": "ChIJvZ__uYqJQQ0RVqFhwscFOlA",
+        "address": "C. de la Fuente, 8, 28911 Leganés, Madrid, España",
+        "name": "Electrodomesticos Nervion SL",
+        "locationConfidence": 0.18746836,
+        "calibratedProbability": 0.1915607
+      }, {
+        "latitudeE7": 403302505,
+        "longitudeE7": -37655379,
+        "placeId": "ChIJfSMMkYqJQQ0Re7FAzpQ37Ls",
+        "address": "C. Torrubia, 6, 28911 Leganés, Madrid, España",
+        "name": "Odeoz Hair Lab",
+        "locationConfidence": 0.16438055,
+        "calibratedProbability": 0.16796888
+      }, {
+        "latitudeE7": 403301094,
+        "longitudeE7": -37668146,
+        "placeId": "ChIJUQoRC0CJQQ0R-4Eb-Eg-pV0",
+        "address": "Pl. Vicente Aleixandre, 7, 45200 Illescas, Toledo, España",
+        "name": "Y Bonito - Moda y complementos",
+        "locationConfidence": 0.16401903,
+        "calibratedProbability": 0.16759948
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403307864,
+          "lngE7": -37690061,
+          "accuracyMeters": 15,
+          "timestamp": "2019-10-07T14:26:19.442Z"
+        }, {
+          "latE7": 403317998,
+          "lngE7": -37651014,
+          "accuracyMeters": 14,
+          "timestamp": "2019-10-07T14:40:16.929Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 349.6408609786499
+      },
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403317526,
+        "longitudeE7": -37660752
+      },
+      "endLocation": {
+        "latitudeE7": 403302221,
+        "longitudeE7": -37645439,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-07T16:54:50.519Z",
+        "endTimestamp": "2019-10-21T17:26:59.163Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403320006,
+          "lngE7": -37653698,
+          "accuracyMeters": 15,
+          "timestamp": "2019-10-07T16:54:50.519Z"
+        }, {
+          "latE7": 403306574,
+          "lngE7": -37651447,
+          "accuracyMeters": 12,
+          "timestamp": "2019-10-21T17:26:13.582Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 286.6774176797976
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403302221,
+        "longitudeE7": -37645439,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403269509,
+        "longitudeE7": -37623138,
+        "placeId": "ChIJpdauYCiJQQ0RSSFlF9-h9Ss",
+        "address": "C. del Tulipán, 16, 28912 Leganés, Madrid, España",
+        "name": "Mesón El Olivo",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 5.258563,
+        "calibratedProbability": 14.250765
+      },
+      "duration": {
+        "startTimestamp": "2019-10-21T17:26:59.163Z",
+        "endTimestamp": "2019-10-21T17:32:44.820Z"
+      },
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.55436628607536
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.6844545696727251
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.19483044308893802
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403302726,
+          "lngE7": -37645008
+        }, {
+          "latE7": 403275260,
+          "lngE7": -37636878
+        }, {
+          "latE7": 403256645,
+          "lngE7": -37614274
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 675.6762709634867,
+        "travelMode": "WALK",
+        "confidence": 0.9989565899226452
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403275772,
+          "lngE7": -37636354,
+          "accuracyMeters": 13,
+          "timestamp": "2019-10-21T17:31:21Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403269509,
+        "longitudeE7": -37623138,
+        "placeId": "ChIJpdauYCiJQQ0RSSFlF9-h9Ss",
+        "address": "C. del Tulipán, 16, 28912 Leganés, Madrid, España",
+        "name": "Mesón El Olivo",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 5.258563,
+        "calibratedProbability": 14.250765
+      },
+      "duration": {
+        "startTimestamp": "2019-10-21T17:32:44.820Z",
+        "endTimestamp": "2019-10-21T17:37:41.671Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 403257847,
+      "centerLngE7": -37617821,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403265502,
+        "longitudeE7": -37613982,
+        "placeId": "ChIJuxJExISLQQ0Rg25mYXMUm9I",
+        "address": "Pl. Floras, 10, 28912 Leganés, Madrid, España",
+        "name": "Teteria El Escondite",
+        "locationConfidence": 3.9989276,
+        "calibratedProbability": 10.837138
+      }, {
+        "latitudeE7": 403271342,
+        "longitudeE7": -37632294,
+        "placeId": "ChIJP1k3gx-KQQ0RgM14Brgw2Aw",
+        "address": "C. Getafe, 3, 28912 Leganés, Madrid, España",
+        "name": "Parking Público",
+        "locationConfidence": 2.689984,
+        "calibratedProbability": 7.289887
+      }, {
+        "latitudeE7": 403269106,
+        "longitudeE7": -37620396,
+        "placeId": "ChIJs6E8Ch-KQQ0Rqq8epmZ6-2g",
+        "address": "C. del Tulipán, 16, 28912 Leganés, Madrid, España",
+        "name": "Asador de pollos Puri",
+        "locationConfidence": 1.5064573,
+        "calibratedProbability": 4.082516
+      }, {
+        "latitudeE7": 403271750,
+        "longitudeE7": -37637065,
+        "placeId": "ChIJyxR2aCCKQQ0RAgbdYES1M5Q",
+        "address": "Pl. de España, 2, 28911 Leganés, Madrid, España",
+        "name": "Optical Center Social",
+        "locationConfidence": 1.4939077,
+        "calibratedProbability": 4.0485063
+      }, {
+        "latitudeE7": 403265681,
+        "longitudeE7": -37642416,
+        "placeId": "ChIJm-p40SGKQQ0R6bz89jKNXpU",
+        "locationConfidence": 1.304753,
+        "calibratedProbability": 3.535895
+      }, {
+        "latitudeE7": 403266408,
+        "longitudeE7": -37623770,
+        "placeId": "ChIJ_____0OKQQ0R6v8IONwIK6k",
+        "locationConfidence": 1.2762574,
+        "calibratedProbability": 3.4586718
+      }, {
+        "latitudeE7": 403277658,
+        "longitudeE7": -37625636,
+        "placeId": "ChIJ1WUolh-KQQ0RALcHF63Nskk",
+        "address": "C. de Villaverde, 17, 28912 Leganés, Madrid, España",
+        "name": "Antojos Bar Mesón",
+        "locationConfidence": 1.168899,
+        "calibratedProbability": 3.1677294
+      }, {
+        "latitudeE7": 403263388,
+        "longitudeE7": -37607714,
+        "placeId": "ChIJM-ZCmPeLQQ0RMn8f7QhWfWw",
+        "address": "C. del Pensamiento, 12, 28913 Leganés, Madrid, España",
+        "name": "SBR Psicología",
+        "locationConfidence": 1.0701281,
+        "calibratedProbability": 2.900059
+      }, {
+        "latitudeE7": 403272409,
+        "longitudeE7": -37633035,
+        "placeId": "ChIJ1XV3gx-KQQ0R7ui_V9AqCqE",
+        "address": "C. Getafe, 3, 28912 Leganés, Madrid, España",
+        "name": "Grupo EM Gestión",
+        "locationConfidence": 1.0103358,
+        "calibratedProbability": 2.7380214
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 9,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403269509,
+        "longitudeE7": -37623138,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403222961,
+        "longitudeE7": -37592506,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-21T17:37:41.671Z",
+        "endTimestamp": "2019-10-21T17:39:49.622Z"
+      },
+      "distance": 579,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 92.65329711048986
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.211436085219777
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.5973040687203506
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403269577,
+          "lngE7": -37623221
+        }, {
+          "latE7": 403252296,
+          "lngE7": -37611432
+        }, {
+          "latE7": 403223266,
+          "lngE7": -37592151
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 732.9842972906861,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403222961,
+        "longitudeE7": -37592506,
+        "placeId": "ChIJh9P4eRmKQQ0R-nog-8vRsnw",
+        "address": "Calle del Sufragio, 37, 28914 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 87.768585,
+        "calibratedProbability": 86.88155
+      },
+      "duration": {
+        "startTimestamp": "2019-10-21T17:39:49.622Z",
+        "endTimestamp": "2019-10-22T08:27:15.287Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403223820,
+      "centerLngE7": -37593112,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403234736,
+        "longitudeE7": -37606767,
+        "placeId": "ChIJ38VWIxmKQQ0R53f29bgbE2g",
+        "address": "Av. de los Derechos Humanos, 11, 28914 Leganés, Madrid, España",
+        "name": "Frutos secos los tilos",
+        "locationConfidence": 3.2533183,
+        "calibratedProbability": 3.2204385
+      }, {
+        "latitudeE7": 403186439,
+        "longitudeE7": -37633105,
+        "placeId": "ChIJsWuaWzyKQQ0RrIKM7YUQHa4",
+        "address": "Av. Carlos Sainz, 2, 28914 Leganés, Madrid, España",
+        "name": "Polygon Motor City",
+        "locationConfidence": 1.7036381,
+        "calibratedProbability": 1.6864202
+      }, {
+        "latitudeE7": 403238546,
+        "longitudeE7": -37601074,
+        "placeId": "ChIJUbZZFBmKQQ0RTo1Lo3kvKoY",
+        "address": "Av. de los Derechos Humanos, 19, 28911 Leganés, Madrid, España",
+        "name": "CCOO (Comisiones Obreras) de Leganés",
+        "locationConfidence": 0.9691276,
+        "calibratedProbability": 0.95933306
+      }, {
+        "latitudeE7": 403225882,
+        "longitudeE7": -37607662,
+        "placeId": "ChIJg8JtOBmKQQ0RwB4yN7qGJdg",
+        "address": "C. Libertades, 10, 28914 Leganés, Madrid, España",
+        "name": "Boacentro Asesores S.l.",
+        "locationConfidence": 0.35298276,
+        "calibratedProbability": 0.3494153
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403218998,
+        "longitudeE7": -37587772,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403320756,
+        "longitudeE7": -37640539,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T08:27:15.287Z",
+        "endTimestamp": "2019-10-22T09:00:08.902Z"
+      },
+      "distance": 2361,
+      "activityType": "IN_SUBWAY",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 55.30075116504795
+      }, {
+        "activityType": "WALKING",
+        "probability": 39.19073574534258
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.7557281089308434
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403263767,
+          "lngE7": -37597291,
+          "accuracyMeters": 14,
+          "timestamp": "2019-10-22T08:39:46.455Z"
+        }, {
+          "latE7": 403287115,
+          "lngE7": -37718480,
+          "accuracyMeters": 17,
+          "timestamp": "2019-10-22T08:47:46.260Z"
+        }, {
+          "latE7": 403287218,
+          "lngE7": -37710267,
+          "accuracyMeters": 24,
+          "timestamp": "2019-10-22T08:49:54.710Z"
+        }, {
+          "latE7": 403302334,
+          "lngE7": -37698015,
+          "accuracyMeters": 14,
+          "timestamp": "2019-10-22T08:51:55.779Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2362.228465053953
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403325323,
+        "longitudeE7": -37653171,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "Carlos III University of Madrid- Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 97.0663,
+        "calibratedProbability": 93.36031,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T09:00:08.902Z",
+        "endTimestamp": "2019-10-22T17:06:04.722Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403324538,
+      "centerLngE7": -37649050,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403310214,
+        "longitudeE7": -37636132,
+        "placeId": "ChIJSQWKM_WJQQ0Rq_YAjlBtuEo",
+        "address": "C. de Madrid, 29, 28912 Leganés, Madrid, España",
+        "name": "Fisioterapia y Masajes Terapéuticos Fimat.",
+        "locationConfidence": 0.059734944,
+        "calibratedProbability": 0.057454266
+      }, {
+        "latitudeE7": 403325178,
+        "longitudeE7": -37629420,
+        "placeId": "ChIJY72t4_SJQQ0RP666Sq2V0U8",
+        "address": "C. Batalla del Salado, s/n, 28912 Leganés, Madrid, España",
+        "name": "Clínica Belén Dental",
+        "locationConfidence": 0.05715047,
+        "calibratedProbability": 0.054968465
+      }, {
+        "latitudeE7": 403305002,
+        "longitudeE7": -37647362,
+        "placeId": "ChIJvZ__uYqJQQ0RVqFhwscFOlA",
+        "address": "C. de la Fuente, 8, 28911 Leganés, Madrid, España",
+        "name": "Electrodomesticos Nervion SL",
+        "locationConfidence": 0.055399574,
+        "calibratedProbability": 0.05328442
+      }, {
+        "latitudeE7": 403307981,
+        "longitudeE7": -37643217,
+        "placeId": "ChIJvw-Dj26JQQ0R_zGHGAC6Bhg",
+        "address": "C. de Madrid, 21, 28912 Leganés, Madrid, España",
+        "name": "Sushi Chan",
+        "locationConfidence": 0.054963328,
+        "calibratedProbability": 0.05286483
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403320791,
+          "lngE7": -37640681,
+          "accuracyMeters": 15,
+          "timestamp": "2019-10-22T09:00:08.902Z"
+        }, {
+          "latE7": 403319532,
+          "lngE7": -37674582,
+          "accuracyMeters": 52,
+          "timestamp": "2019-10-22T11:04:43.448Z"
+        }, {
+          "latE7": 403319219,
+          "lngE7": -37652381,
+          "accuracyMeters": 16,
+          "timestamp": "2019-10-22T12:42:06.296Z"
+        }, {
+          "latE7": 403319219,
+          "lngE7": -37652381,
+          "accuracyMeters": 16,
+          "timestamp": "2019-10-22T12:46:10.738Z"
+        }, {
+          "latE7": 403319219,
+          "lngE7": -37652381,
+          "accuracyMeters": 16,
+          "timestamp": "2019-10-22T12:48:11.768Z"
+        }, {
+          "latE7": 403319219,
+          "lngE7": -37652381,
+          "accuracyMeters": 42,
+          "timestamp": "2019-10-22T12:52:22.661Z"
+        }, {
+          "latE7": 403331678,
+          "lngE7": -37653013,
+          "accuracyMeters": 28,
+          "timestamp": "2019-10-22T17:03:25.582Z"
+        }, {
+          "latE7": 403331678,
+          "lngE7": -37653013,
+          "accuracyMeters": 83,
+          "timestamp": "2019-10-22T17:04:00.121Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 615.7823715958197
+      },
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403326705,
+        "longitudeE7": -37648132,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403286670,
+        "longitudeE7": -37711430,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T17:06:04.722Z",
+        "endTimestamp": "2019-10-22T17:14:40.415Z"
+      },
+      "distance": 800,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 94.55495008551354
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.6618978759805496
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.1103141563830228
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403326530,
+          "lngE7": -37648391
+        }, {
+          "latE7": 403316307,
+          "lngE7": -37670359
+        }, {
+          "latE7": 403286933,
+          "lngE7": -37710373
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 895.4679225088187,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403309459,
+          "lngE7": -37660598,
+          "accuracyMeters": 92,
+          "timestamp": "2019-10-22T17:08:05.702Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403286670,
+        "longitudeE7": -37711430,
+        "placeId": "ChIJF-jagSeKQQ0RuymcxlyPSNs",
+        "address": "28911 Leganés, Madrid, España",
+        "name": "Leganes",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 90.45778,
+        "calibratedProbability": 91.68437,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T17:14:40.415Z",
+        "endTimestamp": "2019-10-22T17:20:54.139Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 403288300,
+          "longitudeE7": -37712982,
+          "placeId": "ChIJ2Qm5gSeKQQ0RwVYEVBkCvWk",
+          "address": "C. Virgen del Camino, 5, 28911 Leganés, Madrid, España",
+          "name": "Leganés Central",
+          "sourceInfo": {
+            "deviceTag": 1024614278
+          },
+          "locationConfidence": 79.78355,
+          "calibratedProbability": 90.89131
+        },
+        "duration": {
+          "startTimestamp": "2019-10-22T17:14:40.415Z",
+          "endTimestamp": "2019-10-22T17:20:54.139Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 403287120,
+        "centerLngE7": -37716440,
+        "visitConfidence": 94,
+        "otherCandidateLocations": [{
+          "latitudeE7": 403286742,
+          "longitudeE7": -37711202,
+          "placeId": "ChIJC1aTPyCLQQ0Rlojau_t9dLc",
+          "address": "28913 Leganés, Madrid, España",
+          "name": "Cafetería El Andén",
+          "locationConfidence": 0.74990344,
+          "calibratedProbability": 0.85430783
+        }, {
+          "latitudeE7": 403292513,
+          "longitudeE7": -37698236,
+          "placeId": "ChIJA7RHip-LQQ0R6NzYVXkuBp8",
+          "address": "C. de Sta. Teresa, 12, 28911 Leganés, Madrid, España",
+          "name": "Ropa y calzado de segunda mano",
+          "locationConfidence": 0.33825332,
+          "calibratedProbability": 0.38534623
+        }, {
+          "latitudeE7": 403291777,
+          "longitudeE7": -37688525,
+          "placeId": "ChIJ5RkMrCCKQQ0R_bf1YaunyzY",
+          "address": "C. el Charco, 38, 28911 Leganés, Madrid, España",
+          "name": "TRAJES DE SEVILLANA, BABIS Y DISFRACES BAENA",
+          "locationConfidence": 0.3148653,
+          "calibratedProbability": 0.35870203
+        }, {
+          "latitudeE7": 403269314,
+          "longitudeE7": -37693387,
+          "placeId": "ChIJr0Q0FdWLQQ0REVGENx5DT7M",
+          "locationConfidence": 0.27431113,
+          "calibratedProbability": 0.31250176
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 69,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 403287120,
+      "centerLngE7": -37716440,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403292513,
+        "longitudeE7": -37698236,
+        "placeId": "ChIJA7RHip-LQQ0R6NzYVXkuBp8",
+        "address": "C. de Sta. Teresa, 12, 28911 Leganés, Madrid, España",
+        "name": "Ropa y calzado de segunda mano",
+        "locationConfidence": 0.32301927,
+        "calibratedProbability": 0.32739934
+      }, {
+        "latitudeE7": 403291777,
+        "longitudeE7": -37688525,
+        "placeId": "ChIJ5RkMrCCKQQ0R_bf1YaunyzY",
+        "address": "C. el Charco, 38, 28911 Leganés, Madrid, España",
+        "name": "TRAJES DE SEVILLANA, BABIS Y DISFRACES BAENA",
+        "locationConfidence": 0.3006846,
+        "calibratedProbability": 0.30476183
+      }, {
+        "latitudeE7": 403269314,
+        "longitudeE7": -37693387,
+        "placeId": "ChIJr0Q0FdWLQQ0REVGENx5DT7M",
+        "locationConfidence": 0.26195687,
+        "calibratedProbability": 0.26550895
+      }, {
+        "latitudeE7": 403302842,
+        "longitudeE7": -37697136,
+        "placeId": "ChIJ_yi554mJQQ0Rz1tis_18jFM",
+        "address": "Calle de Sta. Rosa, 5, 28911 Leganés, Madrid, España",
+        "name": "Carnes Hermanos de Diego S.L.",
+        "locationConfidence": 0.21718241,
+        "calibratedProbability": 0.22012737
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 78,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403286670,
+        "longitudeE7": -37711430
+      },
+      "endLocation": {
+        "latitudeE7": 403223228,
+        "longitudeE7": -37592299
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T17:20:54.139Z",
+        "endTimestamp": "2019-10-22T17:34:22.863Z"
+      },
+      "distance": 1325,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 48.216223946070905
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 34.783849469139064
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 5.803261484127219
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403286933,
+          "lngE7": -37710373
+        }, {
+          "latE7": 403241157,
+          "lngE7": -37629060
+        }, {
+          "latE7": 403223304,
+          "lngE7": -37592206
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1484.8103527840296,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403249380,
+          "lngE7": -37609424,
+          "accuracyMeters": 94,
+          "timestamp": "2019-10-22T17:29:25.596Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403223228,
+        "longitudeE7": -37592299,
+        "placeId": "ChIJS_qjexmKQQ0RqGf_C6eAEQQ",
+        "address": "Calle de la Justicia, 22, 28914 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 71.02306,
+        "calibratedProbability": 63.82589
+      },
+      "duration": {
+        "startTimestamp": "2019-10-22T17:34:22.863Z",
+        "endTimestamp": "2019-10-23T12:54:11.148Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403224153,
+      "centerLngE7": -37592666,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403222961,
+        "longitudeE7": -37592506,
+        "placeId": "ChIJh9P4eRmKQQ0R-nog-8vRsnw",
+        "address": "C. del Sufragio, 37, 28914 Leganés, Madrid, España",
+        "locationConfidence": 21.87728,
+        "calibratedProbability": 19.66033
+      }, {
+        "latitudeE7": 403234736,
+        "longitudeE7": -37606767,
+        "placeId": "ChIJ38VWIxmKQQ0R53f29bgbE2g",
+        "address": "Av. de los Derechos Humanos, 11, 28914 Leganés, Madrid, España",
+        "name": "Frutos secos los tilos",
+        "locationConfidence": 2.2828834,
+        "calibratedProbability": 2.0515459
+      }, {
+        "latitudeE7": 403186439,
+        "longitudeE7": -37633105,
+        "placeId": "ChIJsWuaWzyKQQ0RrIKM7YUQHa4",
+        "address": "Av. Carlos Sainz, 2, 28914 Leganés, Madrid, España",
+        "name": "Polygon Motor City",
+        "locationConfidence": 0.71370363,
+        "calibratedProbability": 0.64137995
+      }, {
+        "latitudeE7": 403238546,
+        "longitudeE7": -37601074,
+        "placeId": "ChIJUbZZFBmKQQ0RTo1Lo3kvKoY",
+        "address": "Av. de los Derechos Humanos, 19, 28911 Leganés, Madrid, España",
+        "name": "CCOO (Comisiones Obreras) de Leganés",
+        "locationConfidence": 0.51715976,
+        "calibratedProbability": 0.464753
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403286670,
+        "longitudeE7": -37711430,
+        "placeId": "ChIJF-jagSeKQQ0RuymcxlyPSNs",
+        "address": "28911 Leganés, Madrid, España",
+        "name": "Leganes",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 37.035294,
+        "calibratedProbability": 46.730373
+      },
+      "duration": {
+        "startTimestamp": "2019-10-28T12:03:13.118Z",
+        "endTimestamp": "2019-10-28T12:17:18.040Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 403299092,
+      "centerLngE7": -37696358,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403325323,
+        "longitudeE7": -37653171,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 25.636126,
+        "calibratedProbability": 32.347134
+      }, {
+        "latitudeE7": 403292513,
+        "longitudeE7": -37698236,
+        "placeId": "ChIJA7RHip-LQQ0R6NzYVXkuBp8",
+        "address": "C. de Sta. Teresa, 12, 28911 Leganés, Madrid, España",
+        "name": "Ropa y calzado de segunda mano",
+        "locationConfidence": 0.79736257,
+        "calibratedProbability": 1.0060956
+      }, {
+        "latitudeE7": 403306880,
+        "longitudeE7": -37694400,
+        "placeId": "ChIJMzPTRYaJQQ0R27ZaX2Uv1WA",
+        "address": "Calle de Sta. Rosa, 4, 28911 Leganés, Madrid, España",
+        "name": "vivantadental",
+        "locationConfidence": 0.67358196,
+        "calibratedProbability": 0.84991187
+      }, {
+        "latitudeE7": 403302842,
+        "longitudeE7": -37697136,
+        "placeId": "ChIJ_yi554mJQQ0Rz1tis_18jFM",
+        "address": "Calle de Sta. Rosa, 5, 28911 Leganés, Madrid, España",
+        "name": "Carnes Hermanos de Diego S.L.",
+        "locationConfidence": 0.5987576,
+        "calibratedProbability": 0.7555
+      }, {
+        "latitudeE7": 403299529,
+        "longitudeE7": -37681894,
+        "placeId": "ChIJWYxiBYqJQQ0RsY5fdvP_ank",
+        "address": "C. Juan Muñoz, 35, 28911 Leganés, Madrid, España",
+        "name": "Marvimundo",
+        "locationConfidence": 0.59431005,
+        "calibratedProbability": 0.7498882
+      }, {
+        "latitudeE7": 403304490,
+        "longitudeE7": -37697298,
+        "placeId": "ChIJZQrd7ImJQQ0RGFZRVU4cSUs",
+        "address": "Calle de Sta. Rosa, 8, 28911 Leganés, Madrid, España",
+        "name": "Barberia K\u0026M",
+        "locationConfidence": 0.56559056,
+        "calibratedProbability": 0.7136505
+      }, {
+        "latitudeE7": 403291777,
+        "longitudeE7": -37688525,
+        "placeId": "ChIJ5RkMrCCKQQ0R_bf1YaunyzY",
+        "address": "C. el Charco, 38, 28911 Leganés, Madrid, España",
+        "name": "TRAJES DE SEVILLANA, BABIS Y DISFRACES BAENA",
+        "locationConfidence": 0.5541196,
+        "calibratedProbability": 0.69917667
+      }, {
+        "latitudeE7": 403306113,
+        "longitudeE7": -37684365,
+        "placeId": "ChIJrTL-R4qJQQ0RZwsnbuEwMgU",
+        "address": "C. Juan Muñoz, 52, 28911 Leganés, Madrid, España",
+        "name": "Clínica Dental Adeslas Centro",
+        "locationConfidence": 0.46806058,
+        "calibratedProbability": 0.5905892
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 37,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403288300,
+        "longitudeE7": -37712982,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403265802,
+        "longitudeE7": -37594774,
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-10-28T12:25:41.823Z",
+        "endTimestamp": "2019-10-28T12:39:16.369Z"
+      },
+      "distance": 2197,
+      "activityType": "IN_SUBWAY",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 70.84685540994734
+      }, {
+        "activityType": "WALKING",
+        "probability": 21.163865377095725
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.3908321135902786
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 403288300,
+          "longitudeE7": -37712982,
+          "placeId": "ChIJ2Qm5gSeKQQ0RwVYEVBkCvWk",
+          "address": "C. Virgen del Camino, 5, 28911 Leganés, Madrid, España",
+          "name": "Leganés Central"
+        }, {
+          "latitudeE7": 403265802,
+          "longitudeE7": -37594774,
+          "placeId": "ChIJm-1vjx6KQQ0RnQHGDP8RC2M",
+          "address": "28914 Leganés, Madrid, España",
+          "name": "Casa del Reloj"
+        }],
+        "name": "12",
+        "hexRgbColor": "A49901",
+        "linePlaceId": "ChIJ_TaeuM-LQQ0R3884hvMqmcc",
+        "source": "BACKFILLED",
+        "distanceMeters": 2197.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403286455,
+          "lngE7": -37719024,
+          "accuracyMeters": 15,
+          "timestamp": "2019-10-28T12:25:41.823Z"
+        }, {
+          "latE7": 403258825,
+          "lngE7": -37608397,
+          "accuracyMeters": 17,
+          "timestamp": "2019-10-28T12:35:14.314Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1181.1350101212572
+      }
+    }
+  }]
+}

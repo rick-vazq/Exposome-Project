@@ -1,0 +1,64 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403325323,
+        "longitudeE7": -37653171,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "Carlos III University of Madrid- Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 1024614278
+        },
+        "locationConfidence": 92.06269,
+        "calibratedProbability": 68.83172,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-20T17:45:59.215Z",
+        "endTimestamp": "2019-11-20T17:53:46.508Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403319380,
+      "centerLngE7": -37653480,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403294921,
+        "longitudeE7": -37638027,
+        "placeId": "ChIJLXB2PaeJQQ0R8n_xMw5v8ls",
+        "address": "Av. de la Universidad, 7, 28911 Leganés, Madrid, España",
+        "name": "micampus Leganés",
+        "locationConfidence": 4.3888683,
+        "calibratedProbability": 3.2813876
+      }, {
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 2.6414824,
+        "calibratedProbability": 1.9749345
+      }, {
+        "latitudeE7": 403313337,
+        "longitudeE7": -37678961,
+        "placeId": "ChIJac4l08uJQQ0RvjmIuXQOxOE",
+        "address": "Av. de la Universidad, 31, Bajo, 28911 Leganés, Madrid, España",
+        "name": "100 Montaditos",
+        "locationConfidence": 0.45565352,
+        "calibratedProbability": 0.34067455
+      }, {
+        "latitudeE7": 403309502,
+        "longitudeE7": -37660042,
+        "placeId": "ChIJw7M8ebiJQQ0R5usyFOPFHas",
+        "address": "Av. de la Universidad, 25, 28911 Leganés, Madrid, España",
+        "name": "Supermercados Dia",
+        "locationConfidence": 0.100824356,
+        "calibratedProbability": 0.07538248
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

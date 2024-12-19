@@ -1,0 +1,287 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257778879,
+        "longitudeE7": -803626660
+      },
+      "endLocation": {
+        "latitudeE7": 259232662,
+        "longitudeE7": -802987491
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T19:16:06Z",
+        "endTimestamp": "2017-11-04T19:45:15.723Z"
+      },
+      "distance": 24565,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 95.72875076328164
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.7664908228748404
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.19956435590756041
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257778205,
+          "lngE7": -803626251
+        }, {
+          "latE7": 259232673,
+          "lngE7": -802983856
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 259230781,
+        "longitudeE7": -802990295,
+        "placeId": "ChIJObBdoUCl2YgRyAXIScc4RUw",
+        "address": "16580 NW 59th Ave, Miami Lakes, Florida 33014, United States",
+        "name": "Costco Wholesale",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.84608,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T19:45:56.564Z",
+        "endTimestamp": "2017-11-04T21:07:27.161Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 259231443,
+      "centerLngE7": -802989114,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 259230781,
+        "longitudeE7": -802990295,
+        "placeId": "ChIJuWRhoUCl2YgRXEhgOQ1tHXI",
+        "address": "16580 NW 59th Ave, Miami Lakes, FL 33014, USA",
+        "name": "Wireless Advocates T-Mobile Authorized Dealer",
+        "locationConfidence": 0.12255656,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 259230781,
+        "longitudeE7": -802990295,
+        "placeId": "ChIJVzgIWD-l2YgRguhNHW0od_s",
+        "address": "16580 NW 59th Ave, Miami Lakes, FL 33014, USA",
+        "name": "Lowinger Eyecare Miami Lakes",
+        "locationConfidence": 0.013781108,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 259235194,
+        "longitudeE7": -803003834,
+        "placeId": "ChIJhWJJEj-l2YgRR15ekh-Oo64",
+        "address": "6100 NW 167th St, Miami Lakes, FL 33014, USA",
+        "name": "DriveTime Used Cars",
+        "locationConfidence": 0.0023876838
+      }, {
+        "latitudeE7": 259234725,
+        "longitudeE7": -802985094,
+        "placeId": "ChIJObBdoUCl2YgR1sXNl0-rooI",
+        "address": "16580 NW 59th Ave, Miami Lakes, FL 33014, USA",
+        "name": "Cardtronics ATM",
+        "locationConfidence": 6.9883367E-4
+      }, {
+        "latitudeE7": 259203312,
+        "longitudeE7": -803025072,
+        "placeId": "ChIJ26ePyyil2YgRAyVa8vW3VgQ",
+        "address": "Miami Lakes, FL, USA",
+        "locationConfidence": 6.610253E-4
+      }, {
+        "latitudeE7": 259220630,
+        "longitudeE7": -802984310,
+        "placeId": "ChIJ1ea8UUel2YgR-yJJBfEqurs",
+        "name": "pacifica real estate",
+        "locationConfidence": 5.9124123E-4
+      }, {
+        "latitudeE7": 259265246,
+        "longitudeE7": -802967842,
+        "placeId": "ChIJXwEjSECl2YgR0ipE7mFt2LU",
+        "address": "5895 NW 167th St, Hialeah, FL 33015, USA",
+        "name": "Headquarter Toyota",
+        "locationConfidence": 4.6213812E-4
+      }, {
+        "latitudeE7": 259234600,
+        "longitudeE7": -803027730,
+        "placeId": "ChIJU3uWzj6l2YgRvGpuz0iGA34",
+        "address": "6300 NW 167th St, Miami Lakes, FL 33014, USA",
+        "name": "CarMax",
+        "locationConfidence": 4.5708E-4
+      }, {
+        "latitudeE7": 259262061,
+        "longitudeE7": -802979253,
+        "placeId": "ChIJTxhVbECl2YgRzqs_D8yv0r0",
+        "address": "5925 NW 167th St, Hialeah, FL 33015, USA",
+        "name": "AutoNation Honda Miami Lakes",
+        "locationConfidence": 4.3855162E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 259229790,
+          "lngE7": -802995111,
+          "accuracyMeters": 24,
+          "timestamp": "2017-11-04T20:17:37.279Z"
+        }, {
+          "latE7": 259234113,
+          "lngE7": -802988814,
+          "accuracyMeters": 25,
+          "timestamp": "2017-11-04T20:43:43.078Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 158.44805473451765
+      },
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 259230781,
+        "longitudeE7": -802990295
+      },
+      "endLocation": {
+        "latitudeE7": 257789726,
+        "longitudeE7": -803620758
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T21:07:27.161Z",
+        "endTimestamp": "2017-11-04T21:50:49.189Z"
+      },
+      "distance": 26854,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 78.01454769836754
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.075868152731395
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8324513528111134
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 259236183,
+          "lngE7": -802990341
+        }, {
+          "latE7": 257791023,
+          "lngE7": -803621292
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257806726,
+          "longitudeE7": -803690240,
+          "accuracyMetres": 16
+        },
+        "method": "PERSONAL_VEHICLE_CONFIDENCE",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-11-04T21:46:51.999Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789726,
+        "longitudeE7": -803620758,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 98.43974
+      },
+      "duration": {
+        "startTimestamp": "2017-11-04T21:50:49.189Z",
+        "endTimestamp": "2017-11-04T22:06:49.169Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257787173,
+      "centerLngE7": -803620845,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 1.2071373,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.19163582
+      }, {
+        "latitudeE7": 257789768,
+        "longitudeE7": -803573620,
+        "placeId": "ChIJ65G57C-52YgRRBkujX36nTc",
+        "address": "9934 NW 10th St, Miami, FL 33172, USA",
+        "name": "Las Ramblas",
+        "locationConfidence": 0.024309045
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.018558513
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.014798935
+      }, {
+        "latitudeE7": 257733949,
+        "longitudeE7": -803491599,
+        "placeId": "ChIJd9mTTzW32YgRT13jZAonra0",
+        "address": "Florida, USA",
+        "locationConfidence": 0.013081435,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257694024,
+        "longitudeE7": -803473609,
+        "placeId": "ChIJWeUdRSC52YgRzdKI8pSwZ1g",
+        "address": "9271 W Flagler St BLDG C, Miami, FL 33174, USA",
+        "name": "Discovery Clothing",
+        "locationConfidence": 0.008311134
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgROaKbRRiUXbU",
+        "address": "10145 NW 9th St Cir #403, Miami, FL 33172, USA",
+        "name": "Easy Shop",
+        "locationConfidence": 0.007681171
+      }, {
+        "latitudeE7": 257793820,
+        "longitudeE7": -803607320,
+        "placeId": "ChIJefw2HS652YgRExUAn_r4Quo",
+        "address": "Fontainebleau, FL 33172, USA",
+        "locationConfidence": 0.006862017
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 89,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

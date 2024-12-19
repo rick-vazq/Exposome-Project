@@ -1,0 +1,708 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404200366,
+        "longitudeE7": -37018680,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404201219,
+        "longitudeE7": -37038123,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-08-15T17:52:45Z",
+        "endTimestamp": "2024-08-15T17:54:59Z"
+      },
+      "distance": 165,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 88.82430791854858
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.8932642191648483
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.4688173308968544
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.7101242430508137
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.7088015787303448
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.40132272988557816
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.20169804338365793
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1494355616159737
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.09233742021024227
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.05900493124499917
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03377166576683521
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011020927922800183
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005623363540507853
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 404199562,
+          "lngE7": -37018771
+        }, {
+          "latE7": 404199790,
+          "lngE7": -37022225
+        }, {
+          "latE7": 404200630,
+          "lngE7": -37038187
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJhwochH0oQg0RN2j7_sMQKgQ",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJgaaBm30oQg0R1H1uBosuVs0",
+          "duration": "24s"
+        }],
+        "distanceMeters": 170.5570757944092,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404199291,
+        "longitudeE7": -37032116,
+        "placeId": "ChIJP20MhX0oQg0RWB7v_evhNgU",
+        "address": "Gran Vía, 29, Centro, 28013 Madrid, España",
+        "name": "Casa del Libro",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 47.649628,
+        "calibratedProbability": 47.649628
+      },
+      "duration": {
+        "startTimestamp": "2024-08-15T17:54:59Z",
+        "endTimestamp": "2024-08-15T18:42:24.797Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404200750,
+        "longitudeE7": -37027333,
+        "placeId": "ChIJr42QgH0oQg0Rq0LJnya-FU4",
+        "address": "Gran Vía, 30, Centro, 28013 Madrid, España",
+        "name": "Stradivarius",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.6804624,
+        "calibratedProbability": 5.6804624
+      }, {
+        "latitudeE7": 404205655,
+        "longitudeE7": -37029078,
+        "placeId": "ChIJfaTYf30oQg0RRe-BL7LDMgg",
+        "address": "C. Gonzalo Jiménez de Quesada, 2, Centro, 28004 Madrid, España",
+        "name": "Petit Palace Triball",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.1436853,
+        "calibratedProbability": 4.1436853
+      }, {
+        "latitudeE7": 404204644,
+        "longitudeE7": -37038274,
+        "placeId": "ChIJN-MihH0oQg0RBGH7lhPYQhk",
+        "address": "Gran Vía, 32 Bis, Centro, 28013 Madrid, España",
+        "name": "Radio Madrid Cadena SER",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.521981,
+        "calibratedProbability": 3.521981
+      }, {
+        "latitudeE7": 404194965,
+        "longitudeE7": -37026678,
+        "placeId": "ChIJk_8HYYcoQg0R_rsrs_IhuqE",
+        "address": "C. de las Tres Cruces, 8, Centro, 28013 Madrid, España",
+        "name": "Teatro Príncipe Gran Vía",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.8903654,
+        "calibratedProbability": 2.8903654
+      }, {
+        "latitudeE7": 404193472,
+        "longitudeE7": -37030945,
+        "placeId": "ChIJk-st9X0oQg0RO4IpouniHjU",
+        "address": "C. de las Tres Cruces, 3, Centro, 28013 Madrid, España",
+        "name": "Hotel Anaco",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.137374,
+        "calibratedProbability": 2.137374
+      }, {
+        "latitudeE7": 404202546,
+        "longitudeE7": -37026608,
+        "placeId": "ChIJrSMK3IIoQg0Rig5cnIB4k0w",
+        "address": "Gran Vía, 30, Centro, 28013 Madrid, España",
+        "name": "Starbucks",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.8389666,
+        "calibratedProbability": 1.8389666
+      }, {
+        "latitudeE7": 404197796,
+        "longitudeE7": -37029800,
+        "placeId": "ChIJfUGGxDIpQg0RtYXBfJGmV5A",
+        "address": "C. de la Salud, 10, Local, Centro, 28013 Madrid, España",
+        "name": "Bricks Madrid - Tienda especializada en LEGO y COBI",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.5106654,
+        "calibratedProbability": 1.5106654
+      }, {
+        "latitudeE7": 404202689,
+        "longitudeE7": -37029290,
+        "placeId": "ChIJMUOODIcoQg0RbJe4j2LEdzg",
+        "address": "Gran Vía, 30, Centro, 28013 Madrid, España",
+        "name": "Pans \u0026 Company",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.3311689,
+        "calibratedProbability": 1.3311689
+      }, {
+        "latitudeE7": 404205596,
+        "longitudeE7": -37034107,
+        "placeId": "ChIJZSpCeH0oQg0R9g1q0JgNg-k",
+        "address": "Centro, Madrid, España",
+        "name": "Sociedad Madrid-París",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 0.98154515,
+        "calibratedProbability": 0.98154515
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404241550,
+        "longitudeE7": -36749439,
+        "placeId": "ChIJ9apo2LooQg0RXFzctDdo2Pw",
+        "address": "Calle de Goya, 85-87, Salamanca, 28009 Madrid, España",
+        "name": "El Corte Inglés Goya",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 30.708578,
+        "calibratedProbability": 30.708578
+      },
+      "duration": {
+        "startTimestamp": "2024-08-26T18:28:51Z",
+        "endTimestamp": "2024-08-26T18:32:42Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404245500,
+        "longitudeE7": -36759100,
+        "placeId": "ChIJc2ymMLsoQg0RtRQ6-3Bm5a8",
+        "address": "Salamanca, 28009 Madrid, España",
+        "name": "Goya",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 28.981611,
+        "calibratedProbability": 28.981611
+      }, {
+        "latitudeE7": 404241550,
+        "longitudeE7": -36749439,
+        "placeId": "ChIJ9apo2LooQg0RXFzctDdo2Pw",
+        "address": "Calle de Goya, 85-87, Salamanca, 28009 Madrid, España",
+        "name": "El Corte Inglés Goya",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.661476,
+        "calibratedProbability": 5.661476
+      }, {
+        "latitudeE7": 404253879,
+        "longitudeE7": -36759079,
+        "placeId": "ChIJx6qUFrsoQg0RC4vH7Ubn55Y",
+        "address": "C. del Conde de Peñalver, 7, Salamanca, 28006 Madrid, España",
+        "name": "Flying Tiger Copenhagen",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.0734205,
+        "calibratedProbability": 4.0734205
+      }, {
+        "latitudeE7": 404250148,
+        "longitudeE7": -36759141,
+        "placeId": "ChIJsydpPLsoQg0RXDjpgN1eWFU",
+        "address": "Calle de Goya, 76, Salamanca, 28009 Madrid, España",
+        "name": "Sfera",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.069233,
+        "calibratedProbability": 4.069233
+      }, {
+        "latitudeE7": 404244201,
+        "longitudeE7": -36761864,
+        "placeId": "ChIJRaL8N7soQg0RdYjDeyC7S8k",
+        "address": "C. de Alcalá, 96, Salamanca, 28009 Madrid, España",
+        "name": "Casa del Libro",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.73717,
+        "calibratedProbability": 2.73717
+      }, {
+        "latitudeE7": 404254796,
+        "longitudeE7": -36754719,
+        "placeId": "ChIJH5OUGLsoQg0RAco5-bIVM_M",
+        "address": "C. del Conde de Peñalver, 4, Salamanca, 28006 Madrid, España",
+        "name": "Bershka",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.613573,
+        "calibratedProbability": 2.613573
+      }, {
+        "latitudeE7": 404246920,
+        "longitudeE7": -36766315,
+        "placeId": "ChIJOSFvoZkpQg0RzrojDhYQUSk",
+        "address": "Calle de Goya, 70, Salamanca, 28009 Madrid, España",
+        "name": "McDonald\u0027s",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.227942,
+        "calibratedProbability": 2.227942
+      }, {
+        "latitudeE7": 404257330,
+        "longitudeE7": -36752778,
+        "placeId": "ChIJJ_zFOQApQg0R4ebAaRKGDmI",
+        "address": "C. del Conde de Peñalver, 8, Salamanca, 28006 Salamanca, Madrid, España",
+        "name": "Primark",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 1.6981486,
+        "calibratedProbability": 1.6981486
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404249478,
+        "longitudeE7": -36757993,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404226720,
+        "longitudeE7": -36775108,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-08-26T18:32:42Z",
+        "endTimestamp": "2024-08-26T18:50:34Z"
+      },
+      "distance": 1161,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 38.30096423625946
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.088496208190918
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 12.769754230976105
+      }, {
+        "activityType": "CYCLING",
+        "probability": 7.694673538208008
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.7020639032125473
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.8792509324848652
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.24527683854103088
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.144422787707299
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.12778465170413256
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.031532905995845795
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.014855750487186015
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005964227966614999
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002394675357209053
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 404259719,
+          "lngE7": -36778235
+        }, {
+          "latE7": 404257392,
+          "lngE7": -36772229
+        }, {
+          "latE7": 404250183,
+          "lngE7": -36779391
+        }, {
+          "latE7": 404248313,
+          "lngE7": -36786315
+        }, {
+          "latE7": 404247245,
+          "lngE7": -36785912
+        }, {
+          "latE7": 404230346,
+          "lngE7": -36788849
+        }, {
+          "latE7": 404217948,
+          "lngE7": -36791851
+        }, {
+          "latE7": 404222450,
+          "lngE7": -36800448
+        }, {
+          "latE7": 404226455,
+          "lngE7": -36802349
+        }, {
+          "latE7": 404231910,
+          "lngE7": -36790273
+        }, {
+          "latE7": 404237670,
+          "lngE7": -36777224
+        }, {
+          "latE7": 404230651,
+          "lngE7": -36774501
+        }, {
+          "latE7": 404226722,
+          "lngE7": -36774792
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJJ2O9ZLsoQg0ReEKUvr2ba0Q",
+          "duration": "47s"
+        }, {
+          "placeId": "ChIJ0Q3jXbsoQg0RtJ0mHG9xEvw",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJ0Q3jXbsoQg0RacRVBhctATE",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJ-zanoLwoQg0R_ZfEOupbtjA",
+          "duration": "26s"
+        }, {
+          "placeId": "ChIJ8-o5uLwoQg0RdDSWxOxvj3g",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ8-o5uLwoQg0R-6CoCzonU4w",
+          "duration": "55s"
+        }, {
+          "placeId": "ChIJeatItbwoQg0RbeS8oYugkBM",
+          "duration": "68s"
+        }, {
+          "placeId": "ChIJZXyCSaMoQg0RxbikFT0DnpU",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ5SV4OKMoQg0RbAG9NETILoU",
+          "duration": "75s"
+        }, {
+          "placeId": "ChIJY8JXDqMoQg0RcUrnYtVIPMY",
+          "duration": "67s"
+        }, {
+          "placeId": "ChIJYbCJ4aIoQg0RXev6bxnbE0c",
+          "duration": "91s"
+        }, {
+          "placeId": "ChIJwUxUJ6MoQg0RgMZHRXUk-_s",
+          "duration": "41s"
+        }, {
+          "placeId": "ChIJH6XMJaMoQg0RlkYQu-Nqm8M",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ22a7MKMoQg0RE5BvUgS7fGc",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJ22a7MKMoQg0RSeCq7Kdw5Ng",
+          "duration": "54s"
+        }, {
+          "placeId": "ChIJZXyCSaMoQg0RxLikFT0DnpU",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJZXyCSaMoQg0RdWuNjCfgyPg",
+          "duration": "9s"
+        }, {
+          "placeId": "ChIJGzygTaMoQg0RaVW6gat63e4",
+          "duration": "52s"
+        }, {
+          "placeId": "ChIJPTXoqrwoQg0RqZggIx3t2KQ",
+          "duration": "52s"
+        }, {
+          "placeId": "ChIJcxBhVLsoQg0R9RAhbv2j5dM",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJ-dwJq6QoQg0RN4-o7DvVMjA",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJuyUZp6QoQg0RJaZp66E2uYM",
+          "duration": "75s"
+        }],
+        "distanceMeters": 1305.9110155164835,
+        "travelMode": "WALK",
+        "confidence": 0.9891665294413406
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404253426,
+          "lngE7": -36779096,
+          "accuracyMeters": 12,
+          "timestamp": "2024-08-26T18:36:52.440Z"
+        }, {
+          "latE7": 404249001,
+          "lngE7": -36786349,
+          "accuracyMeters": 21,
+          "timestamp": "2024-08-26T18:38:50.597Z"
+        }, {
+          "latE7": 404217491,
+          "lngE7": -36791918,
+          "accuracyMeters": 26,
+          "timestamp": "2024-08-26T18:45:20.001Z"
+        }, {
+          "latE7": 404226723,
+          "lngE7": -36802769,
+          "accuracyMeters": 30,
+          "timestamp": "2024-08-26T18:46:49.970Z"
+        }, {
+          "latE7": 404239388,
+          "lngE7": -36778543,
+          "accuracyMeters": 15,
+          "timestamp": "2024-08-26T18:49:21.180Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404226924,
+        "longitudeE7": -36789841,
+        "placeId": "ChIJ4ZezP6MoQg0RnB0wUKIOl7Y",
+        "address": "C. de Antonio Acuña, 8, Salamanca, 28009 Madrid, España",
+        "name": "MASSART GOYA",
+        "semanticType": "TYPE_UNKNOWN",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 32.566246,
+        "calibratedProbability": 32.566246
+      },
+      "duration": {
+        "startTimestamp": "2024-08-26T18:50:34Z",
+        "endTimestamp": "2024-08-26T20:44:25Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404227548,
+        "longitudeE7": -36787356,
+        "placeId": "ChIJy6aNQKMoQg0R97Spwribnc0",
+        "address": "C. de Antonio Acuña, 7, Salamanca, 28009 Madrid, España",
+        "name": "Saraiba - Restaurante Gallego Madrid",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 9.491823,
+        "calibratedProbability": 9.491823
+      }, {
+        "latitudeE7": 404221820,
+        "longitudeE7": -36811540,
+        "placeId": "ChIJn6YX66IoQg0Ru4Mqrf3OFIM",
+        "address": "C. de Alcalá, 66, Salamanca, 28009 Madrid, España",
+        "name": "H10 Puerta de Alcalá",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 8.397716,
+        "calibratedProbability": 8.397716
+      }, {
+        "latitudeE7": 404226280,
+        "longitudeE7": -36789218,
+        "placeId": "ChIJKX5dzY8pQg0RyCTzwknkzSw",
+        "address": "C. de Antonio Acuña, 10, Salamanca, 28009 Madrid, España",
+        "name": "Cheesecake Avenue",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 8.302756,
+        "calibratedProbability": 8.302756
+      }, {
+        "latitudeE7": 404230733,
+        "longitudeE7": -36797763,
+        "placeId": "ChIJbR2R2KIoQg0RolNGCond4Es",
+        "address": "Salamanca, 28001 Madrid, España",
+        "name": "Príncipe de Vergara",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.9193377,
+        "calibratedProbability": 5.9193377
+      }, {
+        "latitudeE7": 404233969,
+        "longitudeE7": -36782462,
+        "placeId": "ChIJvRNZTqMoQg0R070vED9PHs8",
+        "address": "C. de Jorge Juan, 62, Salamanca, 28009 Madrid, España",
+        "name": "Nuevo Teatro Alcalá",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 5.1989646,
+        "calibratedProbability": 5.1989646
+      }, {
+        "latitudeE7": 404226593,
+        "longitudeE7": -36790824,
+        "placeId": "ChIJc6p6PKMoQg0RPftV4VLIe4k",
+        "address": "C. de Antonio Acuña, 8, Salamanca, 28009 Madrid, España",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 4.2001987,
+        "calibratedProbability": 4.2001987
+      }, {
+        "latitudeE7": 404226990,
+        "longitudeE7": -36785684,
+        "placeId": "ChIJIUxf-iApQg0RdhOfASuRwdk",
+        "address": "C. del Duque de Sesto, 1, Salamanca, 28009 Madrid, España",
+        "name": "Entre Páginas Restaurante",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 3.5257373,
+        "calibratedProbability": 3.5257373
+      }, {
+        "latitudeE7": 404218682,
+        "longitudeE7": -36796850,
+        "placeId": "ChIJff42A6MoQg0RyePkuWVG6bg",
+        "address": "Calle de O\u0027Donnell, 11, Salamanca, 28009 Madrid, España",
+        "name": "O´Donnell 11",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.62796,
+        "calibratedProbability": 2.62796
+      }, {
+        "latitudeE7": 404152580,
+        "longitudeE7": -36834657,
+        "placeId": "ChIJe4IR9Z8oQg0RrqMktRYnbJ4",
+        "address": "Retiro, 28009 Madrid, España",
+        "name": "El Retiro Park",
+        "semanticType": "TYPE_UNKNOWN",
+        "locationConfidence": 2.5628545,
+        "calibratedProbability": 2.5628545
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404225257,
+        "longitudeE7": -36806311,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404019027,
+        "longitudeE7": -36932286,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2024-08-26T20:44:25Z",
+        "endTimestamp": "2024-08-26T21:06:32.611Z"
+      },
+      "distance": 4296,
+      "activityType": "IN_SUBWAY",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 46.265026926994324
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.044345021247864
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.849985361099243
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 5.71775920689106
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 2.792663499712944
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.6917830109596252
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5376968067139387
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.3934346139431
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.27106429915875196
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0434718414908275
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.02556386752985418
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005065829827799462
+      }, {
+        "activityType": "SKIING",
+        "probability": 4.18900572185521E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404168924,
+          "lngE7": -37035295,
+          "accuracyMeters": 14,
+          "timestamp": "2024-08-26T20:48:11.098Z"
+        }, {
+          "latE7": 404172948,
+          "lngE7": -37041508,
+          "accuracyMeters": 20,
+          "timestamp": "2024-08-26T20:50:11.493Z"
+        }, {
+          "latE7": 404083986,
+          "lngE7": -37008426,
+          "accuracyMeters": 92,
+          "timestamp": "2024-08-26T20:53:44.034Z"
+        }, {
+          "latE7": 404047967,
+          "lngE7": -37026061,
+          "accuracyMeters": 16,
+          "timestamp": "2024-08-26T20:56:08.324Z"
+        }, {
+          "latE7": 404055133,
+          "lngE7": -36884223,
+          "accuracyMeters": 28,
+          "timestamp": "2024-08-26T21:00:09.646Z"
+        }, {
+          "latE7": 403958805,
+          "lngE7": -36776790,
+          "accuracyMeters": 60,
+          "timestamp": "2024-08-26T21:03:08.501Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 7652.860830666839
+      }
+    }
+  }]
+}

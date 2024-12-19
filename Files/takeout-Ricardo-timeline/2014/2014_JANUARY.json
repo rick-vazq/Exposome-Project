@@ -1,0 +1,1737 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-25T23:38:00.889Z",
+        "endTimestamp": "2014-01-26T00:46:40.497Z"
+      },
+      "distance": 16826,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 258052330,
+          "lngE7": -803532409
+        }, {
+          "latE7": 258234825,
+          "lngE7": -802975997
+        }, {
+          "latE7": 257790851,
+          "lngE7": -803621826
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4708.024869601855,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258236275,
+          "lngE7": -802976151,
+          "accuracyMeters": 6,
+          "timestamp": "2014-01-25T23:50:52.984Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.924995
+      },
+      "duration": {
+        "startTimestamp": "2014-01-26T00:46:40.497Z",
+        "endTimestamp": "2014-01-26T02:18:10.074Z"
+      },
+      "centerLatE7": 257789590,
+      "centerLngE7": -803621512,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.04423137,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.012571612,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.005260186
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.002258222
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0022182663
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0018472958
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.001752997,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0010327119,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.618063E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.924995
+      },
+      "endLocation": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.93544
+      },
+      "duration": {
+        "startTimestamp": "2014-01-26T02:18:10.074Z",
+        "endTimestamp": "2014-01-26T03:04:57.086Z"
+      },
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257785530,
+          "lngE7": -803619689
+        }, {
+          "latE7": 258099327,
+          "lngE7": -803378524
+        }, {
+          "latE7": 258262023,
+          "lngE7": -802976837
+        }, {
+          "latE7": 258271102,
+          "lngE7": -802993316
+        }, {
+          "latE7": 258208236,
+          "lngE7": -802988433
+        }, {
+          "latE7": 257790870,
+          "lngE7": -803621749
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 29282.647299672546,
+        "travelMode": "DRIVE",
+        "confidence": 0.9672902408796086
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 258099613,
+          "lngE7": -803378448,
+          "accuracyMeters": 3,
+          "timestamp": "2014-01-26T02:25:45.928Z"
+        }, {
+          "latE7": 258261185,
+          "lngE7": -802976913,
+          "accuracyMeters": 3,
+          "timestamp": "2014-01-26T02:35:34.779Z"
+        }, {
+          "latE7": 258271656,
+          "lngE7": -802993317,
+          "accuracyMeters": 4,
+          "timestamp": "2014-01-26T02:36:21.481Z"
+        }, {
+          "latE7": 258208542,
+          "lngE7": -802988434,
+          "accuracyMeters": 3,
+          "timestamp": "2014-01-26T02:44:39.808Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.93544
+      },
+      "duration": {
+        "startTimestamp": "2014-01-26T03:05:26.915Z",
+        "endTimestamp": "2014-01-27T12:06:18.223Z"
+      },
+      "centerLatE7": 257789911,
+      "centerLngE7": -803621443,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.038220916,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.010222158,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.004683559
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0020424381
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0019384905
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0016585272
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0015012765,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 8.844202E-4,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.086371E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T12:12:20.006Z",
+        "endTimestamp": "2014-01-27T12:45:21.898Z"
+      },
+      "distance": 2575,
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257790851,
+          "lngE7": -803621826
+        }, {
+          "latE7": 258003520,
+          "lngE7": -803732376
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4371.085658176986,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258002302,
+        "longitudeE7": -803750632,
+        "placeId": "ChIJqQKIkqC52YgR09JZsIdyOOY",
+        "address": "11000 NW 29th St # 201, Doral, FL 33172-5036, United States",
+        "name": "King Ocean Services",
+        "locationConfidence": 25.849134
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T12:49:23.237Z",
+        "endTimestamp": "2014-01-27T13:02:24.371Z"
+      },
+      "centerLatE7": 258001693,
+      "centerLngE7": -803741179,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258000370,
+        "longitudeE7": -803750620,
+        "placeId": "ChIJC64u6LC-2YgR-tT_cFj9eSI",
+        "name": "Megatrade Corporation",
+        "locationConfidence": 7.594289
+      }, {
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 6.429271
+      }, {
+        "latitudeE7": 257916395,
+        "longitudeE7": -804128085,
+        "placeId": "ChIJM2F9xbC-2YgR_6IJtVRxyRg",
+        "address": "1800 NW 133rd Ave #900, Miami, FL 33182, USA",
+        "name": "OceanAir Logistics - Miami Freight Forwarders",
+        "locationConfidence": 2.7400234
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJM2F9xbC-2YgR0UtIOmfbeAY",
+        "name": "Doral Freight",
+        "locationConfidence": 2.6968439
+      }, {
+        "latitudeE7": 258000520,
+        "longitudeE7": -803728770,
+        "placeId": "ChIJ23vYFLG-2YgR0hYxmlNkxrg",
+        "name": "Withers Transportation Systems",
+        "locationConfidence": 2.6372578
+      }, {
+        "latitudeE7": 257960065,
+        "longitudeE7": -803195468,
+        "placeId": "ChIJS7jZ5LC-2YgR50xq9QBLJKQ",
+        "address": "7282 NW 66th St Suite #202, Miami, FL 33166, USA",
+        "name": "Latinex Trading Corporation",
+        "locationConfidence": 2.071257
+      }, {
+        "latitudeE7": 258012019,
+        "longitudeE7": -803742422,
+        "placeId": "ChIJmTwv_rC-2YgRUjmn0fHh2DU",
+        "address": "8320 NW 14th St, Doral, FL 33126, USA",
+        "name": "P \u0026 P Group Corporation",
+        "locationConfidence": 1.7632803
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRWUOsV-zpyrI",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Millennium Logistics",
+        "locationConfidence": 1.7182811
+      }, {
+        "latitudeE7": 258009168,
+        "longitudeE7": -803747463,
+        "placeId": "ChIJsxwjfbG-2YgRa6IB82zi7TE",
+        "name": "Intrax",
+        "locationConfidence": 1.4798266
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 28,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258002302,
+        "longitudeE7": -803750632,
+        "placeId": "ChIJqQKIkqC52YgR09JZsIdyOOY",
+        "address": "11000 NW 29th St # 201, Doral, FL 33172-5036, United States",
+        "name": "King Ocean Services",
+        "locationConfidence": 25.849134
+      },
+      "endLocation": {
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 Northwest 27th Street, Doral, FL 33172-5001, United States",
+        "name": "Doral Academy High School",
+        "locationConfidence": 99.771675
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T13:02:24.371Z",
+        "endTimestamp": "2014-01-27T13:03:30.294Z"
+      },
+      "distance": 196,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 Northwest 27th Street, Doral, FL 33172-5001, United States",
+        "name": "Doral Academy High School",
+        "locationConfidence": 99.771675
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T13:03:30.294Z",
+        "endTimestamp": "2014-01-27T13:23:37.929Z"
+      },
+      "centerLatE7": 257985995,
+      "centerLngE7": -803752610,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 0.071306005
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRWUOsV-zpyrI",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Millennium Logistics",
+        "locationConfidence": 0.016387269
+      }, {
+        "latitudeE7": 257988955,
+        "longitudeE7": -803759754,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.013791164
+      }, {
+        "latitudeE7": 257986264,
+        "longitudeE7": -803770605,
+        "placeId": "ChIJG5Gb_7m-2YgRRHbSI-SzBkU",
+        "address": "2642 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "Graziano\u0027s Corporate Offices",
+        "locationConfidence": 0.0069848797
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJM2F9xbC-2YgRcnPhHw64OgM",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Air-Sea Forwarders Inc",
+        "locationConfidence": 0.0068458254
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRvnb7S9oPF9g",
+        "name": "Cargo Net International LLC",
+        "locationConfidence": 0.0068184906
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJvQ9W3Jm52YgR-JyDYI_dhx4",
+        "name": "FEI Logistics Inc",
+        "locationConfidence": 0.006799044
+      }, {
+        "latitudeE7": 257984867,
+        "longitudeE7": -803767418,
+        "placeId": "ChIJmeav_7m-2YgRc4un7-DCfkg",
+        "name": "Tropical Discovery",
+        "locationConfidence": 0.0063693076
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJM2F9xbC-2YgR0UtIOmfbeAY",
+        "name": "Doral Freight",
+        "locationConfidence": 0.0060880897
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 Northwest 27th Street, Doral, FL 33172-5001, United States",
+        "name": "Doral Academy High School",
+        "locationConfidence": 99.771675
+      },
+      "endLocation": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 33.143
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T13:23:37.929Z",
+        "endTimestamp": "2014-01-27T13:24:38.382Z"
+      },
+      "distance": 133,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257986049,
+          "lngE7": -803752593
+        }, {
+          "latE7": 257983951,
+          "lngE7": -803768005
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 294.20512961945326,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 33.143
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T13:24:38.382Z",
+        "endTimestamp": "2014-01-27T14:34:11.651Z"
+      },
+      "centerLatE7": 257985469,
+      "centerLngE7": -803766561,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 15.097804
+      }, {
+        "latitudeE7": 257986264,
+        "longitudeE7": -803770605,
+        "placeId": "ChIJG5Gb_7m-2YgRRHbSI-SzBkU",
+        "address": "2642 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "Graziano\u0027s Corporate Offices",
+        "locationConfidence": 9.476962
+      }, {
+        "latitudeE7": 257984867,
+        "longitudeE7": -803767418,
+        "placeId": "ChIJmeav_7m-2YgRc4un7-DCfkg",
+        "name": "Tropical Discovery",
+        "locationConfidence": 5.40203
+      }, {
+        "latitudeE7": 258004187,
+        "longitudeE7": -803811751,
+        "placeId": "ChIJhdOg70m_2YgRb8IMngKhjhE",
+        "address": "11411 NW 25th St, Doral, FL 33172, USA",
+        "name": "Our Lady of Mercy",
+        "locationConfidence": 3.2762449
+      }, {
+        "latitudeE7": 257988955,
+        "longitudeE7": -803759754,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 2.7113624
+      }, {
+        "latitudeE7": 257993391,
+        "longitudeE7": -803772108,
+        "placeId": "ChIJ10I_Brq-2YgRCYBnhQvB6Ek",
+        "address": "2760 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "AYC Aviation Co",
+        "locationConfidence": 1.6588738
+      }, {
+        "latitudeE7": 257988189,
+        "longitudeE7": -803763173,
+        "placeId": "ChIJk8iBrbC-2YgR-9Lzm4aKs48",
+        "name": "ACD Cargo",
+        "locationConfidence": 1.4689269
+      }, {
+        "latitudeE7": 257985450,
+        "longitudeE7": -803770600,
+        "placeId": "ChIJmeav_7m-2YgRmO1TkcdKQRs",
+        "address": "8150 NW 71st St, Miami, FL 33166, USA",
+        "name": "All America Freight Services Corporation",
+        "locationConfidence": 1.3806165
+      }, {
+        "latitudeE7": 257984336,
+        "longitudeE7": -803770593,
+        "placeId": "ChIJrVVD_rm-2YgR_HqSQ75JY1c",
+        "name": "Security Air Courier",
+        "locationConfidence": 1.3063849
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 33.143
+      },
+      "endLocation": {
+        "latitudeE7": 258065639,
+        "longitudeE7": -803822693,
+        "placeId": "ChIJnwa8laS-2YgRq6_Jev-x9rY",
+        "address": "3508 NW 114 Ave, Doral, Florida 33178, United States",
+        "name": "FUTBOX",
+        "locationConfidence": 16.614893
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T14:34:11.651Z",
+        "endTimestamp": "2014-01-27T20:35:11.796Z"
+      },
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258065639,
+        "longitudeE7": -803822693,
+        "placeId": "ChIJnwa8laS-2YgRq6_Jev-x9rY",
+        "address": "3508 NW 114 Ave, Doral, Florida 33178, United States",
+        "name": "FUTBOX",
+        "locationConfidence": 16.614893
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T20:35:11.796Z",
+        "endTimestamp": "2014-01-27T20:54:37.098Z"
+      },
+      "centerLatE7": 258064767,
+      "centerLngE7": -803802300,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258004187,
+        "longitudeE7": -803811751,
+        "placeId": "ChIJhdOg70m_2YgRb8IMngKhjhE",
+        "address": "11411 NW 25th St, Doral, FL 33172, USA",
+        "name": "Our Lady of Mercy",
+        "locationConfidence": 13.400824
+      }, {
+        "latitudeE7": 258058763,
+        "longitudeE7": -803804209,
+        "placeId": "ChIJBwBv3KS-2YgRR06TVyQAXoQ",
+        "name": "OCASA",
+        "locationConfidence": 6.7691264
+      }, {
+        "latitudeE7": 258072120,
+        "longitudeE7": -803793890,
+        "placeId": "ChIJEQZW_aa-2YgRqLnluQ3uA18",
+        "address": "3515 NW 113th Ct, Doral, FL 33178, USA",
+        "name": "Consulate General of Belgium",
+        "locationConfidence": 4.706307
+      }, {
+        "latitudeE7": 258065046,
+        "longitudeE7": -803808443,
+        "placeId": "ChIJGTyj66S-2YgRbDqjsvdWxO0",
+        "address": "3515 NW 114th Ave, Doral, FL 33178, USA",
+        "name": "The Wise Computer Inc.",
+        "locationConfidence": 4.3333015
+      }, {
+        "latitudeE7": 258053750,
+        "longitudeE7": -803793430,
+        "placeId": "ChIJG8F4L6W-2YgRNdj_S1-K2YI",
+        "address": "3405 NW 113th Ct, Miami, FL 33178, USA",
+        "name": "Silmar Electronics Inc",
+        "locationConfidence": 3.879605
+      }, {
+        "latitudeE7": 258070560,
+        "longitudeE7": -803801690,
+        "placeId": "ChIJ9d9l-6S-2YgRtW3vDy3QC9Y",
+        "name": "Ocasa Inc",
+        "locationConfidence": 3.4619396
+      }, {
+        "latitudeE7": 258059149,
+        "longitudeE7": -803799051,
+        "placeId": "ChIJBwBv3KS-2YgRVk9YB3f3wls",
+        "address": "3450 NW 113th Ct, Miami, FL 33178, USA",
+        "name": "MusicalGarage.com",
+        "locationConfidence": 2.4757857
+      }, {
+        "latitudeE7": 258062359,
+        "longitudeE7": -803793650,
+        "placeId": "ChIJxQdW_aa-2YgRNfKeN2DE8oM",
+        "address": "12301 NW 112th Ave Suite 101, Miami, FL 33178, EUA",
+        "name": "Fast Global Logistic Inc",
+        "locationConfidence": 1.8718965
+      }, {
+        "latitudeE7": 258070520,
+        "longitudeE7": -803810910,
+        "placeId": "ChIJJUW98qS-2YgRHqmHGMV5pjo",
+        "name": "Pilot Air Freight Corporation",
+        "locationConfidence": 1.809623
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 20,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 258060075,
+        "longitudeE7": -803799076
+      },
+      "endLocation": {
+        "latitudeE7": 257687712,
+        "longitudeE7": -803755568
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T21:05:07.931Z",
+        "endTimestamp": "2014-01-27T21:19:26.579Z"
+      },
+      "distance": 666,
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.91926
+      },
+      "duration": {
+        "startTimestamp": "2014-01-27T21:47:04.867Z",
+        "endTimestamp": "2014-01-28T11:59:13.846Z"
+      },
+      "centerLatE7": 257789918,
+      "centerLngE7": -803621676,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.042283304,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.011227377,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0068632546
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.005178006,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.0047190897
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0030504263,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0020037172
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0017082521
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.107825E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T12:14:45.387Z",
+        "endTimestamp": "2014-01-28T12:47:16.519Z"
+      },
+      "distance": 2636,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257790908,
+          "lngE7": -803621673
+        }, {
+          "latE7": 258001785,
+          "lngE7": -803740463
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4385.850914638659,
+        "travelMode": "DRIVE",
+        "confidence": 0.9989701577506457
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T12:47:16.519Z",
+        "endTimestamp": "2014-01-28T12:57:20.592Z"
+      },
+      "distance": 221,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T13:03:51.852Z",
+        "endTimestamp": "2014-01-28T19:34:48.332Z"
+      },
+      "distance": 149,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 78.560524
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T19:34:48.332Z",
+        "endTimestamp": "2014-01-28T20:38:45.085Z"
+      },
+      "centerLatE7": 257980374,
+      "centerLngE7": -803766212,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 9.228815
+      }, {
+        "latitudeE7": 257986264,
+        "longitudeE7": -803770605,
+        "placeId": "ChIJG5Gb_7m-2YgRRHbSI-SzBkU",
+        "address": "2642 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "Graziano\u0027s Corporate Offices",
+        "locationConfidence": 2.1219034
+      }, {
+        "latitudeE7": 257984867,
+        "longitudeE7": -803767418,
+        "placeId": "ChIJmeav_7m-2YgRc4un7-DCfkg",
+        "name": "Tropical Discovery",
+        "locationConfidence": 1.0011076
+      }, {
+        "latitudeE7": 258004187,
+        "longitudeE7": -803811751,
+        "placeId": "ChIJhdOg70m_2YgRb8IMngKhjhE",
+        "address": "11411 NW 25th St, Doral, FL 33172, USA",
+        "name": "Our Lady of Mercy",
+        "locationConfidence": 0.9110626
+      }, {
+        "latitudeE7": 257988955,
+        "longitudeE7": -803759754,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.6028056
+      }, {
+        "latitudeE7": 257979901,
+        "longitudeE7": -803770566,
+        "placeId": "ChIJJdBeWrK-2YgRqxXqJxqfK3s",
+        "name": "Vigneti D\u0027Italia Imports LLC",
+        "locationConfidence": 0.4986221
+      }, {
+        "latitudeE7": 257984336,
+        "longitudeE7": -803770593,
+        "placeId": "ChIJrVVD_rm-2YgR_HqSQ75JY1c",
+        "name": "Security Air Courier",
+        "locationConfidence": 0.35931483
+      }, {
+        "latitudeE7": 257985450,
+        "longitudeE7": -803770600,
+        "placeId": "ChIJmeav_7m-2YgRmO1TkcdKQRs",
+        "address": "8150 NW 71st St, Miami, FL 33166, USA",
+        "name": "All America Freight Services Corporation",
+        "locationConfidence": 0.3327057
+      }, {
+        "latitudeE7": 257979901,
+        "longitudeE7": -803770566,
+        "placeId": "ChIJSxIT2y662YgRYBJsMt4TY2w",
+        "address": "2612 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "Solarvit LLC",
+        "locationConfidence": 0.32993758
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T20:38:45.085Z",
+        "endTimestamp": "2014-01-28T20:52:25.233Z"
+      },
+      "distance": 2560,
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257982368,
+          "lngE7": -803767852
+        }, {
+          "latE7": 257790699,
+          "lngE7": -803622283
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 4551.032887312017,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.91848
+      },
+      "duration": {
+        "startTimestamp": "2014-01-28T20:53:53.312Z",
+        "endTimestamp": "2014-01-29T12:58:10.744Z"
+      },
+      "centerLatE7": 257789805,
+      "centerLngE7": -803621602,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.04253625,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.0112170065,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0070220856
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0052470793,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.0048307735
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0030911183,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0020559987
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.001728799
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.197121E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-29T13:07:12.354Z",
+        "endTimestamp": "2014-01-29T13:11:56.339Z"
+      },
+      "distance": 2547,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy of Technology",
+        "locationConfidence": 44.562164
+      },
+      "duration": {
+        "startTimestamp": "2014-01-29T13:19:11.834Z",
+        "endTimestamp": "2014-01-29T15:11:41.113Z"
+      },
+      "centerLatE7": 257985250,
+      "centerLngE7": -803766372,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257982919,
+        "longitudeE7": -803751102,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th St, Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 10.505685
+      }, {
+        "latitudeE7": 257984867,
+        "longitudeE7": -803767418,
+        "placeId": "ChIJmeav_7m-2YgRc4un7-DCfkg",
+        "name": "Tropical Discovery",
+        "locationConfidence": 5.8807664
+      }, {
+        "latitudeE7": 257986264,
+        "longitudeE7": -803770605,
+        "placeId": "ChIJG5Gb_7m-2YgRRHbSI-SzBkU",
+        "address": "2642 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "Graziano\u0027s Corporate Offices",
+        "locationConfidence": 5.45978
+      }, {
+        "latitudeE7": 258004187,
+        "longitudeE7": -803811751,
+        "placeId": "ChIJhdOg70m_2YgRb8IMngKhjhE",
+        "address": "11411 NW 25th St, Doral, FL 33172, USA",
+        "name": "Our Lady of Mercy",
+        "locationConfidence": 3.586905
+      }, {
+        "latitudeE7": 257993391,
+        "longitudeE7": -803772108,
+        "placeId": "ChIJ10I_Brq-2YgRCYBnhQvB6Ek",
+        "address": "2760 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "AYC Aviation Co",
+        "locationConfidence": 1.7685425
+      }, {
+        "latitudeE7": 257988189,
+        "longitudeE7": -803763173,
+        "placeId": "ChIJk8iBrbC-2YgR-9Lzm4aKs48",
+        "name": "ACD Cargo",
+        "locationConfidence": 1.6091176
+      }, {
+        "latitudeE7": 257985450,
+        "longitudeE7": -803770600,
+        "placeId": "ChIJmeav_7m-2YgRmO1TkcdKQRs",
+        "address": "8150 NW 71st St, Miami, FL 33166, USA",
+        "name": "All America Freight Services Corporation",
+        "locationConfidence": 1.4821234
+      }, {
+        "latitudeE7": 257984336,
+        "longitudeE7": -803770593,
+        "placeId": "ChIJrVVD_rm-2YgR_HqSQ75JY1c",
+        "name": "Security Air Courier",
+        "locationConfidence": 1.4160175
+      }, {
+        "latitudeE7": 257979901,
+        "longitudeE7": -803770566,
+        "placeId": "ChIJJdBeWrK-2YgRqxXqJxqfK3s",
+        "name": "Vigneti D\u0027Italia Imports LLC",
+        "locationConfidence": 1.2075199
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-29T15:11:41.113Z",
+        "endTimestamp": "2014-01-29T17:34:56.863Z"
+      },
+      "distance": 137,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-29T17:40:44.419Z",
+        "endTimestamp": "2014-01-29T20:44:38.362Z"
+      },
+      "distance": 2264,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.92404
+      },
+      "duration": {
+        "startTimestamp": "2014-01-29T21:58:07.885Z",
+        "endTimestamp": "2014-01-30T11:58:25.539Z"
+      },
+      "centerLatE7": 257789925,
+      "centerLngE7": -803621447,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.03910914,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.010528703,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.006775404
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0048409738,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.0046540336
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0028518764,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0019250213
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0016498887
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.055552E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.9179
+      },
+      "duration": {
+        "startTimestamp": "2014-01-30T21:14:35.975Z",
+        "endTimestamp": "2014-01-31T11:59:22.968Z"
+      },
+      "centerLatE7": 257789921,
+      "centerLngE7": -803621105,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.041517958,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.011177578,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.007783736
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.005340486
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0051986454,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.0030625854,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.0021128352
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0018206743
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.9598755E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257789124,
+        "longitudeE7": -803619162
+      },
+      "endLocation": {
+        "latitudeE7": 258072120,
+        "longitudeE7": -803793890,
+        "placeId": "ChIJEQZW_aa-2YgRqLnluQ3uA18",
+        "address": "3515 NW 113th Ct, Miami, Florida 33178, United States",
+        "name": "Consulate General of Belgium",
+        "locationConfidence": 9.313786
+      },
+      "duration": {
+        "startTimestamp": "2014-01-31T12:09:19.078Z",
+        "endTimestamp": "2014-01-31T12:22:19.445Z"
+      },
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.0
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.0
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257790946,
+          "lngE7": -803618164
+        }, {
+          "latE7": 258060436,
+          "lngE7": -803799362
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5600.21973981735,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 258072120,
+        "longitudeE7": -803793890,
+        "placeId": "ChIJEQZW_aa-2YgRqLnluQ3uA18",
+        "address": "3515 NW 113th Ct, Miami, Florida 33178, United States",
+        "name": "Consulate General of Belgium",
+        "locationConfidence": 9.313786
+      },
+      "duration": {
+        "startTimestamp": "2014-01-31T12:22:19.445Z",
+        "endTimestamp": "2014-01-31T12:42:14.816Z"
+      },
+      "centerLatE7": 258064150,
+      "centerLngE7": -803796600,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 258004187,
+        "longitudeE7": -803811751,
+        "placeId": "ChIJhdOg70m_2YgRb8IMngKhjhE",
+        "address": "11411 NW 25th St, Doral, FL 33172, USA",
+        "name": "Our Lady of Mercy",
+        "locationConfidence": 7.769845
+      }, {
+        "latitudeE7": 258053750,
+        "longitudeE7": -803793430,
+        "placeId": "ChIJG8F4L6W-2YgRNdj_S1-K2YI",
+        "address": "3405 NW 113th Ct, Miami, FL 33178, USA",
+        "name": "Silmar Electronics Inc",
+        "locationConfidence": 7.3308196
+      }, {
+        "latitudeE7": 258065639,
+        "longitudeE7": -803822693,
+        "placeId": "ChIJnwa8laS-2YgRq6_Jev-x9rY",
+        "address": "3508 NW 114th Ave, Doral, FL 33178, USA",
+        "name": "FUTBOX",
+        "locationConfidence": 6.3201895
+      }, {
+        "latitudeE7": 258058763,
+        "longitudeE7": -803804209,
+        "placeId": "ChIJBwBv3KS-2YgRR06TVyQAXoQ",
+        "name": "OCASA",
+        "locationConfidence": 6.2977743
+      }, {
+        "latitudeE7": 258062359,
+        "longitudeE7": -803793650,
+        "placeId": "ChIJxQdW_aa-2YgRNfKeN2DE8oM",
+        "address": "12301 NW 112th Ave Suite 101, Miami, FL 33178, EUA",
+        "name": "Fast Global Logistic Inc",
+        "locationConfidence": 5.4651685
+      }, {
+        "latitudeE7": 258067120,
+        "longitudeE7": -803793779,
+        "placeId": "ChIJxQdW_aa-2YgRLm33XGRNlaU",
+        "name": "International Cruise Duty Free",
+        "locationConfidence": 4.6441064
+      }, {
+        "latitudeE7": 258070560,
+        "longitudeE7": -803801690,
+        "placeId": "ChIJ9d9l-6S-2YgRtW3vDy3QC9Y",
+        "name": "Ocasa Inc",
+        "locationConfidence": 3.740436
+      }, {
+        "latitudeE7": 258059149,
+        "longitudeE7": -803799051,
+        "placeId": "ChIJBwBv3KS-2YgRVk9YB3f3wls",
+        "address": "3450 NW 113th Ct, Miami, FL 33178, USA",
+        "name": "MusicalGarage.com",
+        "locationConfidence": 3.5272405
+      }, {
+        "latitudeE7": 258065046,
+        "longitudeE7": -803808443,
+        "placeId": "ChIJGTyj66S-2YgRbDqjsvdWxO0",
+        "address": "3515 NW 114th Ave, Doral, FL 33178, USA",
+        "name": "The Wise Computer Inc.",
+        "locationConfidence": 3.1017032
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 14,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-31T12:42:14.816Z",
+        "endTimestamp": "2014-01-31T12:58:09.925Z"
+      },
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+      },
+      "endLocation": {
+      },
+      "duration": {
+        "startTimestamp": "2014-01-31T13:06:10.231Z",
+        "endTimestamp": "2014-01-31T20:44:13.903Z"
+      },
+      "distance": 2371,
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257789993,
+        "longitudeE7": -803621499,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 99.91203
+      },
+      "duration": {
+        "startTimestamp": "2014-01-31T21:56:20.744Z",
+        "endTimestamp": "2014-02-02T21:50:39.819Z"
+      },
+      "centerLatE7": 257790168,
+      "centerLngE7": -803621831,
+      "visitConfidence": 97,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.046305846,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786444,
+        "longitudeE7": -803628232,
+        "placeId": "ChIJZY3CoS252YgRCfMU_5crg54",
+        "address": "9929 NW 32nd St, Doral, FL 33172, USA",
+        "name": "Motion Traders Corp",
+        "locationConfidence": 0.012754623,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.007463082
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgR7KPW64oo2b8",
+        "name": "AGH Technology",
+        "locationConfidence": 0.0055338447,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.0049049035
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.003260055,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257766510,
+        "longitudeE7": -803626430,
+        "placeId": "ChIJy7HgUCy52YgRBcMTi4u1lfM",
+        "address": "nw, 10300 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "INDIAN LAKES VILLAGE",
+        "locationConfidence": 0.002062121
+      }, {
+        "latitudeE7": 257770769,
+        "longitudeE7": -803643190,
+        "placeId": "ChIJ7U7h4Cy52YgRk7Sz3pfI5rM",
+        "address": "10315 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Caribbean Springs Village Condo",
+        "locationConfidence": 0.0018123579
+      }, {
+        "latitudeE7": 257791649,
+        "longitudeE7": -803582986,
+        "placeId": "ChIJOTQVAS652YgRScSbnVjK97o",
+        "name": "Shomahomes Sales-Fontainbleau",
+        "locationConfidence": 6.4570404E-4
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

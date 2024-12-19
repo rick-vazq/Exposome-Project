@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+<rdf:RDF
+			 xmlns:foaf="http://xmlns.com/foaf/0.1/"
+			 xmlns:skos="http://datos.gob.es/kos/sector-publico/sector/"
+			 xmlns:dcat="http://www.w3.org/ns/dcat#"
+			 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+			 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			 xmlns:dct="http://purl.org/dc/terms/"
+			 xmlns:dc="http://purl.org/dc/elements/1.1/"
+			 xmlns:time="http://www.w3.org/2006/time#"
+			 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+			 xmlns:j.0="http://www.w3.org/1999/xhtml/vocab#"
+			 xmlns:j.1="http://a9.com/-/spec/opensearch/1.1/"
+			 xmlns:api="http://purl.org/linked-data/api/vocab#">
+			<dcat:Catalog rdf:about="https://datos.madrid.es/egob/catalogo">
+			
+				
+					<dct:title xml:lang="es">Catálogo de datos abiertos del Ayuntamiento de Madrid</dct:title>
+					<dct:description xml:lang="es">
+						Catálogo de datos abiertos del Ayuntamiento de Madrid
+					</dct:description>
+					<dc:language>es</dc:language>
+					<foaf:homepage rdf:resource="https://datos.madrid.es"/>
+					<dct:license rdf:resource="https://datos.madrid.es/egob/catalogo/aviso-legal"/>
+					<dct:identifier>https://datos.madrid.es/egob/catalogo</dct:identifier>
+					<dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector/" />
+					<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/L01280796"/>
+					<dct:extent>
+						<dct:SizeOrDuration>
+							<rdf:value rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</rdf:value>
+							<rdfs:label xml:lang="es">1</rdfs:label>
+						</dct:SizeOrDuration>
+					</dct:extent>
+					
+					
+					
+				
+				
+				
+					<dcat:dataset>
+						<dcat:Dataset rdf:about="https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000">
+							<dct:identifier>https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000</dct:identifier>
+							<dct:title xml:lang="es">Cartografía municipal por distritos a escala 1:1000, formato SHP, ETRS89</dct:title>
+							<dct:description xml:lang="es"><![CDATA[Se presenta en este conjunto de datos la cartografía municipal a escala 1:1000, en formato SHP, sistema geodésico de referencia ETRS-89, en 2D.   La información cartográfica está actualizada conforme al vuelo fotogramétrico municipal del año 2013.   Las direcciones y rotulación de viario se actualizan mensualmente. El fichero de rotulación comprende todo el término municipal.   La estructura de la información se detalla en el fichero descargable 'CM 1000 Catálogo de elementos formato GIS.csv'.   También puede consultar la cartografía municipal a través del  Visor urbanístico .]]></dct:description>
+							<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/urbanismo-infraestructuras" />
+							<dcat:keyword xml:lang="es">cartografia 1:1000 SHP ETRS</dcat:keyword>					
+							<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-03-30T08:55:24</dct:issued>
+							<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-14T09:56:47</dct:modified>
+							
+							
+								<dct:accrualPeriodicity>
+									<dct:Frequency>
+										<rdfs:label>anual</rdfs:label>
+										<rdf:value>
+											<time:DurationDescription>
+												<rdfs:label>anual</rdfs:label>
+												<time:years rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</time:years>
+											</time:DurationDescription>
+										</rdf:value>
+									</dct:Frequency>
+								</dct:accrualPeriodicity>
+							
+							<dc:language>es</dc:language>
+							<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/L01280796"/>
+							<dct:license rdf:resource="https://datos.madrid.es/egob/catalogo/aviso-legal"/>
+							
+							
+							
+							<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Documentación (CM 1000 Catálogo de elementos)</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000.csv</dcat:accessURL>
+    <dcat:mediaType>text/csv</dcat:mediaType>
+    <dcat:byteSize>49152</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Rotulación de viario y números de policía</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-1-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 01 Centro.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-2-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 02 Arganzuela.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-3-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 03 Retiro.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-4-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 04 Salamanca.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-5-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 05 Chamartín.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-6-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 06 Tetuán.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-7-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 07 Chamberí.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-8-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 08 Fuencarral-El Pardo.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-9-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 09 Moncloa-Aravaca.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-10-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 10 Latina.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-11-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 11 Carabanchel.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-12-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 12 Usera.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-13-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 13 Puente de Vallecas.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-14-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 14 Moratalaz.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-15-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>6644736</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 15 Ciudad Lineal.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-16-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 16 Hortaleza.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-17-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 17 Villaverde.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-18-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 18 Villa de Vallecas.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-19-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 19 Vicálvaro.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-20-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 20 San Blas.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-21-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+<dcat:distribution>
+  <dcat:Distribution>
+    <dct:title xml:lang="es">Distritos. 21 Barajas.</dct:title>
+    <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://datos.madrid.es/egob/catalogo/213565-22-cartografia-distritos-1-1000.zip</dcat:accessURL>
+    <dcat:mediaType>application/zip</dcat:mediaType>
+    <dcat:byteSize>905216</dcat:byteSize>
+  </dcat:Distribution>
+</dcat:distribution>
+
+						</dcat:Dataset>
+					</dcat:dataset>
+				
+				
+				
+					<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-12T09:00:00</dct:issued>
+					
+						<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-31T00:00:00</dct:modified>
+					
+								
+				
+			</dcat:Catalog>			 
+		</rdf:RDF>

@@ -1,0 +1,93 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790174,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 96.69377
+      },
+      "duration": {
+        "startTimestamp": "2017-02-11T03:15:45.011Z",
+        "endTimestamp": "2017-02-11T23:33:33.073Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257789609,
+      "centerLngE7": -803621036,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 2.916978,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJSW1PlC252YgRJJiqNWoLvDg",
+        "address": "10229 NW 9th St Cir, Miami, FL 33172, USA",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.122385465
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.040384565
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.031673256
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.028128637
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRqEBhYg-19zY",
+        "address": "10255 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Casa karen",
+        "locationConfidence": 0.019083632
+      }, {
+        "latitudeE7": 257770796,
+        "longitudeE7": -803601199,
+        "placeId": "ChIJqQswaS-52YgRDBAbcUl3SyM",
+        "address": "9940 Fontainebleau Blvd, Miami, FL 33165, USA",
+        "name": "Indian Lake Village II",
+        "locationConfidence": 0.014398815
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRwlMMgHF4Wdo",
+        "address": "10245 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Happy Party Corp",
+        "locationConfidence": 0.011287127
+      }, {
+        "latitudeE7": 257786463,
+        "longitudeE7": -803628243,
+        "placeId": "ChIJE77CoS252YgR1RnCHsjm-bc",
+        "address": "531 W 29th St, Hialeah, FL 33012, USA",
+        "name": "HAA baseball park",
+        "locationConfidence": 0.011274604
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 81,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

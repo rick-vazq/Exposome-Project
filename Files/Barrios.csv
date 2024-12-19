@@ -1,0 +1,132 @@
+CODDIS;NOMDIS;COD_BAR;NOMBRE;COD_DIS_TX;BARRIO_MAY;COD_DISBAR;NUM_BAR;BARRIO_MT;COD_DISB
+1;Centro;12;Embajadores;01;EMBAJADORES;12;2;EMBAJADORES;01-feb
+1;Centro;13;Cortes;01;CORTES;13;3;CORTES;01-mar
+1;Centro;16;Sol;01;SOL;16;6;SOL;01-jun
+1;Centro;11;Palacio;01;PALACIO;11;1;PALACIO;01-ene
+1;Centro;14;Justicia;01;JUSTICIA;14;4;JUSTICIA;01-abr
+1;Centro;15;Universidad;01;UNIVERSIDAD;15;5;UNIVERSIDAD;01-may
+2;Arganzuela;24;Legazpi;02;LEGAZPI;24;4;LEGAZPI;02-abr
+2;Arganzuela;23;Chopera;02;CHOPERA;23;3;CHOPERA;02-mar
+2;Arganzuela;25;Delicias;02;DELICIAS;25;5;DELICIAS;02-may
+2;Arganzuela;22;Acacias;02;ACACIAS;22;2;ACACIAS;02-feb
+2;Arganzuela;26;Palos de la Frontera;02;PALOS DE LA FRONTERA;26;6;PALOS DE LA FRONTERA;02-jun
+2;Arganzuela;27;Atocha;02;ATOCHA;27;7;ATOCHA;02-jul
+2;Arganzuela;21;Imperial;02;IMPERIAL;21;1;IMPERIAL;02-ene
+3;Retiro;32;Adelfas;03;ADELFAS;32;2;ADELFAS;03-feb
+3;Retiro;31;Pací­fico;03;PACIFICO;31;1;PACÍFICO;03-ene
+3;Retiro;36;Niño Jesús;03;NIÑO JESUS;36;6;NIÑO JESUS;03-jun
+3;Retiro;33;Estrella;03;ESTRELLA;33;3;ESTRELLA;03-mar
+3;Retiro;35;Los Jerónimos;03;LOS JERONIMOS;35;5;LOS JERÓNIMOS;03-may
+3;Retiro;34;Ibiza;03;IBIZA;34;4;IBIZA;03-abr
+4;Salamanca;42;Goya;04;GOYA;42;2;GOYA;04-feb
+4;Salamanca;41;Recoletos;04;RECOLETOS;41;1;RECOLETOS;04-ene
+4;Salamanca;43;Fuente del Berro;04;FUENTE DEL BERRO;43;3;FUENTE DEL BERRO;04-mar
+4;Salamanca;45;Lista;04;LISTA;45;5;LISTA;04-may
+4;Salamanca;46;Castellana;04;CASTELLANA;46;6;CASTELLANA;04-jun
+4;Salamanca;44;Guindalera;04;GUINDALERA;44;4;GUINDALERA;04-abr
+5;Chamartín;51;El Viso;05;EL VISO;51;1;EL VISO;05-ene
+5;Chamartín;53;Ciudad Jardín;05;CIUDAD JARDIN;53;3;CIUDAD JARDÍN;05-mar
+5;Chamartín;52;Prosperidad;05;PROSPERIDAD;52;2;PROSPERIDAD;05-feb
+5;Chamartín;54;Hispanoamérica;05;HISPANOAMERICA;54;4;HISPANOAMÉRICA;05-abr
+5;Chamartín;55;Nueva España;05;NUEVA ESPAÑA;55;5;NUEVA ESPAÑA;05-may
+5;Chamartín;56;Castilla;05;CASTILLA;56;6;CASTILLA;05-jun
+6;Tetuán;62;Cuatro Caminos;06;CUATRO CAMINOS;62;2;CUATRO CAMINOS;06-feb
+6;Tetuán;61;Bellas Vistas;06;BELLAS VISTAS;61;1;BELLAS VISTAS;06-ene
+6;Tetuán;66;Berruguete;06;BERRUGUETE;66;6;BERRUGUETE;06-jun
+6;Tetuán;63;Castillejos;06;CASTILLEJOS;63;3;CASTILLEJOS;06-mar
+6;Tetuán;65;Valdeacederas;06;VALDEACEDERAS;65;5;VALDEACEDERAS;06-may
+6;Tetuán;64;Almenara;06;ALMENARA;64;4;ALMENARA;06-abr
+7;Chamberí;74;Almagro;07;ALMAGRO;74;4;ALMAGRO;07-abr
+7;Chamberí;73;Trafalgar;07;TRAFALGAR;73;3;TRAFALGAR;07-mar
+7;Chamberí;72;Arapiles;07;ARAPILES;72;2;ARAPILES;07-feb
+7;Chamberí;71;Gaztambide;07;GAZTAMBIDE;71;1;GAZTAMBIDE;07-ene
+7;Chamberí;75;Ríos Rosas;07;RIOS ROSAS;75;5;RÍOS ROSAS;07-may
+7;Chamberí;76;Vallehermoso;07;VALLEHERMOSO;76;6;VALLEHERMOSO;07-jun
+8;Fuencarral - El Pardo;84;Pilar;08;PILAR;84;4;PILAR;08-abr
+8;Fuencarral - El Pardo;83;Peñagrande;08;PEÑAGRANDE;83;3;PEÑAGRANDE;08-mar
+8;Fuencarral - El Pardo;85;La Paz;08;LA PAZ;85;5;LA PAZ;08-may
+8;Fuencarral - El Pardo;82;Fuentelarreina;08;FUENTELARREINA;82;2;FUENTELARREINA;08-feb
+8;Fuencarral - El Pardo;87;Mirasierra;08;MIRASIERRA;87;7;MIRASIERRA;08-jul
+8;Fuencarral - El Pardo;86;Valverde;08;VALVERDE;86;6;VALVERDE;08-jun
+8;Fuencarral - El Pardo;88;El Goloso;08;EL GOLOSO;88;8;EL GOLOSO;08-ago
+8;Fuencarral - El Pardo;81;El Pardo;08;EL PARDO;81;1;EL PARDO;08-ene
+9;Moncloa - Aravaca;92;Argüelles;09;ARGÜELLES;92;2;ARGÜELLES;09-feb
+9;Moncloa - Aravaca;91;Casa de Campo;09;CASA DE CAMPO;91;1;CASA DE CAMPO;09-ene
+9;Moncloa - Aravaca;97;Aravaca;09;ARAVACA;97;7;ARAVACA;09-jul
+9;Moncloa - Aravaca;94;Valdezarza;09;VALDEZARZA;94;4;VALDEZARZA;09-abr
+9;Moncloa - Aravaca;95;Valdemarín;09;VALDEMARIN;95;5;VALDEMARÍN;09-may
+9;Moncloa - Aravaca;93;Ciudad Universitaria;09;CIUDAD UNIVERSITARIA;93;3;CIUDAD UNIVERSITARIA;09-mar
+9;Moncloa - Aravaca;96;El Plantío;09;EL PLANTIO;96;6;EL PLANTÍO;09-jun
+10;Latina;106;Cuatro Vientos;10;CUATRO VIENTOS;106;6;CUATRO VIENTOS;10-jun
+10;Latina;107;Águilas;10;AGUILAS;107;7;ÁGUILAS;10-jul
+10;Latina;105;Campamento;10;CAMPAMENTO;105;5;CAMPAMENTO;10-may
+10;Latina;104;Aluche;10;ALUCHE;104;4;ALUCHE;10-abr
+10;Latina;101;Los Cármenes;10;LOS CARMENES;101;1;LOS CÁRMENES;10-ene
+10;Latina;103;Lucero;10;LUCERO;103;3;LUCERO;10-mar
+10;Latina;102;Puerta del Ángel;10;PUERTA DEL ANGEL;102;2;PUERTA DEL ÁNGEL;10-feb
+11;Carabanchel;116;Buenavista;11;BUENAVISTA;116;6;BUENAVISTA;11-jun
+11;Carabanchel;117;Abrantes;11;ABRANTES;117;7;ABRANTES;11-jul
+11;Carabanchel;115;Puerta Bonita;11;PUERTA BONITA;115;5;PUERTA BONITA;11-may
+11;Carabanchel;114;Vista Alegre;11;VISTA ALEGRE;114;4;VISTA ALEGRE;11-abr
+11;Carabanchel;112;Opañel;11;OPAÑEL;112;2;OPAÑEL;11-feb
+11;Carabanchel;111;Comillas;11;COMILLAS;111;1;COMILLAS;11-ene
+11;Carabanchel;113;San Isidro;11;SAN ISIDRO;113;3;SAN ISIDRO;11-mar
+12;Usera;121;Orcasitas;12;ORCASITAS;121;1;ORCASITAS;12-ene
+12;Usera;123;San Fermín;12;SAN FERMIN;123;3;SAN FERMÍN;12-mar
+12;Usera;122;Orcasur;12;ORCASUR;122;2;ORCASUR;12-feb
+12;Usera;126;Zofío;12;ZOFIO;126;6;ZOFÍO;12-jun
+12;Usera;127;Pradolongo;12;PRADOLONGO;127;7;PRADOLONGO;12-jul
+12;Usera;124;Almendrales;12;ALMENDRALES;124;4;ALMENDRALES;12-abr
+12;Usera;125;Moscardó;12;MOSCARDO;125;5;MOSCARDÓ;12-may
+13;Puente de Vallecas;131;Entrevías;13;ENTREVIAS;131;1;ENTREVÍAS;13-ene
+13;Puente de Vallecas;134;Palomeras Sureste;13;PALOMERAS SURESTE;134;4;PALOMERAS SURESTE;13-abr
+13;Puente de Vallecas;133;Palomeras Bajas;13;PALOMERAS BAJAS;133;3;PALOMERAS BAJAS;13-mar
+13;Puente de Vallecas;132;San Diego;13;SAN DIEGO;132;2;SAN DIEGO;13-feb
+13;Puente de Vallecas;135;Portazgo;13;PORTAZGO;135;5;PORTAZGO;13-may
+13;Puente de Vallecas;136;Numancia;13;NUMANCIA;136;6;NUMANCIA;13-jun
+14;Moratalaz;141;Pavones;14;PAVONES;141;1;PAVONES;14-ene
+14;Moratalaz;145;Fontarrón;14;FONTARRON;145;5;FONTARRÓN;14-may
+14;Moratalaz;146;Vinateros;14;VINATEROS;146;6;VINATEROS;14-jun
+14;Moratalaz;142;Horcajo;14;HORCAJO;142;2;HORCAJO;14-feb
+14;Moratalaz;143;Marroquina;14;MARROQUINA;143;3;MARROQUINA;14-mar
+14;Moratalaz;144;Media Legua;14;MEDIA LEGUA;144;4;MEDIA LEGUA;14-abr
+15;Ciudad Lineal;151;Ventas;15;VENTAS;151;1;VENTAS;15-ene
+15;Ciudad Lineal;152;Pueblo Nuevo;15;PUEBLO NUEVO;152;2;PUEBLO NUEVO;15-feb
+15;Ciudad Lineal;153;Quintana;15;QUINTANA;153;3;QUINTANA;15-mar
+15;Ciudad Lineal;154;La Concepción;15;LA CONCEPCION;154;4;LA CONCEPCIÓN;15-abr
+15;Ciudad Lineal;155;San Pascual;15;SAN PASCUAL;155;5;SAN PASCUAL;15-may
+15;Ciudad Lineal;156;San Juan Bautista;15;SAN JUAN BAUTISTA;156;6;SAN JUAN BAUTISTA;15-jun
+15;Ciudad Lineal;157;Colina;15;COLINA;157;7;COLINA;15-jul
+15;Ciudad Lineal;158;Atalaya;15;ATALAYA;158;8;ATALAYA;15-ago
+15;Ciudad Lineal;159;Costillares;15;COSTILLARES;159;9;COSTILLARES;15-sep
+16;Hortaleza;161;Palomas;16;PALOMAS;161;1;PALOMAS;16-ene
+16;Hortaleza;162;Piovera;16;PIOVERA;162;2;PIOVERA;16-feb
+16;Hortaleza;163;Canillas;16;CANILLAS;163;3;CANILLAS;16-mar
+16;Hortaleza;164;Pinar del Rey;16;PINAR DEL REY;164;4;PINAR DEL REY;16-abr
+16;Hortaleza;165;Apóstol Santiago;16;APOSTOL SANTIAGO;165;5;APÓSTOL SANTIAGO;16-may
+16;Hortaleza;166;Valdefuentes;16;VALDEFUENTES;166;6;VALDEFUENTES;16-jun
+17;Villaverde;172;San Cristóbal;17;SAN CRISTOBAL;172;2;SAN CRISTÓBAL;17-feb
+17;Villaverde;173;Butarque;17;BUTARQUE;173;3;BUTARQUE;17-mar
+17;Villaverde;175;Ángeles;17;ANGELES;175;5;ÁNGELES;17-may
+17;Villaverde;174;Los Rosales;17;LOS ROSALES;174;4;LOS ROSALES;17-abr
+17;Villaverde;171;Villaverde Alto - Casco Histórico de Villaverde;17;VILLAVERDE ALTO - CASCO HISTORICO DE VILLAVERDE;171;1;VILLAVERDE ALTO - CASCO HISTÓRICO DE VILLAVERDE;17-ene
+18;Villa de Vallecas;183;Ensanche de Vallecas;18;ENSANCHE DE VALLECAS;183;3;ENSANCHE DE VALLECAS;18-mar
+18;Villa de Vallecas;181;Casco Histórico de Vallecas;18;CASCO HISTORICO DE VALLECAS;181;1;CASCO HISTÓRICO DE VALLECAS;18-ene
+18;Villa de Vallecas;182;Santa Eugenia;18;SANTA EUGENIA;182;2;SANTA EUGENIA;18-feb
+19;Vicálvaro;193;Valderrivas;19;VALDERRIVAS;193;3;VALDERRIVAS;19-mar
+19;Vicálvaro;192;Valdebernardo;19;VALDEBERNARDO;192;2;VALDEBERNARDO;19-feb
+19;Vicálvaro;191;Casco Histórico de Vicálvaro;19;CASCO HISTORICO DE VICALVARO;191;1;CASCO HISTÓRICO DE VICÁLVARO;19-ene
+19;Vicálvaro;194;El Cañaveral;19;EL CAÑAVERAL;194;4;EL CAÑAVERAL;19-abr
+20;San Blas - Canillejas;204;Arcos;20;ARCOS;204;4;ARCOS;20-abr
+20;San Blas - Canillejas;203;Amposta;20;AMPOSTA;203;3;AMPOSTA;20-mar
+20;San Blas - Canillejas;202;Hellín;20;HELLIN;202;2;HELLÍN;20-feb
+20;San Blas - Canillejas;201;Simancas;20;SIMANCAS;201;1;SIMANCAS;20-ene
+20;San Blas - Canillejas;207;Canillejas;20;CANILLEJAS;207;7;CANILLEJAS;20-jul
+20;San Blas - Canillejas;205;Rosas;20;ROSAS;205;5;ROSAS;20-may
+20;San Blas - Canillejas;208;El Salvador;20;EL SALVADOR;208;8;EL SALVADOR;20-ago
+20;San Blas - Canillejas;206;Rejas;20;REJAS;206;6;REJAS;20-jun
+21;Barajas;211;Alameda de Osuna;21;ALAMEDA DE OSUNA;211;1;ALAMEDA DE OSUNA;21-ene
+21;Barajas;215;Corralejos;21;CORRALEJOS;215;5;CORRALEJOS;21-may
+21;Barajas;213;Casco Histórico de Barajas;21;CASCO HISTORICO DE BARAJAS;213;3;CASCO HISTÓRICO DE BARAJAS;21-mar
+21;Barajas;214;Timón;21;TIMON;214;4;TIMÓN;21-abr
+21;Barajas;212;Aeropuerto;21;AEROPUERTO;212;2;AEROPUERTO;21-feb

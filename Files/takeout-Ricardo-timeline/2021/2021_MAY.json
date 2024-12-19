@@ -1,0 +1,2402 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403288236,
+        "longitudeE7": -37665046,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403313070,
+        "longitudeE7": -37699654,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T09:24:40.569Z",
+        "endTimestamp": "2021-05-21T09:31:31.334Z"
+      },
+      "distance": 461,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 79.37907576560974
+      }, {
+        "activityType": "STILL",
+        "probability": 13.8734370470047
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.3632606267929077
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0616077110171318
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.8835792541503906
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3981259651482105
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.2882089000195265
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.269134109839797
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.2488341648131609
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.09862617589533329
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08619818836450577
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.02775417233351618
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011449233716120943
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010698950791265815
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.2119818038058838E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403288154,
+          "lngE7": -37664902
+        }, {
+          "latE7": 403292961,
+          "lngE7": -37662138
+        }, {
+          "latE7": 403312950,
+          "lngE7": -37699751
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 568.9754592905325,
+        "travelMode": "WALK",
+        "confidence": 0.9778391838461588
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403314752,
+        "longitudeE7": -37709639,
+        "placeId": "ChIJhU31ZSCKQQ0RFjJ_EfwHdrQ",
+        "name": "Bankia - Oficina 2252",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 59.471214,
+        "calibratedProbability": 40.90803
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T09:31:31.334Z",
+        "endTimestamp": "2021-05-21T09:40:24.670Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403312060,
+      "centerLngE7": -37702830,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403307877,
+        "longitudeE7": -37703460,
+        "placeId": "ChIJ-0uGvomJQQ0RLkC1J7ZhlqQ",
+        "address": "C. de Asturias, 3, 28913 Leganés, Madrid, España",
+        "name": "Supermercados Simply",
+        "locationConfidence": 10.879314,
+        "calibratedProbability": 7.4834747
+      }, {
+        "latitudeE7": 403297772,
+        "longitudeE7": -37695314,
+        "placeId": "ChIJRzh2_ImJQQ0R88rxleHIh_w",
+        "address": "C. el Charco, 44-46, 28911 Leganés, Madrid, España",
+        "name": "Mercadona",
+        "locationConfidence": 6.512624,
+        "calibratedProbability": 4.479791
+      }, {
+        "latitudeE7": 403307900,
+        "longitudeE7": -37694095,
+        "placeId": "ChIJuWij4rWJQQ0RxOaVTuDKI4k",
+        "address": "Calle de Sta. Rosa, 2, 28911 Leganés, Madrid, España",
+        "name": "PrimaPrix",
+        "locationConfidence": 5.1480823,
+        "calibratedProbability": 3.541174
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 4.242516,
+        "calibratedProbability": 2.9182687
+      }, {
+        "latitudeE7": 403306166,
+        "longitudeE7": -37695365,
+        "placeId": "ChIJC9hI7YmJQQ0RFIlghDtmro4",
+        "address": "Calle de Sta. Rosa, 6, 28911 Leganés, Madrid, España",
+        "name": "be Farmacia Leganés",
+        "locationConfidence": 3.1291645,
+        "calibratedProbability": 2.1524355
+      }, {
+        "latitudeE7": 403302842,
+        "longitudeE7": -37697136,
+        "placeId": "ChIJ_yi554mJQQ0Rz1tis_18jFM",
+        "address": "Calle de Sta. Rosa, 5, 28911 Leganés, Madrid, España",
+        "name": "Carnes Hermanos de Diego S.L.",
+        "locationConfidence": 1.7181944,
+        "calibratedProbability": 1.1818818
+      }, {
+        "latitudeE7": 403299228,
+        "longitudeE7": -37687203,
+        "placeId": "ChIJ0YMpQEqJQQ0RyuwFra53-VM",
+        "address": "C. de Ordóñez, 21, 28911 Leganés, Madrid, España",
+        "name": "Shan Kebab",
+        "locationConfidence": 1.625677,
+        "calibratedProbability": 1.1182426
+      }, {
+        "latitudeE7": 403306880,
+        "longitudeE7": -37694400,
+        "placeId": "ChIJMzPTRYaJQQ0R27ZaX2Uv1WA",
+        "address": "Calle de Sta. Rosa, 4, 28911 Leganés, Madrid, España",
+        "name": "vivantadental",
+        "locationConfidence": 1.4336785,
+        "calibratedProbability": 0.986174
+      }, {
+        "latitudeE7": 403311844,
+        "longitudeE7": -37707400,
+        "placeId": "ChIJxbRrpImJQQ0R1Jq98Q5lj-0",
+        "locationConfidence": 1.2272767,
+        "calibratedProbability": 0.84419787
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403312594,
+        "longitudeE7": -37702985,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403295930,
+        "longitudeE7": -37661573,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T09:40:24.670Z",
+        "endTimestamp": "2021-05-21T09:44:32.251Z"
+      },
+      "distance": 398,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 90.88636636734009
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.4686402678489685
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7743136957287788
+      }, {
+        "activityType": "STILL",
+        "probability": 0.5391515791416168
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.5261247977614403
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.37500541657209396
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.18806515727192163
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08070044568739831
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0562577391974628
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.04612507182173431
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02911867923103273
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.02304194204043597
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0038006630347808823
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0032829877454787493
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0037042247622594E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403312683,
+          "lngE7": -37703096
+        }, {
+          "latE7": 403303985,
+          "lngE7": -37683238
+        }, {
+          "latE7": 403295974,
+          "lngE7": -37661738
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 451.5667436893784,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 29.080486,
+        "calibratedProbability": 40.742596
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T09:44:32.251Z",
+        "endTimestamp": "2021-05-21T10:16:29.787Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 403297155,
+      "centerLngE7": -37658136,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "locationConfidence": 5.7729187,
+        "calibratedProbability": 8.088025
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 4.1624265,
+        "calibratedProbability": 5.831679
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 3.4439187,
+        "calibratedProbability": 4.825029
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 3.3374116,
+        "calibratedProbability": 4.6758094
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 2.4903476,
+        "calibratedProbability": 3.4890485
+      }, {
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 2.1213405,
+        "calibratedProbability": 2.972059
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 2.0829954,
+        "calibratedProbability": 2.9183364
+      }, {
+        "latitudeE7": 403296666,
+        "longitudeE7": -37657713,
+        "placeId": "ChIJm71Vg4qJQQ0R2xviTQnjc2s",
+        "address": "C. Torrubia, nº2, 28911 Leganés, Madrid, España",
+        "name": "Moda Infantil CHICLE",
+        "locationConfidence": 2.0015805,
+        "calibratedProbability": 2.8042717
+      }, {
+        "latitudeE7": 403291781,
+        "longitudeE7": -37675095,
+        "placeId": "ChIJX_L9niCKQQ0RwnPX6Zpt6P0",
+        "address": "C. de Ordóñez, 9, 28911 Leganés, Madrid, España",
+        "name": "Edelweiss Cafeteria",
+        "locationConfidence": 1.7339369,
+        "calibratedProbability": 2.4292953
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403292956,
+        "longitudeE7": -37662402,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403266279,
+        "longitudeE7": -37684726,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T10:16:29.787Z",
+        "endTimestamp": "2021-05-21T10:20:31.715Z"
+      },
+      "distance": 353,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 68.05191040039062
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.24151921272278
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.43460195884108543
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.4307570867240429
+      }, {
+        "activityType": "STILL",
+        "probability": 0.32906949054449797
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.17948062159121037
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.13834338169544935
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.08464488200843334
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06472576642408967
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.01644315052544698
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.00873463650350459
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.00826917530503124
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005770306597696617
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005733046054956503
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.6687558002104197E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403293075,
+          "lngE7": -37662448
+        }, {
+          "latE7": 403271179,
+          "lngE7": -37680895
+        }, {
+          "latE7": 403266143,
+          "lngE7": -37685003
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 395.6844839391036,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403263025,
+        "longitudeE7": -37681174,
+        "placeId": "ChIJDeisJSGKQQ0Rte-Ire4I_bA",
+        "address": "P.º de Colón, 2, 4, 28911 Leganés, Madrid, España",
+        "name": "Aparcamiento Publico Plaza Mayor",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 54.838543,
+        "calibratedProbability": 44.00285
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T10:20:31.715Z",
+        "endTimestamp": "2021-05-21T10:28:39.569Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403261867,
+      "centerLngE7": -37685367,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403259643,
+        "longitudeE7": -37683963,
+        "placeId": "ChIJDZlchx6KQQ0RXV0mIhpp2aw",
+        "address": "Pl. Mayor, 1, 28911 Leganés, Madrid, España",
+        "name": "Leganés City Hall",
+        "locationConfidence": 31.144295,
+        "calibratedProbability": 24.99041
+      }, {
+        "latitudeE7": 403271641,
+        "longitudeE7": -37675261,
+        "placeId": "ChIJgwk95yCKQQ0RAyCKmlXW_VQ",
+        "address": "C. de la Luna, 1, 28911 Leganés, Madrid, España",
+        "name": "Hospital psiquiátrico de Leganés",
+        "locationConfidence": 8.316422,
+        "calibratedProbability": 6.673158
+      }, {
+        "latitudeE7": 403263087,
+        "longitudeE7": -37686843,
+        "placeId": "ChIJyT7zLSGKQQ0RfCkU6awcoX8",
+        "address": "C. el Charco, 9, 28911 Leganés, Madrid, España",
+        "name": "NOTARíA MARIA VICTORIA VALIENTE",
+        "locationConfidence": 1.8073049,
+        "calibratedProbability": 1.4501946
+      }, {
+        "latitudeE7": 403260341,
+        "longitudeE7": -37676333,
+        "placeId": "ChIJD-rnJCGKQQ0Rab07AYllf5A",
+        "address": "P.º de Colón, s/n, 28911 Leganés, Madrid, España",
+        "name": "Centro de Salud Mental José Germain",
+        "locationConfidence": 0.8379648,
+        "calibratedProbability": 0.67238903
+      }, {
+        "latitudeE7": 403272595,
+        "longitudeE7": -37667251,
+        "placeId": "ChIJtb3qCSCKQQ0RBK-WMb0AteY",
+        "address": "C. Isabel la Católica, s/n, 28911 Madrid, España",
+        "name": "Centro de Salud Santa Isabel",
+        "locationConfidence": 0.5872113,
+        "calibratedProbability": 0.47118264
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 0.4639123,
+        "calibratedProbability": 0.37224662
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403259716,
+        "longitudeE7": -37685776,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 402829093,
+        "longitudeE7": -36889820,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T10:28:39.569Z",
+        "endTimestamp": "2021-05-21T11:07:04.888Z"
+      },
+      "distance": 8279,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 91.46140813827515
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.598260998725891
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6673999130725861
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.43388097546994686
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.42293728329241276
+      }, {
+        "activityType": "STILL",
+        "probability": 0.251932255923748
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08075846126303077
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.03219643549527973
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.025285809533670545
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.010267073957948014
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005867200525244698
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.004301041553844698
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0032841817301232368
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0022177269784151576
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.0131706846580073E-7
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403252276,
+          "lngE7": -37664218,
+          "accuracyMeters": 68,
+          "timestamp": "2021-05-21T10:30:39.844Z"
+        }, {
+          "latE7": 403162803,
+          "lngE7": -37724268,
+          "accuracyMeters": 110,
+          "timestamp": "2021-05-21T10:34:43.563Z"
+        }, {
+          "latE7": 402876026,
+          "lngE7": -36824494,
+          "accuracyMeters": 200,
+          "timestamp": "2021-05-21T10:44:50.059Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 10349.212115505541
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 402829460,
+          "longitudeE7": -36891654,
+          "accuracyMetres": 85
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-21T11:09:08.732Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 402831573,
+        "longitudeE7": -36891550,
+        "placeId": "ChIJL6zvh6QhQg0R3y6Mf_sbhhA",
+        "address": "C. Agustín de Betancourt, 17, 28906 Getafe, Madrid, España",
+        "name": "Costco Wholesale Getafe",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 97.7755,
+        "calibratedProbability": 89.69601
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T11:07:04.888Z",
+        "endTimestamp": "2021-05-21T12:08:41.679Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 402827089,
+      "centerLngE7": -36890946,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 402828846,
+        "longitudeE7": -36871192,
+        "placeId": "ChIJG5B-f6QhQg0RQIGQFp3HuxM",
+        "address": "C. Agustín de Betancourt, 17, 28906 Getafe, Madrid, España",
+        "name": "Gasolinera Costco Getafe",
+        "locationConfidence": 0.79181147,
+        "calibratedProbability": 0.72638166
+      }, {
+        "latitudeE7": 402826800,
+        "longitudeE7": -36891000,
+        "placeId": "ChIJqfcK7aQhQg0RjFD9PW2WDt8",
+        "address": "C. Agustín de Betancourt, 27, 28906, Madrid, España",
+        "locationConfidence": 0.22425382,
+        "calibratedProbability": 0.20572303
+      }, {
+        "latitudeE7": 402832354,
+        "longitudeE7": -36891428,
+        "placeId": "ChIJQTuImxAhQg0RMAQx46e2G6w",
+        "address": "C. Agustín de Betancourt, 21, 28906 Madrid, España",
+        "name": "Costco Cafeteria",
+        "locationConfidence": 0.13187435,
+        "calibratedProbability": 0.12097717
+      }, {
+        "latitudeE7": 402828600,
+        "longitudeE7": -36890900,
+        "placeId": "ChIJbWP08qQhQg0R-ck7k59soFw",
+        "address": "C. Agustín de Betancourt, 25, 28906, Madrid, España",
+        "locationConfidence": 0.12919849,
+        "calibratedProbability": 0.11852242
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 402826776,
+        "longitudeE7": -36888174,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403297470,
+        "longitudeE7": -37656944,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T12:08:41.679Z",
+        "endTimestamp": "2021-05-21T12:47:34.548Z"
+      },
+      "distance": 8783,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 90.64491391181946
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.540225446224213
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.6971083115786314
+      }, {
+        "activityType": "STILL",
+        "probability": 0.6923348642885685
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.670562032610178
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3300618613138795
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.15519747976213694
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1400645007379353
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.06073044496588409
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02298615872859955
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01878664770629257
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.011533873475855216
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.00834187158034183
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.007151981844799593
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.014490321921585E-7
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403292176,
+          "lngE7": -37454043,
+          "accuracyMeters": 31,
+          "timestamp": "2021-05-21T12:41:24.792Z"
+        }, {
+          "latE7": 403284614,
+          "lngE7": -37563242,
+          "accuracyMeters": 128,
+          "timestamp": "2021-05-21T12:43:25.633Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 8793.854742185847
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 403297454,
+          "longitudeE7": -37656935,
+          "accuracyMetres": 23
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-21T12:48:02.389Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 33.65673,
+        "calibratedProbability": 54.040512
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T12:47:34.548Z",
+        "endTimestamp": "2021-05-21T12:55:51.406Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 403296240,
+      "centerLngE7": -37657580,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 4.6689453,
+        "calibratedProbability": 7.496634
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 3.033602,
+        "calibratedProbability": 4.8708653
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 2.114368,
+        "calibratedProbability": 3.3949087
+      }, {
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "locationConfidence": 1.7161674,
+        "calibratedProbability": 2.755543
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 1.4219772,
+        "calibratedProbability": 2.28318
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 1.3264791,
+        "calibratedProbability": 2.1298447
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 1.2828606,
+        "calibratedProbability": 2.0598092
+      }, {
+        "latitudeE7": 403296666,
+        "longitudeE7": -37657713,
+        "placeId": "ChIJm71Vg4qJQQ0R2xviTQnjc2s",
+        "address": "C. Torrubia, nº2, 28911 Leganés, Madrid, España",
+        "name": "Moda Infantil CHICLE",
+        "locationConfidence": 1.2346739,
+        "calibratedProbability": 1.9824388
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 0.9048184,
+        "calibratedProbability": 1.4528104
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403294890,
+        "longitudeE7": -37658609,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403297955,
+        "longitudeE7": -37660841,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T12:55:51.406Z",
+        "endTimestamp": "2021-05-21T13:14:03.787Z"
+      },
+      "distance": 1663,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 54.64354753494263
+      }, {
+        "activityType": "WALKING",
+        "probability": 38.67890536785126
+      }, {
+        "activityType": "STILL",
+        "probability": 4.381772130727768
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1392750777304173
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.4996858537197113
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2578074811026454
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2444971352815628
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07625936414115131
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03085342177655548
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.019838885054923594
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.010534403554629534
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.007200551044661552
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005900128235225566
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003925982673536055
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.1495009267246132E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403295364,
+          "lngE7": -37661883
+        }, {
+          "latE7": 403292274,
+          "lngE7": -37629764
+        }, {
+          "latE7": 403263587,
+          "lngE7": -37645106
+        }, {
+          "latE7": 403250236,
+          "lngE7": -37670106
+        }, {
+          "latE7": 403262329,
+          "lngE7": -37680075
+        }, {
+          "latE7": 403283042,
+          "lngE7": -37695026
+        }, {
+          "latE7": 403297996,
+          "lngE7": -37661228
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJL8UigYqJQQ0RKkz8qrfsfZU",
+          "duration": "17s"
+        }, {
+          "placeId": "ChIJqU3TeIqJQQ0RgEKdhVk7W_U",
+          "duration": "56s"
+        }, {
+          "placeId": "ChIJNTzSc4qJQQ0RRKVv7SyM2tw",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJUbjGbYqJQQ0ROpq9_MaACfI",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJwTY9ZoqJQQ0R9hAamCn5LQw",
+          "duration": "32s"
+        }, {
+          "placeId": "ChIJk9BOZ4qJQQ0Rqm650fQ8Cck",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJb0rr9YqJQQ0R79XMsWHWn7g",
+          "duration": "62s"
+        }, {
+          "placeId": "ChIJg7tX8IqJQQ0RPri9GQvOsxM",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJAea08YqJQQ0R2h3sT8a3QnM",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJLY567IqJQQ0R3L-UYpd4YV4",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJQ3_Dv4qJQQ0RZrP-lVOEddg",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJuTGyv4qJQQ0RJD7ycEnDzYc",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJYR1NuYqJQQ0RmoHR8yMjhqc",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJzSyGsIqJQQ0RznD-sf7UBpY",
+          "duration": "11s"
+        }, {
+          "placeId": "ChIJGeG64x-KQQ0RZf80preT1Ic",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJyad55B-KQQ0Rtkz5B-MrlWs",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJRVmM8h-KQQ0R9i8FU1x4l90",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJYy4djR-KQQ0R9D-idlMTE1U",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJa5yojh-KQQ0RnqEpFszwMwc",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJha3Vhx-KQQ0ReJzh3aAVuL0",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJ7xrSzyGKQQ0RlHi_wy-BCrQ",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJWTyGxSGKQQ0RLzNlrB1rg1Q",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJc1PAvyGKQQ0Rgr40LCGlA90",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJSe2_lSGKQQ0RE7LdmVpXjJ8",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJW00rkSGKQQ0RVsnUGKlAVhY",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJnW-HkCGKQQ0RyhVkS1XDBiU",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJO1WMmiGKQQ0R5Z6vRefIe1Q",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ91rlnCGKQQ0RtYkLMOgIhfE",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJ5zQJdyGKQQ0RFXCYTbOoaNA",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJ8QXGcCGKQQ0Rnx7-nb--dXE",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJp9RZcCGKQQ0R5Oj4DRsxf_A",
+          "duration": "5s"
+        }, {
+          "placeId": "ChIJHdvVbyGKQQ0RBc8HZeN5jOQ",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJlQiJbiGKQQ0RzZvGkGdDUO0",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJgUUgPiGKQQ0R70aDLE5qof8",
+          "duration": "28s"
+        }, {
+          "placeId": "ChIJBVLk0iCKQQ0RhVbJ4Ol7vQQ",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJh5NdSCeKQQ0RnfzZ_LXzih4",
+          "duration": "15s"
+        }, {
+          "placeId": "ChIJD69STyeKQQ0R3jNTGMmB5h8",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ3xqFRSeKQQ0RVTIICduO7jA",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJLQA5XyeKQQ0R9BN7yCgZgzY",
+          "duration": "58s"
+        }, {
+          "placeId": "ChIJNZQ66ImJQQ0RuNEqP_RrvkY",
+          "duration": "13s"
+        }, {
+          "placeId": "ChIJWzt26YmJQQ0R3FHb45X4iuQ",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJda98J4qJQQ0RPjyQkBRAE2E",
+          "duration": "1s"
+        }, {
+          "placeId": "ChIJRQumJ4qJQQ0RDb660vtzb-s",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJ44IsLoqJQQ0RK05o2gtPM_E",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJqYmcMYqJQQ0R5TNzl0zYuPA",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJnXymNoqJQQ0Rw40Ucq02uoQ",
+          "duration": "7s"
+        }, {
+          "placeId": "ChIJK84qSIqJQQ0Rhlz5LGXD01c",
+          "duration": "24s"
+        }, {
+          "placeId": "ChIJL7ZmQ4qJQQ0RlivhFq17RUI",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJk9BOZ4qJQQ0Rq2650fQ8Cck",
+          "duration": "3s"
+        }, {
+          "placeId": "ChIJheT-YYqJQQ0REiUKAxRkyZQ",
+          "duration": "52s"
+        }, {
+          "placeId": "ChIJJUwChoqJQQ0RhFg8sLQmUbM",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJL8UigYqJQQ0RKkz8qrfsfZU",
+          "duration": "15s"
+        }],
+        "distanceMeters": 2489.4154497595537,
+        "travelMode": "DRIVE",
+        "confidence": 0.8188841728119899
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403264542,
+          "lngE7": -37644751,
+          "accuracyMeters": 46,
+          "timestamp": "2021-05-21T12:59:55.704Z"
+        }, {
+          "latE7": 403259735,
+          "lngE7": -37685766,
+          "accuracyMeters": 23,
+          "timestamp": "2021-05-21T13:07:59.793Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 403297871,
+          "longitudeE7": -37657182,
+          "accuracyMetres": 77
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-05-21T13:16:04.998Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 32.770123,
+        "calibratedProbability": 45.439465
+      },
+      "duration": {
+        "startTimestamp": "2021-05-21T13:14:03.787Z",
+        "endTimestamp": "2021-05-25T12:49:17.781Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403298346,
+      "centerLngE7": -37657562,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "locationConfidence": 7.861531,
+        "calibratedProbability": 10.900898
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 5.4379997,
+        "calibratedProbability": 7.5403996
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 1.8593378,
+        "calibratedProbability": 2.5781815
+      }, {
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 1.4455237,
+        "calibratedProbability": 2.0043817
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 1.3468919,
+        "calibratedProbability": 1.8676174
+      }, {
+        "latitudeE7": 403296666,
+        "longitudeE7": -37657713,
+        "placeId": "ChIJm71Vg4qJQQ0R2xviTQnjc2s",
+        "address": "C. Torrubia, nº2, 28911 Leganés, Madrid, España",
+        "name": "Moda Infantil CHICLE",
+        "locationConfidence": 1.1813838,
+        "calibratedProbability": 1.6381218
+      }, {
+        "latitudeE7": 403291781,
+        "longitudeE7": -37675095,
+        "placeId": "ChIJX_L9niCKQQ0RwnPX6Zpt6P0",
+        "address": "C. de Ordóñez, 9, 28911 Leganés, Madrid, España",
+        "name": "Edelweiss Cafeteria",
+        "locationConfidence": 1.1727011,
+        "calibratedProbability": 1.6260823
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 1.0979713,
+        "calibratedProbability": 1.5224609
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 0.93133,
+        "calibratedProbability": 1.291394
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403304963,
+        "longitudeE7": -37659615,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403319366,
+        "longitudeE7": -37675209,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-25T12:49:17.781Z",
+        "endTimestamp": "2021-05-25T12:51:24.854Z"
+      },
+      "distance": 210,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.34172320365906
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.7384262755513191
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8831935003399849
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4087852779775858
+      }, {
+        "activityType": "STILL",
+        "probability": 0.20507934968918562
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.13755271211266518
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.10170177556574345
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07899323245510459
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.07806083303876221
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.016602026880718768
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006263326213229448
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0019945387975894846
+      }, {
+        "activityType": "SAILING",
+        "probability": 9.741514077177271E-4
+      }, {
+        "activityType": "FLYING",
+        "probability": 6.37341508991085E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.938049357778752E-9
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403304977,
+          "lngE7": -37659521
+        }, {
+          "latE7": 403311233,
+          "lngE7": -37658224
+        }, {
+          "latE7": 403319206,
+          "lngE7": -37673916
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 288.693316750135,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 85.05465,
+        "calibratedProbability": 85.0819
+      },
+      "duration": {
+        "startTimestamp": "2021-05-25T12:51:24.854Z",
+        "endTimestamp": "2021-05-25T15:29:42.189Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403316371,
+      "centerLngE7": -37672864,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403297958,
+        "longitudeE7": -37657554,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "locationConfidence": 3.351865,
+        "calibratedProbability": 3.352939
+      }, {
+        "latitudeE7": 403297772,
+        "longitudeE7": -37695314,
+        "placeId": "ChIJRzh2_ImJQQ0R88rxleHIh_w",
+        "address": "C. el Charco, 44-46, 28911 Leganés, Madrid, España",
+        "name": "Mercadona",
+        "locationConfidence": 0.25531673,
+        "calibratedProbability": 0.25539854
+      }, {
+        "latitudeE7": 403315930,
+        "longitudeE7": -37677020,
+        "placeId": "ChIJtSaJsWOJQQ0RJoT1QXeJ2L0",
+        "locationConfidence": 0.13832846,
+        "calibratedProbability": 0.13837278
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 0.10063135,
+        "calibratedProbability": 0.10066359
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403319366,
+          "lngE7": -37675209,
+          "accuracyMeters": 20,
+          "timestamp": "2021-05-25T12:51:24.854Z"
+        }, {
+          "latE7": 403315718,
+          "lngE7": -37669404,
+          "accuracyMeters": 25,
+          "timestamp": "2021-05-25T15:28:29.909Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 67.103615014008
+      },
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403315906,
+        "longitudeE7": -37668318,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403298153,
+        "longitudeE7": -37657166,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-25T15:29:42.189Z",
+        "endTimestamp": "2021-05-25T15:33:45.568Z"
+      },
+      "distance": 242,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.51455283164978
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.579519547522068
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7414708379656076
+      }, {
+        "activityType": "STILL",
+        "probability": 0.39139059372246265
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.38043586537241936
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.157446158118546
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.12843706645071507
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04330753581598401
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.03320692339912057
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.008828219142742455
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.008676855941303074
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007256619574036449
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0038880181818967685
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0015800822438905016
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.070336621202046E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403314933,
+          "lngE7": -37668800
+        }, {
+          "latE7": 403311576,
+          "lngE7": -37658827
+        }, {
+          "latE7": 403297767,
+          "lngE7": -37657518
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 314.5347125386225,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 20.282549,
+        "calibratedProbability": 21.214352
+      },
+      "duration": {
+        "startTimestamp": "2021-05-25T15:33:45.568Z",
+        "endTimestamp": "2021-05-28T06:51:53.933Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 403298390,
+      "centerLngE7": -37657185,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403297958,
+        "longitudeE7": -37657554,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "locationConfidence": 18.981176,
+        "calibratedProbability": 19.853193
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 9.797607,
+        "calibratedProbability": 10.247721
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 9.643986,
+        "calibratedProbability": 10.087041
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 4.458328,
+        "calibratedProbability": 4.6631484
+      }, {
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 1.3881607,
+        "calibratedProbability": 1.4519343
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 1.066553,
+        "calibratedProbability": 1.1155516
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 0.7741211,
+        "calibratedProbability": 0.8096851
+      }, {
+        "latitudeE7": 403307470,
+        "longitudeE7": -37659844,
+        "placeId": "ChIJ6eYXlIqJQQ0R_PDDeb8FVSA",
+        "address": "C. de Butarque, 7, 28911 Leganés, Madrid, España",
+        "name": "La Copistería de Leganés - Beroche SL",
+        "locationConfidence": 0.6547,
+        "calibratedProbability": 0.6847776
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 12,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403309082,
+        "longitudeE7": -37657120,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403323589,
+        "longitudeE7": -37645893,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-28T06:51:53.933Z",
+        "endTimestamp": "2021-05-28T06:54:04.170Z"
+      },
+      "distance": 187,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.27063775062561
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.2922064401209354
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5784257315099239
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3293219255283475
+      }, {
+        "activityType": "STILL",
+        "probability": 0.20411396399140358
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.13407296501100063
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.0683450372889638
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.06377791869454086
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.030136440182104707
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.018072235980071127
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.004536248161457479
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0033102620363933966
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0024650620616739616
+      }, {
+        "activityType": "SAILING",
+        "probability": 5.650965249515139E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.391600971764831E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403309822,
+          "lngE7": -37656226
+        }, {
+          "latE7": 403315391,
+          "lngE7": -37656600
+        }, {
+          "latE7": 403323249,
+          "lngE7": -37647337
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 213.29703049766394,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 92.97511,
+        "calibratedProbability": 89.31139
+      },
+      "duration": {
+        "startTimestamp": "2021-05-28T06:54:04.170Z",
+        "endTimestamp": "2021-05-28T09:29:57.057Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403322108,
+      "centerLngE7": -37639985,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403338127,
+        "longitudeE7": -37656903,
+        "placeId": "ChIJbRgAKouJQQ0RQH7IkvqDu5k",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "Universidad Carlos III de Madrid",
+        "locationConfidence": 0.67010903,
+        "calibratedProbability": 0.6437031
+      }, {
+        "latitudeE7": 403303089,
+        "longitudeE7": -37628334,
+        "placeId": "ChIJp0_DQ_WJQQ0RQZKVsZlNNcg",
+        "address": "C. Nápoles, 14, 28912 Leganés, Madrid, España",
+        "name": "Lacolada Lavanderia Autoservico",
+        "locationConfidence": 0.07509461,
+        "calibratedProbability": 0.07213548
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 0.033939432,
+        "calibratedProbability": 0.032602035
+      }, {
+        "latitudeE7": 403307938,
+        "longitudeE7": -37658068,
+        "placeId": "ChIJWzXoIyCAb0ARPWzAjbzZO1Y",
+        "locationConfidence": 0.021978512,
+        "calibratedProbability": 0.02111244
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403323589,
+          "lngE7": -37645893,
+          "accuracyMeters": 15,
+          "timestamp": "2021-05-28T06:54:04.170Z"
+        }, {
+          "latE7": 403321430,
+          "lngE7": -37640272,
+          "accuracyMeters": 14,
+          "timestamp": "2021-05-28T06:56:05.218Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 55.266712028689085
+      },
+      "locationConfidence": 79,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403322125,
+        "longitudeE7": -37639436,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403305863,
+        "longitudeE7": -37658122,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-28T09:29:57.057Z",
+        "endTimestamp": "2021-05-28T09:39:14.215Z"
+      },
+      "distance": 263,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.2959816455841
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7207067217677832
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.7072180509567261
+      }, {
+        "activityType": "STILL",
+        "probability": 0.27342410758137703
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.26841924991458654
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2608272014185786
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1990204444155097
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0858794606756419
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.0652359623927623
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.055936991702765226
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03211913863196969
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.024842380662448704
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.005729458280256949
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0046517019654856995
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.077773284651755E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403318290,
+          "lngE7": -37639951
+        }, {
+          "latE7": 403320045,
+          "lngE7": -37650265
+        }, {
+          "latE7": 403313865,
+          "lngE7": -37657039
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 243.47309694810457,
+        "travelMode": "WALK",
+        "confidence": 0.9866834987410602
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 28.002823,
+        "calibratedProbability": 17.940262
+      },
+      "duration": {
+        "startTimestamp": "2021-05-28T09:39:14.215Z",
+        "endTimestamp": "2021-05-31T12:17:58.296Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403298843,
+      "centerLngE7": -37657295,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "locationConfidence": 24.81166,
+        "calibratedProbability": 15.895816
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 13.246786,
+        "calibratedProbability": 8.486674
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 9.065314,
+        "calibratedProbability": 5.807776
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 8.842971,
+        "calibratedProbability": 5.6653295
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 3.1233995,
+        "calibratedProbability": 2.0010343
+      }, {
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 1.8710885,
+        "calibratedProbability": 1.1987299
+      }, {
+        "latitudeE7": 403296666,
+        "longitudeE7": -37657713,
+        "placeId": "ChIJm71Vg4qJQQ0R2xviTQnjc2s",
+        "address": "C. Torrubia, nº2, 28911 Leganés, Madrid, España",
+        "name": "Moda Infantil CHICLE",
+        "locationConfidence": 1.7367773,
+        "calibratedProbability": 1.1126822
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 1.2095457,
+        "calibratedProbability": 0.77490646
+      }, {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 1.1931634,
+        "calibratedProbability": 0.764411
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 21,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403298099,
+        "longitudeE7": -37657120,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403323453,
+        "longitudeE7": -37674126,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T12:17:58.296Z",
+        "endTimestamp": "2021-05-31T13:23:15.737Z"
+      },
+      "distance": 316,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "WALKING",
+        "probability": 88.77877593040466
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.329180717468262
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.160594195127487
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.658421590924263
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.6077006459236145
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.41100988164544106
+      }, {
+        "activityType": "STILL",
+        "probability": 0.39705648086965084
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.37089057732373476
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2332828240469098
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.03913799882866442
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.007776138227200136
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0027870550184161402
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0024876464522094466
+      }, {
+        "activityType": "SAILING",
+        "probability": 8.988211448013317E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.575433365516801E-7
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 91.65355,
+        "calibratedProbability": 90.53485
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T13:23:15.737Z",
+        "endTimestamp": "2021-05-31T16:10:54.308Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403323400,
+      "centerLngE7": -37674092,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403337708,
+        "longitudeE7": -37656691,
+        "placeId": "ChIJbRgAKouJQQ0RQH7IkvqDu5k",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "Universidad Carlos III de Madrid",
+        "locationConfidence": 0.4277971,
+        "calibratedProbability": 0.42257553
+      }, {
+        "latitudeE7": 403297772,
+        "longitudeE7": -37695314,
+        "placeId": "ChIJRzh2_ImJQQ0R88rxleHIh_w",
+        "address": "C. el Charco, 44-46, 28911 Leganés, Madrid, España",
+        "name": "Mercadona",
+        "locationConfidence": 0.12582396,
+        "calibratedProbability": 0.12428819
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 0.039497998,
+        "calibratedProbability": 0.039015897
+      }, {
+        "latitudeE7": 403307938,
+        "longitudeE7": -37658068,
+        "placeId": "ChIJWzXoIyCAb0ARPWzAjbzZO1Y",
+        "locationConfidence": 0.026116457,
+        "calibratedProbability": 0.025797687
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403323453,
+        "longitudeE7": -37674126,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403293043,
+        "longitudeE7": -37664017,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T16:10:54.308Z",
+        "endTimestamp": "2021-05-31T16:18:10.833Z"
+      },
+      "distance": 383,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.72089695930481
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.9896178990602493
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.151491679251194
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.598163902759552
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.40206992998719215
+      }, {
+        "activityType": "STILL",
+        "probability": 0.36635641008615494
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.34629504662007093
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.17768883844837546
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.1746957772411406
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.02886835136450827
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01958250504685566
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.017734097491484135
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0041334711568197235
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002406421845080331
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.7876224944757269E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403322944,
+          "lngE7": -37673110
+        }, {
+          "latE7": 403311233,
+          "lngE7": -37658224
+        }, {
+          "latE7": 403293609,
+          "lngE7": -37663617
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 554.6316874238181,
+        "travelMode": "WALK",
+        "confidence": 0.9635243940859753
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403283311,
+        "longitudeE7": -37664754,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 93.92256,
+        "calibratedProbability": 86.52107
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T16:18:10.833Z",
+        "endTimestamp": "2021-05-31T16:26:46.274Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403283600,
+      "centerLngE7": -37665560,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403251337,
+        "longitudeE7": -37667084,
+        "placeId": "ChIJyyPUaPKLQQ0RqLNg0xtVol0",
+        "address": "C. de Pizarro, 4, 28911 Leganés, Madrid, España",
+        "name": "MIKASA",
+        "locationConfidence": 0.8585073,
+        "calibratedProbability": 0.7908533
+      }, {
+        "latitudeE7": 403297920,
+        "longitudeE7": -37657173,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "locationConfidence": 0.35963252,
+        "calibratedProbability": 0.33129197
+      }, {
+        "latitudeE7": 403281684,
+        "longitudeE7": -37656929,
+        "placeId": "ChIJyxR2aCCKQQ0RG6jT-VGaII0",
+        "address": "Pl. de España, 2, 28911 Leganés, Madrid, España",
+        "name": "Pasaje Comercial Plaza de España",
+        "locationConfidence": 0.31658068,
+        "calibratedProbability": 0.2916328
+      }, {
+        "latitudeE7": 403267649,
+        "longitudeE7": -37657930,
+        "placeId": "ChIJaV-2fC6KQQ0RD-6hkVFGvoE",
+        "address": "Pl. Andalucía, 4, 28911 Leganés, Madrid, España",
+        "name": "Heladerías Verdi Centro",
+        "locationConfidence": 0.25802538,
+        "calibratedProbability": 0.2376919
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403281975,
+        "longitudeE7": -37666596,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403290582,
+        "longitudeE7": -37662731,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T16:26:46.274Z",
+        "endTimestamp": "2021-05-31T16:28:46.254Z"
+      },
+      "distance": 101,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 95.42245268821716
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3617423363029957
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.1787140741944313
+      }, {
+        "activityType": "STILL",
+        "probability": 1.0322384536266327
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.30008985195308924
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.2467046957463026
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.16583073884248734
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.14516845112666488
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.09913998655974865
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.024995830608531833
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.010575797932688147
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006457560084527358
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.004688660555984825
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0012048310964019038
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.3463406778324583E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403282051,
+          "lngE7": -37666587
+        }, {
+          "latE7": 403288879,
+          "lngE7": -37664177
+        }, {
+          "latE7": 403290634,
+          "lngE7": -37662847
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 124.08065772647338,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403298206,
+        "longitudeE7": -37656116,
+        "placeId": "ChIJCXrahIqJQQ0Rjs8m_Y71u6k",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Bar Cafetería Roma",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 33.02843,
+        "calibratedProbability": 34.825634
+      },
+      "duration": {
+        "startTimestamp": "2021-05-31T16:28:46.254Z",
+        "endTimestamp": "2021-06-03T09:46:51.057Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403298191,
+      "centerLngE7": -37657147,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403297920,
+        "longitudeE7": -37657173,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "locationConfidence": 26.94682,
+        "calibratedProbability": 28.413101
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 4.5774198,
+        "calibratedProbability": 4.826495
+      }, {
+        "latitudeE7": 403297348,
+        "longitudeE7": -37655620,
+        "placeId": "ChIJzwWYECCKQQ0ROfxB1EbeyyE",
+        "address": "C. Torrubia, 1, 28911 Leganés, Madrid, España",
+        "name": "Semicolon",
+        "locationConfidence": 2.8037577,
+        "calibratedProbability": 2.956321
+      }, {
+        "latitudeE7": 403290739,
+        "longitudeE7": -37656115,
+        "placeId": "ChIJ1-yTeiCKQQ0RNJbufd91BbY",
+        "address": "Pl. de París, 3, 28911 Leganés, Madrid, España",
+        "name": "FRADE WORKWEAR",
+        "locationConfidence": 1.5917711,
+        "calibratedProbability": 1.6783856
+      }, {
+        "latitudeE7": 403295750,
+        "longitudeE7": -37655149,
+        "placeId": "ChIJXxN6noqJQQ0RizJjzcRgTjk",
+        "address": "C. Torrubia, 4, 28911 Leganés, Madrid, España",
+        "name": "El Chollazo",
+        "locationConfidence": 1.1919849,
+        "calibratedProbability": 1.2568455
+      }, {
+        "latitudeE7": 403293600,
+        "longitudeE7": -37661600,
+        "placeId": "ChIJZ59yfyCKQQ0RC5T9NyjYO4w",
+        "address": "C. Juan Muñoz, 10, 28911 Leganés, Madrid, España",
+        "name": "Farmacia",
+        "locationConfidence": 0.78387165,
+        "calibratedProbability": 0.82652515
+      }, {
+        "latitudeE7": 403307470,
+        "longitudeE7": -37659844,
+        "placeId": "ChIJ6eYXlIqJQQ0R_PDDeb8FVSA",
+        "address": "C. de Butarque, 7, 28911 Leganés, Madrid, España",
+        "name": "La Copistería de Leganés - Beroche SL",
+        "locationConfidence": 0.74624985,
+        "calibratedProbability": 0.78685623
+      }, {
+        "latitudeE7": 403305549,
+        "longitudeE7": -37656900,
+        "placeId": "ChIJ6eYXlIqJQQ0RUnjmW-S8vyo",
+        "address": "C. de Butarque, 14, 28911 Leganés, Madrid, España",
+        "name": "BM Supermercados",
+        "locationConfidence": 0.5573377,
+        "calibratedProbability": 0.5876646
+      }, {
+        "latitudeE7": 403296666,
+        "longitudeE7": -37657713,
+        "placeId": "ChIJm71Vg4qJQQ0R2xviTQnjc2s",
+        "address": "C. Torrubia, nº2, 28911 Leganés, Madrid, España",
+        "name": "Moda Infantil CHICLE",
+        "locationConfidence": 0.4868948,
+        "calibratedProbability": 0.51338863
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,123 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy Preparatory High School",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 93.78164
+      },
+      "duration": {
+        "startTimestamp": "2017-10-10T17:27:00.029Z",
+        "endTimestamp": "2017-10-10T18:07:09.573Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257976538,
+      "centerLngE7": -803751213,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257982560,
+        "longitudeE7": -803767150,
+        "placeId": "ChIJz4WkVre-2YgRHfouTgU3DLA",
+        "address": "2601 NW 112th Ave, Miami, FL 33172, USA",
+        "name": "Doral Academy Charter Middle School",
+        "locationConfidence": 5.841673
+      }, {
+        "latitudeE7": 257979190,
+        "longitudeE7": -803733750,
+        "placeId": "ChIJIQHJzra-2YgRZGowblnSQ54",
+        "address": "10900 NW 27th St, Doral, FL 33172, USA",
+        "name": "Carisam-Samuel Meisel",
+        "locationConfidence": 0.03302591
+      }, {
+        "latitudeE7": 257956599,
+        "longitudeE7": -803750297,
+        "placeId": "ChIJIRUjAre-2YgRw_lDJcG3dD8",
+        "address": "2400 NW 110th Ave, Miami, FL 33172, USA",
+        "name": "Soccer City Miami",
+        "locationConfidence": 0.032347735
+      }, {
+        "latitudeE7": 257964010,
+        "longitudeE7": -803737378,
+        "placeId": "ChIJ4VAwz7a-2YgRAHIXfKG0pzY",
+        "address": "2100 Ponce de Leon PH2, Coral Gables, FL 33134, USA",
+        "name": "Viamericas",
+        "locationConfidence": 0.032025244
+      }, {
+        "latitudeE7": 257988000,
+        "longitudeE7": -803734970,
+        "placeId": "ChIJFSwCMrG-2YgRf0As-_ID1V0",
+        "address": "Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 0.022073928
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRWUOsV-zpyrI",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Millennium Logistics",
+        "locationConfidence": 0.012193872
+      }, {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJEzvoMLe-2YgRZJThhfXdtQA",
+        "address": "2525 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "DORAL COLLEGE",
+        "locationConfidence": 0.011066691
+      }, {
+        "latitudeE7": 257954650,
+        "longitudeE7": -803761640,
+        "placeId": "ChIJsw6FnLe-2YgRNHZr-8Bzye4",
+        "address": "11190 NW 25th St, Miami, FL 33172, USA",
+        "name": "Roca USA Inc. Miami Showroom \u0026 Warehouse",
+        "locationConfidence": 0.010909576
+      }, {
+        "latitudeE7": 257992143,
+        "longitudeE7": -803751922,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.008748124
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257976538,
+        "longitudeE7": -803751213
+      },
+      "endLocation": {
+        "latitudeE7": 257778879,
+        "longitudeE7": -803626660
+      },
+      "duration": {
+        "startTimestamp": "2017-10-10T18:07:09.573Z",
+        "endTimestamp": "2017-11-04T19:16:06Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257789891,
+          "lngE7": -803620837,
+          "accuracyMeters": 22,
+          "timestamp": "2017-11-02T01:02:21.781Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2577.7006736110707
+      }
+    }
+  }]
+}

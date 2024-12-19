@@ -1,0 +1,717 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790173,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.563774
+      },
+      "duration": {
+        "startTimestamp": "2017-03-06T01:52:12.588Z",
+        "endTimestamp": "2017-03-06T04:20:40.197Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257790397,
+      "centerLngE7": -803620759,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.28513503,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJSW1PlC252YgRJJiqNWoLvDg",
+        "address": "10229 NW 9th St Cir, Miami, FL 33172, USA",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.05268359
+      }, {
+        "latitudeE7": 257786463,
+        "longitudeE7": -803628243,
+        "placeId": "ChIJE77CoS252YgR1RnCHsjm-bc",
+        "address": "531 W 29th St, Hialeah, FL 33012, USA",
+        "name": "HAA baseball park",
+        "locationConfidence": 0.037247453
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.015030769
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRqEBhYg-19zY",
+        "address": "10255 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Casa karen",
+        "locationConfidence": 0.0068089073
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.004484678
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRwlMMgHF4Wdo",
+        "address": "10245 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Happy Party Corp",
+        "locationConfidence": 0.0043734806
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0035349724
+      }, {
+        "latitudeE7": 257696190,
+        "longitudeE7": -803444518,
+        "placeId": "ChIJy06qMSC52YgRayGNJmsCOl8",
+        "address": "9204 W Flagler St, Miami, FL 33174, USA",
+        "name": "Firehouse Subs Fountainbleau",
+        "locationConfidence": 0.0030906904
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy Preparatory High School",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 97.509605
+      },
+      "duration": {
+        "startTimestamp": "2017-03-06T11:37:05.175Z",
+        "endTimestamp": "2017-03-06T12:03:15.443Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257982225,
+      "centerLngE7": -803750000,
+      "visitConfidence": 68,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257984062,
+        "longitudeE7": -803764879,
+        "placeId": "ChIJJa5nUbe-2YgRtMUI7BMI4Os",
+        "address": "2601 NW 112th Ave, Doral, FL 33172, USA",
+        "locationConfidence": 1.1930784
+      }, {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJEzvoMLe-2YgRZJThhfXdtQA",
+        "address": "2525 NW 112th Ave, Doral, FL 33172, USA",
+        "name": "DORAL COLLEGE",
+        "locationConfidence": 0.42836207
+      }, {
+        "latitudeE7": 257982560,
+        "longitudeE7": -803767150,
+        "placeId": "ChIJz4WkVre-2YgRHfouTgU3DLA",
+        "address": "2601 NW 112th Ave, Miami, FL 33172, USA",
+        "name": "Doral Academy Charter Middle School",
+        "locationConfidence": 0.42337155
+      }, {
+        "latitudeE7": 257982741,
+        "longitudeE7": -803751162,
+        "placeId": "ChIJ7c_JM7e-2YgRvYBRPC3ZmpQ",
+        "address": "11100 NW 27th St #315, Doral, FL 33172, USA",
+        "name": "Firebird Playhouse",
+        "locationConfidence": 0.09245741,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257992143,
+        "longitudeE7": -803751922,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.04699062
+      }, {
+        "latitudeE7": 257988000,
+        "longitudeE7": -803734970,
+        "placeId": "ChIJFSwCMrG-2YgRf0As-_ID1V0",
+        "address": "Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 0.025272915
+      }, {
+        "latitudeE7": 257956599,
+        "longitudeE7": -803750297,
+        "placeId": "ChIJIRUjAre-2YgRw_lDJcG3dD8",
+        "address": "2400 NW 110th Ave, Miami, FL 33172, USA",
+        "name": "Soccer City Miami",
+        "locationConfidence": 0.023064528
+      }, {
+        "latitudeE7": 257988416,
+        "longitudeE7": -803759236,
+        "placeId": "ChIJk8iBrbC-2YgR-9Lzm4aKs48",
+        "name": "ACD Cargo",
+        "locationConfidence": 0.01865481
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRWUOsV-zpyrI",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Millennium Logistics",
+        "locationConfidence": 0.011285157
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 84,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257982225,
+        "longitudeE7": -803750000
+      },
+      "endLocation": {
+        "latitudeE7": 257789606,
+        "longitudeE7": -803620803
+      },
+      "duration": {
+        "startTimestamp": "2017-03-06T12:03:15.443Z",
+        "endTimestamp": "2017-03-11T18:03:26.334Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257983577,
+          "lngE7": -803742598,
+          "accuracyMeters": 50,
+          "timestamp": "2017-03-06T12:03:15.443Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2553.3211651897186
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790173,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.38889
+      },
+      "duration": {
+        "startTimestamp": "2017-03-11T18:03:26.334Z",
+        "endTimestamp": "2017-03-11T19:39:03.942Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257789606,
+      "centerLngE7": -803620803,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.35073173,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJSW1PlC252YgRJJiqNWoLvDg",
+        "address": "10229 NW 9th St Cir, Miami, FL 33172, USA",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.09004288
+      }, {
+        "latitudeE7": 257786463,
+        "longitudeE7": -803628243,
+        "placeId": "ChIJE77CoS252YgR1RnCHsjm-bc",
+        "address": "531 W 29th St, Hialeah, FL 33012, USA",
+        "name": "HAA baseball park",
+        "locationConfidence": 0.08914435
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.013534385
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRqEBhYg-19zY",
+        "address": "10255 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Casa karen",
+        "locationConfidence": 0.008068002
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.007998408
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.007134133
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRwlMMgHF4Wdo",
+        "address": "10245 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Happy Party Corp",
+        "locationConfidence": 0.0057552615
+      }, {
+        "latitudeE7": 257696190,
+        "longitudeE7": -803444518,
+        "placeId": "ChIJy06qMSC52YgRayGNJmsCOl8",
+        "address": "9204 W Flagler St, Miami, FL 33174, USA",
+        "name": "Firehouse Subs Fountainbleau",
+        "locationConfidence": 0.0035847675
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 90,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257784066,
+        "longitudeE7": -803626449
+      },
+      "endLocation": {
+        "latitudeE7": 257307872,
+        "longitudeE7": -803852999,
+        "placeId": "ChIJQUozs12_2YgRQNrAsLj_dA4",
+        "address": "11750 Southwest 40th Street, Miami, FL 33175, United States",
+        "name": "Kendall Regional Medical Center",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.91399,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-03-18T20:33:52.398Z",
+        "endTimestamp": "2017-03-18T20:58:10.416Z"
+      },
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 88.65052090049255
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.615243449160102
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.925728911628159
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257783355,
+          "lngE7": -803626174
+        }, {
+          "latE7": 257657985,
+          "lngE7": -803608016
+        }, {
+          "latE7": 257488880,
+          "lngE7": -803679199
+        }, {
+          "latE7": 257374076,
+          "lngE7": -803757934
+        }, {
+          "latE7": 257304878,
+          "lngE7": -803864593
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257679200,
+          "lngE7": -803609794,
+          "accuracyMeters": 6,
+          "timestamp": "2017-03-18T20:38:27Z"
+        }, {
+          "latE7": 257355743,
+          "lngE7": -803758062,
+          "accuracyMeters": 4,
+          "timestamp": "2017-03-18T20:50:21Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257307872,
+        "longitudeE7": -803852999,
+        "placeId": "ChIJQUozs12_2YgRQNrAsLj_dA4",
+        "address": "11750 Southwest 40th Street, Miami, FL 33175, United States",
+        "name": "Kendall Regional Medical Center",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.91399,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2017-03-18T20:58:10.416Z",
+        "endTimestamp": "2017-03-18T23:32:11.274Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257307608,
+      "centerLngE7": -803862627,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257310949,
+        "longitudeE7": -803860080,
+        "placeId": "ChIJRb0NsF2_2YgRZVKFTcBWFWY",
+        "address": "11832 Bird Rd, Miami, FL 33175, USA",
+        "name": "Helipad Hospital",
+        "locationConfidence": 0.03157539,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257307897,
+        "longitudeE7": -803853026,
+        "placeId": "ChIJQUozs12_2YgRQNrAsLj_dA4",
+        "address": "11750 SW 40th St, Miami, FL 33175, USA",
+        "name": "Kendall Regional Medical Center: Maternity Suites",
+        "locationConfidence": 0.013469822,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257306824,
+        "longitudeE7": -803855892,
+        "placeId": "ChIJQfqMs12_2YgR2FGf8Z-kksM",
+        "address": "11760 SW 40th St #654, Miami, FL 33175, USA",
+        "name": "Pavilion for Women’s Health OB-GYN",
+        "locationConfidence": 0.0074179843,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257308108,
+        "longitudeE7": -803856019,
+        "placeId": "ChIJ8yUbCF2_2YgRlwbsSYQ7HuU",
+        "address": "11760 SW 40th St #448, Miami, FL 33175, USA",
+        "name": "Gotman Sandra R DPM",
+        "locationConfidence": 0.0044426224,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257309915,
+        "longitudeE7": -803862960,
+        "placeId": "ChIJ5TEcCF2_2YgRQYpp_7h4euA",
+        "address": "11760 SW 40th St Ste 403, Miami, FL 33175, USA",
+        "name": "Dr. Gustavo Banti",
+        "locationConfidence": 0.0016016538,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257307674,
+        "longitudeE7": -803856018,
+        "placeId": "ChIJQfqMs12_2YgRb2GQ0IVMuPw",
+        "address": "11760 SW 40th St #542, Miami, FL 33175, USA",
+        "name": "Pimienta Jorge MD",
+        "locationConfidence": 0.0010409872,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257306823,
+        "longitudeE7": -803855892,
+        "placeId": "ChIJ8yUbCF2_2YgRhPQ0fS6ejGg",
+        "address": "11760 SW 40th St #120, Miami, FL 33175, USA",
+        "name": "South Florida Eye Consultants",
+        "locationConfidence": 9.3052135E-4,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257309800,
+        "longitudeE7": -803853603,
+        "placeId": "ChIJQUozs12_2YgRN4f25uUn2VM",
+        "address": "11750 SW 40th St, Miami, FL 33175, USA",
+        "name": "Kendall Regional Medical Center: Allen Linda S MD",
+        "locationConfidence": 8.37608E-4,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257306823,
+        "longitudeE7": -803855892,
+        "placeId": "ChIJy9EbCF2_2YgRIglAnSBHb1g",
+        "address": "11760 SW 40th St, Miami, FL 33175, USA",
+        "name": "Martinez Dignora DDS",
+        "locationConfidence": 8.339763E-4,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257313461,
+          "lngE7": -803858719,
+          "accuracyMeters": 26,
+          "timestamp": "2017-03-18T20:58:10.416Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 42,
+          "timestamp": "2017-03-18T21:03:37.237Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 28,
+          "timestamp": "2017-03-18T21:05:50.025Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 45,
+          "timestamp": "2017-03-18T21:07:51.228Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T21:32:52.233Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T21:46:57.349Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T21:48:59.284Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T21:55:05.286Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T21:56:10.628Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:05:50.796Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:07:52.267Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:09:54.237Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:12:55.999Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:28:13.393Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:36:35.075Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T22:42:36.074Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 24,
+          "timestamp": "2017-03-18T22:52:12.860Z"
+        }, {
+          "latE7": 257307154,
+          "lngE7": -803862358,
+          "accuracyMeters": 20,
+          "timestamp": "2017-03-18T23:23:56.923Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 158.07643421421233
+      },
+      "locationConfidence": 92,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 257307872,
+        "longitudeE7": -803852999
+      },
+      "endLocation": {
+        "latitudeE7": 257790173,
+        "longitudeE7": -803621621
+      },
+      "duration": {
+        "startTimestamp": "2017-03-18T23:32:11.274Z",
+        "endTimestamp": "2017-03-18T23:52:12.384Z"
+      },
+      "distance": 7471,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 98.07619243302756
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.00959498599805
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.583349135764813
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 257313270,
+          "lngE7": -803853149
+        }, {
+          "latE7": 257461700,
+          "lngE7": -803759536
+        }, {
+          "latE7": 257475776,
+          "lngE7": -803676757
+        }, {
+          "latE7": 257790832,
+          "lngE7": -803621902
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 257475717,
+          "lngE7": -803677996,
+          "accuracyMeters": 68,
+          "timestamp": "2017-03-18T23:42:59.214Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 257790173,
+          "longitudeE7": -803621621
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2017-03-18T23:52:12.384Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257790173,
+        "longitudeE7": -803621621,
+        "placeId": "ChIJZY3CoS252YgRBZxQ8nI2qaI",
+        "address": "10249 NW 9th St Cir, Miami, Miami-Dade, Florida 33172, United States",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 99.686066
+      },
+      "duration": {
+        "startTimestamp": "2017-03-18T23:52:12.384Z",
+        "endTimestamp": "2017-03-20T13:32:25.694Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257789582,
+      "centerLngE7": -803620757,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257789620,
+        "longitudeE7": -803636696,
+        "placeId": "ChIJVW3e_Sy52YgRZ16Im3YwKKc",
+        "address": "10201 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "West Fontaine Condo",
+        "locationConfidence": 0.16194084,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJSW1PlC252YgRJJiqNWoLvDg",
+        "address": "10229 NW 9th St Cir, Miami, FL 33172, USA",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.06274406
+      }, {
+        "latitudeE7": 257786463,
+        "longitudeE7": -803628243,
+        "placeId": "ChIJE77CoS252YgR1RnCHsjm-bc",
+        "address": "531 W 29th St, Hialeah, FL 33012, USA",
+        "name": "HAA baseball park",
+        "locationConfidence": 0.035980187
+      }, {
+        "latitudeE7": 257785390,
+        "longitudeE7": -803606950,
+        "placeId": "ChIJ6xX33S252YgRNP3mzoH2g8I",
+        "address": "10155 NW 9th St Cir #205, Miami, FL 33172, USA",
+        "name": "Las Brisas Condo Associates Inc",
+        "locationConfidence": 0.011566204
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRqEBhYg-19zY",
+        "address": "10255 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Casa karen",
+        "locationConfidence": 0.0054074614
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRwlMMgHF4Wdo",
+        "address": "10245 NW 9th St Cir, Miami, FL 33172, USA",
+        "name": "Happy Party Corp",
+        "locationConfidence": 0.0046897363
+      }, {
+        "latitudeE7": 257786430,
+        "longitudeE7": -803628250,
+        "placeId": "ChIJZY3CoS252YgRLAAvtMLmRi0",
+        "address": "10530 NW 26th St Ste F-202, Doral, FL 33172, USA",
+        "name": "YCC Accounting \u0026 Tax Counseling LLC",
+        "locationConfidence": 0.004428093
+      }, {
+        "latitudeE7": 257785770,
+        "longitudeE7": -803606280,
+        "placeId": "ChIJ6xX33S252YgR-nsRix-cz74",
+        "name": "Tramites de Inmigracion, Notario y Taxes",
+        "locationConfidence": 0.0032662023
+      }, {
+        "latitudeE7": 257696190,
+        "longitudeE7": -803444518,
+        "placeId": "ChIJy06qMSC52YgRayGNJmsCOl8",
+        "address": "9204 W Flagler St, Miami, FL 33174, USA",
+        "name": "Firehouse Subs Fountainbleau",
+        "locationConfidence": 0.0024557877
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 91,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

@@ -1,0 +1,205 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404187105,
+        "longitudeE7": -36975524,
+        "placeId": "ChIJKx77DIQoQg0R_gppYNKr4c0",
+        "address": "C. de Alcalá, 39, Centro, 28014 Madrid, España",
+        "name": "Metropolis Building",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 27.234577,
+        "calibratedProbability": 10.928783
+      },
+      "duration": {
+        "startTimestamp": "2023-11-11T18:09:57.976Z",
+        "endTimestamp": "2023-11-11T18:11:40.627Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 404182411,
+      "centerLngE7": -36981297,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404183042,
+        "longitudeE7": -36965333,
+        "placeId": "ChIJ35PCcoQoQg0RGhxNE3_2Iak",
+        "address": "C. de Alcalá, 42, Centro, 28014 Madrid, España",
+        "name": "Círculo de Bellas Artes",
+        "locationConfidence": 27.226036,
+        "calibratedProbability": 10.925356
+      }, {
+        "latitudeE7": 404178954,
+        "longitudeE7": -36984568,
+        "placeId": "ChIJn4d4TYEoQg0Rxq0XlXoT_nw",
+        "address": "Centro, 28014 Madrid, España",
+        "name": "Sol - Sevilla",
+        "locationConfidence": 15.549241,
+        "calibratedProbability": 6.239652
+      }, {
+        "latitudeE7": 404179081,
+        "longitudeE7": -36993395,
+        "placeId": "ChIJ4QgoNYEoQg0RWruWQ3Ec1dI",
+        "address": "Centro, 28014 Madrid, España",
+        "name": "Sevilla",
+        "locationConfidence": 14.9253235,
+        "calibratedProbability": 5.9892845
+      }, {
+        "latitudeE7": 404182348,
+        "longitudeE7": -36986351,
+        "placeId": "ChIJkeoBeQ0pQg0RLC_tr-Gx3Aw",
+        "address": "C. de Alcalá, 27, Centro, 28014 Madrid, España",
+        "name": "Aparcamiento Alsepark, zona Calle Alcalá",
+        "locationConfidence": 5.783187,
+        "calibratedProbability": 2.3206968
+      }, {
+        "latitudeE7": 404177414,
+        "longitudeE7": -36990771,
+        "placeId": "ChIJC5AOSoEoQg0RLg_ZRyjsdXU",
+        "address": "C. de Alcalá, 20, Centro, 28014 Madrid, España",
+        "name": "Cofidis Alcázar Theater",
+        "locationConfidence": 2.9794497,
+        "calibratedProbability": 1.1956037
+      }, {
+        "latitudeE7": 404183502,
+        "longitudeE7": -36990969,
+        "placeId": "ChIJ--wQtYYoQg0RnJkwi0DghG4",
+        "address": "C. de Alcalá, 25, Centro, 28014 Madrid, España",
+        "name": "Church of the Calatravas",
+        "locationConfidence": 2.3267632,
+        "calibratedProbability": 0.9336914
+      }, {
+        "latitudeE7": 404184723,
+        "longitudeE7": -36982279,
+        "placeId": "ChIJ6ZnArYYoQg0RX9O0eI-Y2L8",
+        "address": "C. de Alcalá, 31, Centro, 28014 Madrid, España",
+        "name": "Sala Alcala 31",
+        "locationConfidence": 1.4479107,
+        "calibratedProbability": 0.5810225
+      }, {
+        "latitudeE7": 404176415,
+        "longitudeE7": -36991760,
+        "placeId": "ChIJ_-sKNoEoQg0RV8gYChLK_8o",
+        "address": "C. de Alcalá, 18, Centro, 28014 Madrid, España",
+        "name": "McDonald\u0027s",
+        "locationConfidence": 0.79783696,
+        "calibratedProbability": 0.32015872
+      }, {
+        "latitudeE7": 404192969,
+        "longitudeE7": -36988632,
+        "placeId": "ChIJG74Dny0pQg0ReYW03I5KcBw",
+        "address": "Gran Vía, 7, Centro, 28013 Madrid, España",
+        "name": "Honest Greens Gran Via 7",
+        "locationConfidence": 0.67733985,
+        "calibratedProbability": 0.27180523
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 20,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404183248,
+        "longitudeE7": -36979828,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404150085,
+        "longitudeE7": -36949683,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2023-11-11T18:11:40.627Z",
+        "endTimestamp": "2023-11-11T18:23:37.721Z"
+      },
+      "distance": 1079,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 47.12707996368408
+      }, {
+        "activityType": "STILL",
+        "probability": 44.68613862991333
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.227587580680847
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.0965210385620594
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.007307879626751
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.5291859619319439
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4246505443006754
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.41040582582354546
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.18561198376119137
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.17376354662701488
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.06442560697905719
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03030912484973669
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.024122532340697944
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.012858645641244948
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.6418950938023045E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 404183235,
+          "lngE7": -36979916
+        }, {
+          "latE7": 404185981,
+          "lngE7": -36964614
+        }, {
+          "latE7": 404186820,
+          "lngE7": -36957297
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJXzJ0D4QoQg0RkQHgqGeDjQk",
+          "duration": "26s"
+        }, {
+          "placeId": "ChIJx3MGDYQoQg0RubRLsQ7mfR8",
+          "duration": "22s"
+        }, {
+          "placeId": "ChIJxb02DYQoQg0R8YAivAbLmJk",
+          "duration": "48s"
+        }, {
+          "placeId": "ChIJ3_jfcYQoQg0RpEGGCsqUJzE",
+          "duration": "89s"
+        }, {
+          "placeId": "ChIJ64OSeIQoQg0RDlQ9Qw2ad9g",
+          "duration": "37s"
+        }],
+        "distanceMeters": 235.06506507732328,
+        "travelMode": "WALK",
+        "confidence": 0.9991739987515559
+      }
+    }
+  }]
+}

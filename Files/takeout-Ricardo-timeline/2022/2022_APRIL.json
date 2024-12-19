@@ -1,0 +1,676 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403295912,
+        "longitudeE7": -37650639,
+        "placeId": "ChIJLWt1n4qJQQ0RASaJPbg-32w",
+        "address": "C. Torrubia, 5, 28911 Leganés, Madrid, España",
+        "name": "ELECTRÓNICA JUPI",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 60.256077,
+        "calibratedProbability": 66.91451
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T05:40:42.157Z",
+        "endTimestamp": "2022-04-05T06:17:27.976Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 403297420,
+      "centerLngE7": -37656827,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403313103,
+        "longitudeE7": -37679500,
+        "placeId": "ChIJ7ysKNIqJQQ0RkhRjou-HA3w",
+        "address": "Av. de la Universidad, 31, 28911 Leganés, Madrid, España",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 6.130559,
+        "calibratedProbability": 6.808
+      }, {
+        "latitudeE7": 403324367,
+        "longitudeE7": -37651100,
+        "placeId": "ChIJW2vAHIuJQQ0R-Ba1mNCtDK8",
+        "address": "Av. de la Universidad, 30, 28911 Leganés, Madrid, España",
+        "name": "University Carlos III of Madrid | Leganés Campus",
+        "locationConfidence": 4.3407335,
+        "calibratedProbability": 4.8203945
+      }, {
+        "latitudeE7": 403307470,
+        "longitudeE7": -37659844,
+        "placeId": "ChIJ6eYXlIqJQQ0R_PDDeb8FVSA",
+        "address": "C. de Butarque, 7, 28911 Leganés, Madrid, España",
+        "name": "La Copistería de Leganés - Beroche SL",
+        "locationConfidence": 0.9366946,
+        "calibratedProbability": 1.0402015
+      }, {
+        "latitudeE7": 403283188,
+        "longitudeE7": -37664854,
+        "placeId": "ChIJzcJbrOiLQQ0RWNa8I2ZhQ-M",
+        "address": "Pl. Fuente Honda, 10, 28911 Leganés, Madrid, España",
+        "name": "Carrefour Market",
+        "locationConfidence": 0.83989555,
+        "calibratedProbability": 0.932706
+      }, {
+        "latitudeE7": 403292053,
+        "longitudeE7": -37659723,
+        "placeId": "ChIJuekheSCKQQ0RIwu3zyQOBKg",
+        "address": "C. Juan Muñoz, 6, 28911 Leganés, Madrid, España",
+        "name": "Panadería Granier",
+        "locationConfidence": 0.817886,
+        "calibratedProbability": 0.90826434
+      }, {
+        "latitudeE7": 403303089,
+        "longitudeE7": -37628334,
+        "placeId": "ChIJp0_DQ_WJQQ0RQZKVsZlNNcg",
+        "address": "C. Nápoles, 14, 28912 Leganés, Madrid, España",
+        "name": "Lacolada Lavanderia Autoservico",
+        "locationConfidence": 0.7530107,
+        "calibratedProbability": 0.83622015
+      }, {
+        "latitudeE7": 403311110,
+        "longitudeE7": -37662758,
+        "placeId": "ChIJTwlx7IqJQQ0Rv8OuV6Fk4o4",
+        "address": "Av. de la Universidad, 27, 28911 Leganés, Madrid, España",
+        "name": "Leganés Police Station",
+        "locationConfidence": 0.67362237,
+        "calibratedProbability": 0.7480592
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403288717,
+        "longitudeE7": -37664632,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 403294709,
+        "longitudeE7": -37704004,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T06:17:27.976Z",
+        "endTimestamp": "2022-04-05T06:23:37.024Z"
+      },
+      "distance": 414,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.35906100273132
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.3382922410964966
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.560384012758732
+      }, {
+        "activityType": "STILL",
+        "probability": 0.7398062851279974
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5037228111177683
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3885652869939804
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.35470977891236544
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.33612288534641266
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.198878301307559
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.14447594294324517
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.03569668915588409
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02776298497337848
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010108095011673868
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0024111004677251913
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.589416243064079E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 403288612,
+          "lngE7": -37664434
+        }, {
+          "latE7": 403288574,
+          "lngE7": -37668023
+        }, {
+          "latE7": 403295059,
+          "lngE7": -37704792
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 486.75387304107704,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 403286349,
+        "longitudeE7": -37711552,
+        "placeId": "ChIJF-jagSeKQQ0RuymcxlyPSNs",
+        "address": "28911 Leganés, Madrid, España",
+        "name": "Leganés",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 93.78311,
+        "calibratedProbability": 83.21165
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T06:23:37.024Z",
+        "endTimestamp": "2022-04-05T06:37:55.294Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 403293611,
+      "centerLngE7": -37712400,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 403288300,
+        "longitudeE7": -37712982,
+        "placeId": "ChIJ2Qm5gSeKQQ0RwVYEVBkCvWk",
+        "address": "C. Virgen del Camino, 5, 28911 Leganés, Madrid, España",
+        "name": "Leganés Central",
+        "locationConfidence": 4.4247866,
+        "calibratedProbability": 3.9260137
+      }, {
+        "latitudeE7": 403295749,
+        "longitudeE7": -37720525,
+        "placeId": "ChIJtRA09wiJQQ0RKLRSz5wFyj0",
+        "address": "Calle del Cobre, 12B, 28914 Leganés, Madrid, España",
+        "name": "Parking Renfe Leganés",
+        "locationConfidence": 0.3542235,
+        "calibratedProbability": 0.31429455
+      }, {
+        "latitudeE7": 403297772,
+        "longitudeE7": -37695314,
+        "placeId": "ChIJRzh2_ImJQQ0R88rxleHIh_w",
+        "address": "C. el Charco, 44-46, 28911 Leganés, Madrid, España",
+        "name": "Mercadona",
+        "locationConfidence": 0.25318858,
+        "calibratedProbability": 0.22464854
+      }, {
+        "latitudeE7": 403289986,
+        "longitudeE7": -37707090,
+        "placeId": "ChIJf2YeYyeKQQ0RnesK7jSc_0g",
+        "address": "28911 Leganés, Madrid, España",
+        "name": "Santa Rosa-Est.Leganés Central",
+        "locationConfidence": 0.13782151,
+        "calibratedProbability": 0.12228593
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 403294275,
+        "longitudeE7": -37715079,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404223379,
+        "longitudeE7": -36687775,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T06:37:55.294Z",
+        "endTimestamp": "2022-04-05T07:12:38.244Z"
+      },
+      "distance": 13872,
+      "activityType": "IN_TRAIN",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_TRAIN",
+        "probability": 71.04151844978333
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 10.249391943216324
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.141893476247787
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.689119592308998
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.4934845268726349
+      }, {
+        "activityType": "STILL",
+        "probability": 1.4238457195460796
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7534399628639221
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.55849296040833
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.41773091070353985
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07972275489009917
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.056845153449103236
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.056774524273350835
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.036447998718358576
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0012928807336720638
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.995332313408653E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 403961842,
+          "lngE7": -36778795,
+          "accuracyMeters": 21,
+          "timestamp": "2022-04-05T06:58:18.833Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 13872.69983965967
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404223379,
+        "longitudeE7": -36687775,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404200701,
+        "longitudeE7": -36729312,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T07:12:38.244Z",
+        "endTimestamp": "2022-04-05T07:26:07.243Z"
+      },
+      "distance": 1424,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 75.72851777076721
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 7.9231008887290955
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.542466625571251
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 3.8969118148088455
+      }, {
+        "activityType": "STILL",
+        "probability": 2.8407935053110123
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.7862314134836197
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.7289702538400888
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.5591956898570061
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3451436758041382
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.33856744412332773
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.2238722052425146
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.04916053730994463
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.029077252838760614
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007962404197314754
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.1339047268375E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 404223327,
+          "lngE7": -36686923
+        }, {
+          "latE7": 404213180,
+          "lngE7": -36691932
+        }, {
+          "latE7": 404211273,
+          "lngE7": -36693298
+        }, {
+          "latE7": 404229545,
+          "lngE7": -36683208
+        }, {
+          "latE7": 404230880,
+          "lngE7": -36688358
+        }, {
+          "latE7": 404226264,
+          "lngE7": -36690833
+        }, {
+          "latE7": 404200096,
+          "lngE7": -36694455
+        }, {
+          "latE7": 404201469,
+          "lngE7": -36723947
+        }, {
+          "latE7": 404201698,
+          "lngE7": -36728653
+        }, {
+          "latE7": 404192237,
+          "lngE7": -36729600
+        }, {
+          "latE7": 404191665,
+          "lngE7": -36729466
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1833.6702810197241,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404212265,
+          "lngE7": -36698596,
+          "accuracyMeters": 45,
+          "timestamp": "2022-04-05T07:16:25.173Z"
+        }, {
+          "latE7": 404230080,
+          "lngE7": -36683161,
+          "accuracyMeters": 29,
+          "timestamp": "2022-04-05T07:17:05.381Z"
+        }, {
+          "latE7": 404226379,
+          "lngE7": -36692948,
+          "accuracyMeters": 36,
+          "timestamp": "2022-04-05T07:17:45.380Z"
+        }, {
+          "latE7": 404199066,
+          "lngE7": -36690941,
+          "accuracyMeters": 24,
+          "timestamp": "2022-04-05T07:22:26.692Z"
+        }, {
+          "latE7": 404201775,
+          "lngE7": -36730223,
+          "accuracyMeters": 28,
+          "timestamp": "2022-04-05T07:25:17.163Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 404195247,
+        "longitudeE7": -36713438,
+        "placeId": "ChIJt4hi0q4oQg0R_eFBQxH-0_M",
+        "address": "C. del Dr. Esquerdo, 46, Retiro, 28007 Madrid, España",
+        "name": "Gregorio Marañón Hospital",
+        "sourceInfo": {
+          "deviceTag": 348812709
+        },
+        "locationConfidence": 93.54944,
+        "calibratedProbability": 85.05753
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T07:26:07.243Z",
+        "endTimestamp": "2022-04-05T11:32:39.812Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 404191282,
+      "centerLngE7": -36727935,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 404182990,
+        "longitudeE7": -36733320,
+        "placeId": "ChIJa-ExDqYoQg0RvHSHMDKhUUw",
+        "address": "C. de Ibiza, 41, Retiro, 28009 Madrid, España",
+        "name": "Rodilla",
+        "locationConfidence": 0.84194505,
+        "calibratedProbability": 0.7655179
+      }, {
+        "latitudeE7": 404194157,
+        "longitudeE7": -36732513,
+        "placeId": "ChIJbdyr5aUoQg0RUV1PbKj2VXA",
+        "address": "C. de Menorca, 49, Retiro, 28009 Madrid, España",
+        "name": "Juliettas",
+        "locationConfidence": 0.69571656,
+        "calibratedProbability": 0.6325632
+      }, {
+        "latitudeE7": 404188456,
+        "longitudeE7": -36731504,
+        "placeId": "ChIJsU-xSzcpQg0R_UQCmLoHFdc",
+        "address": "C. de Máiquez, 36, 1ºD, Retiro, 28009 Madrid, España",
+        "name": "Dr. David López - Psiquiatra | menteAmente",
+        "locationConfidence": 0.28636864,
+        "calibratedProbability": 0.26037365
+      }, {
+        "latitudeE7": 404178685,
+        "longitudeE7": -36732409,
+        "placeId": "ChIJk6QeF6YoQg0RO9Vst9EJWys",
+        "address": "C. de Máiquez, 44, Retiro, 28009 Madrid, España",
+        "name": "Carrefour Express",
+        "locationConfidence": 0.26238587,
+        "calibratedProbability": 0.23856792
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404200701,
+          "lngE7": -36729312,
+          "accuracyMeters": 20,
+          "timestamp": "2022-04-05T07:26:07.243Z"
+        }, {
+          "latE7": 404191578,
+          "lngE7": -36729886,
+          "accuracyMeters": 15,
+          "timestamp": "2022-04-05T07:27:58.733Z"
+        }, {
+          "latE7": 404184461,
+          "lngE7": -36731127,
+          "accuracyMeters": 19,
+          "timestamp": "2022-04-05T07:28:40.272Z"
+        }, {
+          "latE7": 404183133,
+          "lngE7": -36731485,
+          "accuracyMeters": 13,
+          "timestamp": "2022-04-05T07:29:42.886Z"
+        }, {
+          "latE7": 404183925,
+          "lngE7": -36731645,
+          "accuracyMeters": 12,
+          "timestamp": "2022-04-05T07:34:07.719Z"
+        }, {
+          "latE7": 404183513,
+          "lngE7": -36731434,
+          "accuracyMeters": 12,
+          "timestamp": "2022-04-05T07:36:07.949Z"
+        }, {
+          "latE7": 404184212,
+          "lngE7": -36731352,
+          "accuracyMeters": 16,
+          "timestamp": "2022-04-05T07:41:43.637Z"
+        }, {
+          "latE7": 404192804,
+          "lngE7": -36730896,
+          "accuracyMeters": 11,
+          "timestamp": "2022-04-05T07:45:46.408Z"
+        }, {
+          "latE7": 404191269,
+          "lngE7": -36729639,
+          "accuracyMeters": 15,
+          "timestamp": "2022-04-05T08:02:04.435Z"
+        }, {
+          "latE7": 404190830,
+          "lngE7": -36728463,
+          "accuracyMeters": 17,
+          "timestamp": "2022-04-05T08:04:04.477Z"
+        }, {
+          "latE7": 404190840,
+          "lngE7": -36727257,
+          "accuracyMeters": 19,
+          "timestamp": "2022-04-05T08:12:08.377Z"
+        }, {
+          "latE7": 404190274,
+          "lngE7": -36728001,
+          "accuracyMeters": 17,
+          "timestamp": "2022-04-05T08:14:08.601Z"
+        }, {
+          "latE7": 404190710,
+          "lngE7": -36727320,
+          "accuracyMeters": 19,
+          "timestamp": "2022-04-05T08:16:09.526Z"
+        }, {
+          "latE7": 404202582,
+          "lngE7": -36729136,
+          "accuracyMeters": 87,
+          "timestamp": "2022-04-05T11:28:51.475Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 538.9106767935363
+      },
+      "locationConfidence": 79,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 404190826,
+        "longitudeE7": -36727276,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 404077972,
+        "longitudeE7": -36700450,
+        "sourceInfo": {
+          "deviceTag": 348812709
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-04-05T11:32:39.812Z",
+        "endTimestamp": "2022-04-05T11:43:13.837Z"
+      },
+      "distance": 2123,
+      "activityType": "IN_SUBWAY",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 59.3919038772583
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.60892879962921
+      }, {
+        "activityType": "STILL",
+        "probability": 5.615808069705963
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 4.304191097617149
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 3.9948713034391403
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 3.442465513944626
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.7018143087625504
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.4674233961850405
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1974076498299837
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.18076652195304632
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05771356518380344
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.015873342636041343
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.010757991549326107
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 0.01005363228614442
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.4065735715339542E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 404214821,
+          "lngE7": -36691707,
+          "accuracyMeters": 19,
+          "timestamp": "2022-04-05T11:33:48.614Z"
+        }, {
+          "latE7": 404222082,
+          "lngE7": -36688192,
+          "accuracyMeters": 24,
+          "timestamp": "2022-04-05T11:38:40.980Z"
+        }, {
+          "latE7": 404077600,
+          "lngE7": -36700395,
+          "accuracyMeters": 26,
+          "timestamp": "2022-04-05T11:42:58.770Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2107.338078325294
+      }
+    }
+  }]
+}

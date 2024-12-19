@@ -1,0 +1,92 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 257979530,
+        "longitudeE7": -803751700,
+        "placeId": "ChIJz4WkVre-2YgRqjaWV9mcYPI",
+        "address": "11100 NW 27th Street, Doral, FL 33172, United States",
+        "name": "Doral Academy Preparatory High School",
+        "sourceInfo": {
+          "deviceTag": 1103124394
+        },
+        "locationConfidence": 98.79756
+      },
+      "duration": {
+        "startTimestamp": "2017-09-28T14:43:46.757Z",
+        "endTimestamp": "2017-09-28T14:54:27.058Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 257982820,
+      "centerLngE7": -803742280,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 257982560,
+        "longitudeE7": -803767150,
+        "placeId": "ChIJz4WkVre-2YgRHfouTgU3DLA",
+        "address": "2601 NW 112th Ave, Miami, FL 33172, USA",
+        "name": "Doral Academy Charter Middle School",
+        "locationConfidence": 0.3463439
+      }, {
+        "latitudeE7": 257988000,
+        "longitudeE7": -803734970,
+        "placeId": "ChIJFSwCMrG-2YgRf0As-_ID1V0",
+        "address": "Doral, FL 33172, USA",
+        "name": "Doral Academy High School",
+        "locationConfidence": 0.19036977
+      }, {
+        "latitudeE7": 257979190,
+        "longitudeE7": -803733750,
+        "placeId": "ChIJIQHJzra-2YgRZGowblnSQ54",
+        "address": "10900 NW 27th St, Doral, FL 33172, USA",
+        "name": "Carisam-Samuel Meisel",
+        "locationConfidence": 0.1773745
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJj5h4hUiw2YgRWUOsV-zpyrI",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Millennium Logistics",
+        "locationConfidence": 0.098013505
+      }, {
+        "latitudeE7": 257992143,
+        "longitudeE7": -803751922,
+        "placeId": "ChIJk8iBrbC-2YgRLCfOY5M-Vag",
+        "address": "11091 NW 27th St #100, Doral, FL 33172, USA",
+        "name": "Diamonette Party Rental",
+        "locationConfidence": 0.030285023
+      }, {
+        "latitudeE7": 257979550,
+        "longitudeE7": -803732040,
+        "placeId": "ChIJIQHJzra-2YgRQd14f8vNk0c",
+        "name": "Carisam-Samuel Meisel, Fl - Crossroads, Inc",
+        "locationConfidence": 0.019457927
+      }, {
+        "latitudeE7": 257956599,
+        "longitudeE7": -803750297,
+        "placeId": "ChIJIRUjAre-2YgRw_lDJcG3dD8",
+        "address": "2400 NW 110th Ave, Miami, FL 33172, USA",
+        "name": "Soccer City Miami",
+        "locationConfidence": 0.016153047
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750489,
+        "placeId": "ChIJM2F9xbC-2YgRDLzOT4DGNN0",
+        "address": "Downtown Doral, 8350 NW 52nd Terrace Suite 110 301 Ste, Miami, FL 33166, USA",
+        "name": "Leman USA, Inc",
+        "locationConfidence": 0.015334093
+      }, {
+        "latitudeE7": 257992810,
+        "longitudeE7": -803750490,
+        "placeId": "ChIJM2F9xbC-2YgRcnPhHw64OgM",
+        "address": "10925 NW 27th St #201, Doral, FL 33172, USA",
+        "name": "Air-Sea Forwarders Inc",
+        "locationConfidence": 0.013236911
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 89,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
